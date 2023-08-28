@@ -1,0 +1,348 @@
+
+?MyWarehouse.TestData.Samples.SamplePartners.GetSamplePartners()X
+NC:\Users\csingare\Desktop\MyWarehouse\src\SampleData\Samples\SamplePartners.cs
+" 
+(3"0*õH
+0 8(UZX
+ :(	(
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>q
+o
+ ( 
+
+%1void")System.Collections.Generic.List<T>.List()*,*
+(
+%0"System.Collections.Generic.List<T>\Z
+ (S)
+%2#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.AddressÔ
+Ñ
+ ($
+
+%3void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*-+
+)
+%2#MyWarehouse.Domain.Partners.Address*
+1 Weyland Way*	
+Tokyo*	
+Japan*
+
+100-6007\Z
+ ()
+%4#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerì
+é
+ (
+
+%5void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*-+
+)
+%4#MyWarehouse.Domain.Partners.Partner*
+Weyland-Yutani Corp*-+
+)
+%2#MyWarehouse.Domain.Partners.Address\Z
+ (W)
+%6#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.AddressØ
+Õ
+ ($
+
+%7void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*-+
+)
+%6#MyWarehouse.Domain.Partners.Address*
+One Microsoft Way*	
+Redmond*	
+USA*
+
+WA 98052\Z
+ ()
+%8#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerâ
+ß
+ (
+
+%9void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*-+
+)
+%8#MyWarehouse.Domain.Partners.Partner*
+	Microsoft*-+
+)
+%6#MyWarehouse.Domain.Partners.Address][
+ (S*
+%10#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.AddressÖ
+Ó
+ ($
+%11void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%10#MyWarehouse.Domain.Partners.Address*
+2 Arboretum Bay*	
+Talos I*	
+China*
+
+TAB2][
+ (*
+%12#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerð
+í
+ (
+%13void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%12#MyWarehouse.Domain.Partners.Partner*
+TranStar Corporation*.,
+*
+%10#MyWarehouse.Domain.Partners.Address][
+ (\*
+%14#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.Addressß
+Ü
+ ($
+%15void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%14#MyWarehouse.Domain.Partners.Address*
+18144 El Camino Real*
+	Sunnyvale*	
+USA*
+
+CA 93960][
+ (*
+%16#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerí
+ê
+ (
+%17void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%16#MyWarehouse.Domain.Partners.Partner*
+Cyberdyne Systems*.,
+*
+%14#MyWarehouse.Domain.Partners.Address][
+   (^*
+%18#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.Addressá
+Þ
+   ($
+%19void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%18#MyWarehouse.Domain.Partners.Address*
+1 Humans Are Data Way*
+
+Serverside*	
+USA*
+
+CA 95960][
+ !(*
+%20#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerä
+á
+ (
+%21void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%20#MyWarehouse.Domain.Partners.Partner*
+
+Darkbook*.,
+*
+%18#MyWarehouse.Domain.Partners.Address][
+$ $(V*
+%22#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.AddressÙ
+Ö
+$ $($
+%23void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%22#MyWarehouse.Domain.Partners.Address*
+126 Frozen Way*
+	Palo Alto*	
+USA*
+
+CA 94304][
+" %(*
+%24#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerì
+é
+" "(
+%25void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%24#MyWarehouse.Domain.Partners.Partner*
+Tesla Cryogenics*.,
+*
+%22#MyWarehouse.Domain.Partners.Address][
+( ((Y*
+%26#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.AddressÜ
+Ù
+( (($
+%27void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%26#MyWarehouse.Domain.Partners.Address*
+1 Blue Sun HQ*
+New Cardiff*
+	Australia*
+
+2020][
+& )(*
+%28#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerð
+í
+& &(
+%29void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%28#MyWarehouse.Domain.Partners.Partner*
+Blue Sun Corporation*.,
+*
+%26#MyWarehouse.Domain.Partners.Address][
+, ,(a*
+%30#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.Addressä
+á
+, ,($
+%31void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%30#MyWarehouse.Domain.Partners.Address*
+94 Propellant Boulevard*
+	Core York*	
+USA*
+
+SPRC-D92F4][
+* -(*
+%32#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partneró
+ð
+* *(
+%33void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%32#MyWarehouse.Domain.Partners.Partner*
+Spacely Space Sprockets*.,
+*
+%30#MyWarehouse.Domain.Partners.Address][
+0 0(R*
+%34#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.AddressÕ
+Ò
+0 0($
+%35void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%34#MyWarehouse.Domain.Partners.Address*
+R. do Rossio 1*
+
+Madrid*	
+Spain*	
+28320][
+. 1(*
+%36#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerô
+ñ
+. .(
+%37void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%36#MyWarehouse.Domain.Partners.Partner*
+Yoyodyne Propulsion Sys.*.,
+*
+%34#MyWarehouse.Domain.Partners.Address][
+4 4(b*
+%38#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.Addresså
+â
+4 4($
+%39void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%38#MyWarehouse.Domain.Partners.Address*
+Mint Park Woodway Lane*
+Leicestershire*
+UK*
+
+LE17 5FB][
+2 5(*
+%40#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerä
+á
+2 2(
+%41void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%40#MyWarehouse.Domain.Partners.Partner*
+
+Virtucon*.,
+*
+%38#MyWarehouse.Domain.Partners.Address][
+8 8(V*
+%42#MyWarehouse.Domain.Partners.Address"#MyWarehouse.Domain.Partners.AddressÙ
+Ö
+8 8($
+%43void"KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)*.,
+*
+%42#MyWarehouse.Domain.Partners.Address*
+8 Nexus Center*
+Los Angeles*	
+USA*
+
+NE/444][
+6 9(*
+%44#MyWarehouse.Domain.Partners.Partner"#MyWarehouse.Domain.Partners.Partnerè
+å
+6 6(
+%45void"XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)*.,
+*
+%44#MyWarehouse.Domain.Partners.Partner*
+Tyrell Corp.*.,
+*
+%42#MyWarehouse.Domain.Partners.Address©
+¦
+ (
+%46void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*-+
+)
+%4#MyWarehouse.Domain.Partners.Partner©
+¦
+ (
+%47void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*-+
+)
+%8#MyWarehouse.Domain.Partners.Partnerª
+§
+ (
+%48void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%12#MyWarehouse.Domain.Partners.Partnerª
+§
+ (
+%49void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%16#MyWarehouse.Domain.Partners.Partnerª
+§
+ !(
+%50void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%20#MyWarehouse.Domain.Partners.Partnerª
+§
+" %(
+%51void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%24#MyWarehouse.Domain.Partners.Partnerª
+§
+& )(
+%52void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%28#MyWarehouse.Domain.Partners.Partnerª
+§
+* -(
+%53void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%32#MyWarehouse.Domain.Partners.Partnerª
+§
+. 1(
+%54void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%36#MyWarehouse.Domain.Partners.Partnerª
+§
+2 5(
+%55void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%40#MyWarehouse.Domain.Partners.Partnerª
+§
+6 9(
+%56void"0System.Collections.Generic.ICollection<T>.Add(T)*,*
+(
+%0"System.Collections.Generic.List<T>*.,
+*
+%44#MyWarehouse.Domain.Partners.Partner"6
+ :(
+*
+(
+%0"System.Collections.Generic.List<T>*.
+1; ;("
+; ;(
+implicit returnB/"-
++MyWarehouse.TestData.Samples.SamplePartners

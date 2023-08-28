@@ -1,0 +1,9 @@
+ù
+MyWarehouse.WebApi.Startupobjectø
+lStartup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‡MyWarehouse.WebApi.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)»
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)iMyWarehouse.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)•
+;Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder)VMyWarehouse.WebApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder)A
+Configuration.get,MyWarehouse.WebApi.Startup.Configuration.getA
+Configuration.set,MyWarehouse.WebApi.Startup.Configuration.set=
+Environment.get*MyWarehouse.WebApi.Startup.Environment.get=
+Environment.set*MyWarehouse.WebApi.Startup.Environment.set

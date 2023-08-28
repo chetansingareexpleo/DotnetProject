@@ -1,0 +1,23 @@
+
+¼MyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionsListQueryHandler.GetTransactionsListQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)|
+rC:\Users\csingare\Desktop\MyWarehouse\src\Application\Transactions\GetTransactionsList\GetTransactionsListQuery.cs (*"1*
+1$ ($*
+0*í
+0 (#›
+˜
+ (#¯Z
+XMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionsListQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*TR
+P
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"¿
+ (#²*¯Z
+XMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionsListQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork*.
+2$ ($"
+# ($
+implicit return:\
++ (AP
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkB\Z
+XMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionsListQueryHandler

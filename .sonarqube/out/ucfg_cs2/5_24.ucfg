@@ -1,0 +1,35 @@
+
+‰MyWarehouse.Infrastructure.Authentication.Core.Services.UserService.UserService(Microsoft.AspNetCore.Identity.UserManager<MyWarehouse.Infrastructure.Identity.Model.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<MyWarehouse.Infrastructure.Identity.Model.ApplicationUser>, MyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\Core\Services\UserService.cs ("1*
+1 (*
+0*˚
+0 ($‰
+·
+ ("âE
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserService"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*CA
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>Ï
+È
+ (&çE
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserService"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*GE
+C
+signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>ê
+ç
+ ($üE
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserService"V
+_tokenServiceEMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService"__id*YW
+U
+tokenServiceEMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService*
+2*.
+2 ("
+ (
+implicit return:K
+ (??
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:O
+A (mC
+signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>:b
+	o (âU
+tokenServiceEMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenServiceBGE
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserService

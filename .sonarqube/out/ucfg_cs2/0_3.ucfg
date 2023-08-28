@@ -1,0 +1,27 @@
+
+JMyWarehouse.Domain.Common.ValueObjects.Money.Currency.GetAllCurrencies.get`
+VC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Currency.cs-! -(1"0*è
+0. .(4‚
+ﬂ
+. .(B
+%0<System.Collections.Generic.IReadOnlyDictionary<TKey, TValue>"__id*àÖ*Ç7
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency"G
+_lookup<System.Collections.Generic.IReadOnlyDictionary<TKey, TValue>Ø
+¨
+. .(5/
+%1)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*FD
+B
+%0<System.Collections.Generic.IReadOnlyDictionary<TKey, TValue>*
+""„
+‡
+. .(>(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*31
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+1*.
+1.? .(?"
+.> .(?
+implicit returnB9"7
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency

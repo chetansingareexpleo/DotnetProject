@@ -1,0 +1,62 @@
+
+4MyWarehouse.Domain.Products.Product.CheckMass(float)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Products\Product.csn n(!"0*9
+0p p(1"
+ 
+p p(1
+%0"__id*
+""*
+1
+2*°
+1	q q(…#
+!
+	qh q(…
+%1"__id*
+""J
+H
+	q( q(ˆ
+%2"__concat*
+q* q(1	
+Value '*
+q1 q(8
+""h
+f
+	q( q(ˆ
+%3"__concat*
+
+%2*?
+q8 q(g31
+/' is smaller than the minimum required mass of <
+:
+	q( q(ˆ
+%4"__concat*
+
+%3*
+	qg q(†
+
+%1<
+:
+	q( q(ˆ
+%5"__concat*
+
+%4*
+
+q† q(‡
+.GE
+	q q(‰
+%6System.ArgumentException"System.ArgumentException{
+y
+q q('
+
+%7void"3System.ArgumentException.ArgumentException(string?)*" 
+
+%6System.ArgumentException*
+
+%5*
+2*.
+2r r("
+r r(
+implicit return:
+n" n(-
+valuefloatB'"%
+#MyWarehouse.Domain.Products.Product

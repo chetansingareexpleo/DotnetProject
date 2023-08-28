@@ -1,0 +1,32 @@
+
+YMyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record.Record(string, string, bool)`
+VC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Currency.csI I("1*
+1JQ J(Q*
+0*¾
+0J J(Ov
+t
+J J(
+%0string"__id*TR*P>
+<MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record"
+Codestringx
+v
+J J(
+%1string"__id*VT*R>
+<MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record"
+Symbolstring"
+ 
+J J(-
+%2"__id*
+"""
+J J(P
+	{unknown}*.
+2JQ J(Q"
+JP J(Q
+implicit return:
+I I(!
+codestring:
+I# I(0
+symbolstring:#
+I2 I(N
+symbolWellKnownboolB@>
+<MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record

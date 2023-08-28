@@ -1,0 +1,7 @@
+Ÿ
++MyWarehouse.WebApi.API.V1.AccountController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectˆ
+«AccountController(MyWarehouse.Infrastructure.Authentication.Core.Services.IUserService, MyWarehouse.Infrastructure.Authentication.External.Services.IExternalSignInService)×MyWarehouse.WebApi.API.V1.AccountController.AccountController(MyWarehouse.Infrastructure.Authentication.Core.Services.IUserService, MyWarehouse.Infrastructure.Authentication.External.Services.IExternalSignInService)ª
+=Login(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto)iMyWarehouse.WebApi.API.V1.AccountController.Login(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto)²
+ALoginForm(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto)mMyWarehouse.WebApi.API.V1.AccountController.LoginForm(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto)Ê
+MExternalLogin(MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto)yMyWarehouse.WebApi.API.V1.AccountController.ExternalLogin(MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto)„
+©ProduceLoginResponse((MyWarehouse.Infrastructure.Authentication.Core.Model.MySignInResult result, MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData? data))ÕMyWarehouse.WebApi.API.V1.AccountController.ProduceLoginResponse((MyWarehouse.Infrastructure.Authentication.Core.Model.MySignInResult result, MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData? data))

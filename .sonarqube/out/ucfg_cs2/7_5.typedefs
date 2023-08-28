@@ -1,0 +1,19 @@
+Ÿ
+6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDtoobjectSystem.IEquatable<T>O
+
+ToString()AMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.ToString()‰
+'PrintMembers(System.Text.StringBuilder)^MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.PrintMembers(System.Text.StringBuilder)U
+GetHashCode()DMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.GetHashCode()Y
+Equals(object?)FMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.Equals(object?)¹
+?Equals(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto?)vMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.Equals(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto?)O
+
+<Clone>$()AMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.<Clone>$()»
+@LoginDto(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto)wMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.LoginDto(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto)O
+
+LoginDto()AMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.LoginDto()c
+EqualityContract.getKMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.EqualityContract.getc
+EqualityContract.setKMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.EqualityContract.setS
+Username.getCMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.Username.getS
+Username.setCMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.Username.setS
+Password.getCMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.Password.getS
+Password.setCMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.Password.set

@@ -1,0 +1,70 @@
+
+ÕMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionsListQueryHandler.Handle(MyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery, System.Threading.CancellationToken)|
+rC:\Users\csingare\Desktop\MyWarehouse\src\Application\Transactions\GetTransactionsList\GetTransactionsListQuery.cs: (@"0*“
+0 (3•
+’
+ (H
+%0BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*µ²*¯Z
+XMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionsListQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork¤¡
+ ()`
+%1ZMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository"SMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Transactions.get*LJ
+H
+%0BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Transactions.getã
+à
+ (*
+%2System.Nullable<T>"YMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery.Type.get*_]
+[
+requestPMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQueryW
+U
+ (3
+
+%3bool"System.Nullable<T>.HasValue.get*
+
+%2System.Nullable<T>*
+1
+2*•
+16 (\(
+&
+6 (\
+
+%5bool"__id*
+""W
+U
+6 (\3
+%4-System.Linq.Expressions.Expression<TDelegate>"__id*
+
+
+%5bool*
+3*‰
+2_ (c"
+ 
+_ (c
+%6"__id*
+""Q
+O
+_ (c3
+%4-System.Linq.Expressions.Expression<TDelegate>"__id*
+
+%6*
+3*Ó
+3 (¯¬
+ (*
+%7$System.Threading.Tasks.Task<TResult>"£MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.GetProjectedListAsync<TDto>(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>, System.Linq.Expressions.Expression<System.Func<TEntity, bool>>?, bool)*db
+`
+%1ZMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository*_]
+[
+requestPMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery*75
+3
+%4-System.Linq.Expressions.Expression<TDelegate>*
+""2ÃGetProjectedListAsync<TDto>(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>, System.Linq.Expressions.Expression<System.Func<TEntity, bool>>?, bool)"
+ (
+""*.
+4 ("
+ (
+implicit return:g
+A (`[
+requestPMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery:D
+	b (…7
+cancellationToken"System.Threading.CancellationTokenB\Z
+XMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionsListQueryHandler

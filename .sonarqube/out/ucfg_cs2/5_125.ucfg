@@ -1,0 +1,36 @@
+
+bMyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute.RequiredIfAttribute(string, bool)k
+aC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Validation\RequiredIfAttribute.cs ("1*°
+1 (›
+˜
+
+%0void"KSystem.ComponentModel.DataAnnotations.RequiredAttribute.RequiredAttribute()*=;9
+7System.ComponentModel.DataAnnotations.RequiredAttribute*
+0*â
+0 (!˜
+•
+ (.bB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute"
+_otherPropertyNamestring"__id*
+
+otherPropertyNamestring
+}
+ (0aB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute"
+_otherPropertyValuebool"__id*
+""±
+®
+ (!
+
+%1bool"MSystem.ComponentModel.DataAnnotations.RequiredAttribute.AllowEmptyStrings.set*=;9
+7System.ComponentModel.DataAnnotations.RequiredAttribute*
+""*
+2*.
+2 ("
+ (
+implicit return:'
+ (7
+otherPropertyNamestring:&
+9 (P
+otherPropertyValueboolBDB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute

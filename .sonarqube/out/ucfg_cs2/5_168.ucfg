@@ -1,0 +1,43 @@
+
+‘MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ConfigureConventions(Microsoft.EntityFrameworkCore.ModelConfigurationBuilder)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ApplicationDbContext.csJ J(0"0*›
+0L X(¦£
+L L(+_
+%0YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>"OMicrosoft.EntityFrameworkCore.ModelConfigurationBuilder.Properties<TProperty>()*LJ
+H
+configBuilder7Microsoft.EntityFrameworkCore.ModelConfigurationBuilder2Properties<TProperty>()ïì
+L M(3_
+%1YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>"qMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>.HavePrecision(int, int)*ca
+_
+%0YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>*2*22HavePrecision(int, int)¦£
+R R(,_
+%2YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>"OMicrosoft.EntityFrameworkCore.ModelConfigurationBuilder.Properties<TProperty>()*LJ
+H
+configBuilder7Microsoft.EntityFrameworkCore.ModelConfigurationBuilder2Properties<TProperty>()ëè
+R S(0_
+%3YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>"wMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>.HaveConversion<TConversion>()*ca
+_
+%2YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>2HaveConversion<TConversion>()ÝÚ
+R T(_
+%4YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>"lMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>.HaveMaxLength(int)*ca
+_
+%3YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>*22HaveMaxLength(int)¦£
+V V(,_
+%5YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>"OMicrosoft.EntityFrameworkCore.ModelConfigurationBuilder.Properties<TProperty>()*LJ
+H
+configBuilder7Microsoft.EntityFrameworkCore.ModelConfigurationBuilder2Properties<TProperty>()ëè
+V W(0_
+%6YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>"wMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>.HaveConversion<TConversion>()*ca
+_
+%5YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>2HaveConversion<TConversion>()ÝÚ
+V X(_
+%7YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>"lMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>.HaveMaxLength(int)*ca
+_
+%6YMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertiesConfigurationBuilder<TProperty>*22HaveMaxLength(int)*
+1*.
+1Y Y("
+Y Y(
+implicit return:T
+J1 J(XH
+configBuilder7Microsoft.EntityFrameworkCore.ModelConfigurationBuilderBGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext

@@ -1,0 +1,104 @@
+
+6MyWarehouse.Domain.Products.Product.UpdateName(string)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Products\Product.cs@ @("0*v
+0B B(+_
+]
+B B(,
+
+%0bool""string.IsNullOrWhiteSpace(string?)*
+"
+string*
+
+valuestring*
+1
+2*Ï
+1C C(?FD
+C C(@
+%1System.ArgumentException"System.ArgumentExceptionè
+å
+C C('
+
+%2void"3System.ArgumentException.ArgumentException(string?)*" 
+
+%1System.ArgumentException*
+Name cannot be empty.*
+3*z
+2E E(:?
+=
+E E(	
+%3int"string.Length.get*
+
+valuestring"
+ 
+E E(:
+%4"__id*
+""*
+4
+5*†
+4	F F(à?
+=
+F< F(H	
+%5int"string.Length.get*
+
+valuestring#
+!
+	Fi F(à
+%6"__id*
+""^
+\
+	F( F(å	
+%7int"__concat*!
+F* F(;
+Length of value (*
+F; F(I
+	
+%5intb
+`
+	F( F(å	
+%8int"__concat*
+	
+%7int*/
+FI F(h#!
+) exceeds maximum name length (F
+D
+	F( F(å	
+%9int"__concat*
+	
+%8int*
+	Fh F(â
+
+%6H
+F
+	F( F(å
+
+%10int"__concat*
+	
+%9int*
+
+Fâ F(ã
+).HF
+	F F(ç
+%11System.ArgumentException"System.ArgumentExceptionÑ
+Å
+F F('
+%12void"3System.ArgumentException.ArgumentException(string?)*#!
+
+%11System.ArgumentException*
+
+
+%10int*
+3*ü
+5H H(ä
+á
+H H(
+%13string",MyWarehouse.Domain.Products.Product.Name.set*)'%
+#MyWarehouse.Domain.Products.Product*
+
+valuestring*
+3*.
+3I I("
+I I(
+implicit return:
+@ @('
+valuestringB'%
+#MyWarehouse.Domain.Products.Product

@@ -1,0 +1,21 @@
+
+¡MyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationPreventedException.ExternalAuthenticationPreventedException(System.Exception)’
+‡C:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\External\Exceptions\ExternalAuthenticationPreventedException.cs (3"1*
+1 (*
+0*¯
+0 (š
+—
+ (
+
+%0void"6System.Exception.Exception(string?, System.Exception?)*
+System.Exception*†ƒ€
+~Could not successfully execute authentication check with external provider. Maybe their services are not accessible currently.*&$
+"
+innerExceptionSystem.Exception*
+2*.
+2 ("
+ (
+implicit return:.
+4 (L"
+innerExceptionSystem.ExceptionBjh
+fMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationPreventedException

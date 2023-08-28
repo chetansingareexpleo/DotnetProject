@@ -1,0 +1,4 @@
+Ä
+JMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommandHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>Ž
+_CreatePartnerCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)ªMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommandHandler.CreatePartnerCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)®
+oHandle(MyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand, System.Threading.CancellationToken)ºMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommandHandler.Handle(MyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand, System.Threading.CancellationToken)

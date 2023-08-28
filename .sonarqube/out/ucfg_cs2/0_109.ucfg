@@ -1,0 +1,51 @@
+
+|MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Currency(MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record)`
+VC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Currency.cs ("1*Á
+1_ (_¬
+©
+
+ 
+(7
+
+%0bool"JMyWarehouse.Domain.Common.ValueObjects.Money.Currency.SymbolWellKnown.init*;97
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+""*
+0*«
+0 (]˜
+•
+	 (
+%1string">MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Code.get*;97
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currencyš
+—
+ (
+%2string"@MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Symbol.get*;97
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency¡
+ž
+ (&
+
+%3bool"IMyWarehouse.Domain.Common.ValueObjects.Money.Currency.SymbolWellKnown.get*;97
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency~
+|
++ (6
+%4string"__id*\Z*X
+F
+record<MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record"
+Codestring€
+~
+8 (E
+%5string"__id*^\*Z
+F
+record<MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record"
+Symbolstring"
+ 
+G (]
+%6"__id*
+"""
+ (^
+	{unknown}*.
+2_ (_"
+^ (_
+implicit return:R
+ ("F
+record<MyWarehouse.Domain.Common.ValueObjects.Money.Currency.RecordB97
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency

@@ -1,0 +1,36 @@
+
+vMyWarehouse.Domain.Common.ValueObjects.Money.Money.operator *(int, MyWarehouse.Domain.Common.ValueObjects.Money.Money)]
+SC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Money.cs3 3( "0*Þ
+04 4(:œ
+™
+4 4(!
+%0decimal"=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.get*?=
+;
+money2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÌ
+É
+4, 4(:;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*?=
+;
+money2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyzx
+4 4(;8
+%22MyWarehouse.Domain.Common.ValueObjects.Money.Money"2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyœ
+™
+4 4(
+
+%3void"xMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)*<:
+8
+%22MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+""*?=
+;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency"F
+4 4(;:
+8
+%22MyWarehouse.Domain.Common.ValueObjects.Money.Money*.
+14< 4(<"
+4; 4(<
+implicit return:
+3# 3(-
+scalarint:G
+3/ 3(:;
+money2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyB6"4
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money

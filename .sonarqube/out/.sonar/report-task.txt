@@ -1,0 +1,7 @@
+organization=dotnet6
+projectKey=dotnet6_codecoverage
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.45575
+dashboardUrl=https://sonarcloud.io/dashboard?id=dotnet6_codecoverage
+ceTaskId=AYo7MZQk51iNFrdYnSKT
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYo7MZQk51iNFrdYnSKT

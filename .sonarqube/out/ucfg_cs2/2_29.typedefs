@@ -1,0 +1,4 @@
+ë
+IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>¹
+uGetProductDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)¿MyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler.GetProductDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)«
+nHandle(MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery, System.Threading.CancellationToken)¸MyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler.Handle(MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery, System.Threading.CancellationToken)

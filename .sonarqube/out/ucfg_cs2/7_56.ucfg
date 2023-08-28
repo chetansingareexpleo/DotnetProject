@@ -1,0 +1,44 @@
+
+ÇMyWarehouse.WebApi.API.V1.PartnerController.GetList(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<MyWarehouse.Application.Partners.GetPartners.PartnerDto>)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\PartnerController.csD (K"2*Œ
+0 ((€
+~
+ (
+%0MediatR.IMediator"__id*SQ*O-
++MyWarehouse.WebApi.API.V1.PartnerController"
+	_mediatorMediatR.IMediator‚ÿ
+ ()*
+%1$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*lj
+h
+query_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)·´
+ (*-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2Ok(object?)";
+ (*/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*.
+1+ (+"
+* (+
+implicit return*í
+2y (yš
+—
+D (K}
+h
+query_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>"
+OrderBystring"__entrypoint™
+–
+D (K|
+h
+query_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>"
+Filterstring"__entrypoint 
+
+D (K
+%3"__entrypoint*
+0:t
+L (xh
+query_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>B/-
++MyWarehouse.WebApi.API.V1.PartnerController

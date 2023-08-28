@@ -1,0 +1,44 @@
+
+|MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.GetEntireTransaction(int)é
+ÉC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\TransactionRepositoryEF.cs$ (8"0*÷
+0 !(0ôñ
+ (
+%0System.Linq.IQueryable<T>"pMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.BaseQuery.get*hfd
+bMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF2BaseQuery.getù
+ö
+ ($R
+%1LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"¬Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*#!
+
+%0System.Linq.IQueryable<T>*
+""–
+Õ
+ (-R
+%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"¬Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*VT
+R
+%1LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""Œ
+À
+  (,R
+%3LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"¿Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ThenInclude<TEntity, TPreviousProperty, TProperty>(Microsoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, System.Collections.Generic.IEnumerable<TPreviousProperty>>, System.Linq.Expressions.Expression<System.Func<TPreviousProperty, TProperty>>)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*VT
+R
+%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""“
+œ
+ !(1*
+%4$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*VT
+R
+%3LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""*
+"""
+ !(1
+""*.
+1!2 !(2"
+!1 !(2
+implicit return:
+9 (?	
+idintBfd
+bMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF

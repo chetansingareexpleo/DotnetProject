@@ -1,0 +1,32 @@
+
+EMyWarehouse.Domain.Common.ValueObjects.Money.Money.AddAmount(decimal)]
+SC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Money.cs ("0*Ð
+0 (.•
+’
+ (
+%0decimal"=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÅ
+Â
+& (.;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyzx
+ (/8
+%22MyWarehouse.Domain.Common.ValueObjects.Money.Money"2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyœ
+™
+ (
+
+%3void"xMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)*<:
+8
+%22MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+""*?=
+;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency"F
+ (/:
+8
+%22MyWarehouse.Domain.Common.ValueObjects.Money.Money*.
+10 (0"
+/ (0
+implicit return:
+ ()
+amountdecimalB64
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money

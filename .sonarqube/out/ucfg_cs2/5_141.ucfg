@@ -1,0 +1,26 @@
+
+•MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.AddRange(System.Collections.Generic.IEnumerable<TEntity>)å
+ÅC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\Common\RepositoryBase.csV V( "0*—
+0W W(!ı
+Ú
+W W(2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*´®*•m
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>"4
+_set,Microsoft.EntityFrameworkCore.DbSet<TEntity>Ø¨
+W W("
+
+%1void"fMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddRange(System.Collections.Generic.IEnumerable<TEntity>)*64
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*97
+5
+entities)System.Collections.Generic.IEnumerable<T>29AddRange(System.Collections.Generic.IEnumerable<TEntity>)"
+W W("
+
+
+%1void*.
+1W# W(#"
+W" W(#
+implicit return:A
+V! V(>5
+entities)System.Collections.Generic.IEnumerable<T>Bom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>

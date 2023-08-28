@@ -1,0 +1,23 @@
+
+}MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.GetByIdAsync(int)å
+ÅC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\Common\RepositoryBase.cs (  (4"0*Ú
+0! !(?´®
+! !(
+%0System.Linq.IQueryable<T>"yMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.BaseQuery.get*qom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>2BaseQuery.get†
+ù
+! !(@*
+%1$System.Threading.Tasks.Task<TResult>"„Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SingleOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*#!
+
+%0System.Linq.IQueryable<T>*
+""*
+"""
+! !(@
+""*.
+1!A !(A"
+!@ !(A
+implicit return:
+ 5  (;	
+idintBom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>

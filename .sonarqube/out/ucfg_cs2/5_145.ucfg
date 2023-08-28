@@ -1,0 +1,19 @@
+
+TMyWarehouse.Infrastructure.Persistence.Context.MassUnitConverter.MassUnitConverter(){
+qC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ValueConverters\MassUnitConverter.cs ("1*
+1 (*
+0*ê
+0	 (9Õ
+Ò
+	 (:
+
+%0void"¼Microsoft.EntityFrameworkCore.Storage.ValueConversion.ValueConverter<TModel, TProvider>.ValueConverter(System.Linq.Expressions.Expression<System.Func<TModel, TProvider>>, System.Linq.Expressions.Expression<System.Func<TProvider, TModel>>, Microsoft.EntityFrameworkCore.Storage.ValueConversion.ConverterMappingHints?)*][Y
+WMicrosoft.EntityFrameworkCore.Storage.ValueConversion.ValueConverter<TModel, TProvider>*
+""*
+""*
+""*
+2*.
+2 ("
+ (
+implicit returnBDB
+@MyWarehouse.Infrastructure.Persistence.Context.MassUnitConverter

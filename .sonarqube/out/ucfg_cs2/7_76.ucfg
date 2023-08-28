@@ -1,0 +1,51 @@
+
+hMyWarehouse.WebApi.Logging.Helper.LogHelper.IsHealthCheckEndpoint(Microsoft.AspNetCore.Http.HttpContext)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Logging\Helper\LogHelper.cs (-"0*û
+0 (î
+ë
+ (((
+%0"Microsoft.AspNetCore.Http.Endpoint"jMicrosoft.AspNetCore.Http.EndpointHttpContextExtensions.GetEndpoint(Microsoft.AspNetCore.Http.HttpContext)*=;"9
+7Microsoft.AspNetCore.Http.EndpointHttpContextExtensions*0.
+,
+ctx%Microsoft.AspNetCore.Http.HttpContextp
+n
+ ((.
+endpoint"Microsoft.AspNetCore.Http.Endpoint"__id*,*
+(
+%0"Microsoft.AspNetCore.Http.Endpoint*
+1
+2*Ê
+1 ((É
+Ä
+ ($
+%1string"2Microsoft.AspNetCore.Http.Endpoint.DisplayName.get*20
+.
+endpoint"Microsoft.AspNetCore.Http.Endpoint"
+ 
+ ((
+%2"__id*
+""í
+è
+ ()
+
+%3bool"8string.Equals(string?, string?, System.StringComparison)*
+"
+string*
+
+%1string*
+Health checks*
+
+%2"
+ (*
+
+
+%3bool*!
+2! !("
+! !(
+""*.
+3" "("
+" "(
+implicit return:8
+. (=,
+ctx%Microsoft.AspNetCore.Http.HttpContextB/"-
++MyWarehouse.WebApi.Logging.Helper.LogHelper

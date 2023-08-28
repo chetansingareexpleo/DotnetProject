@@ -1,0 +1,52 @@
+
+MyWarehouse.WebApi.Swagger.Configuration.ConfigureSwaggerUIOptions.Configure(Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions)m
+cC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Swagger\Configuration\ConfigureSwaggerUIOptions.cs ("0*Ñ
+
+0 (0à
+Ý
+ (,7
+%01Microsoft.Extensions.Configuration.IConfiguration"__id*‘Ž*‹D
+BMyWarehouse.WebApi.Swagger.Configuration.ConfigureSwaggerUIOptions"C
+_configuration1Microsoft.Extensions.Configuration.IConfigurationË
+È
+ (L>
+%18MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings"{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*;9
+7
+%01Microsoft.Extensions.Configuration.IConfiguration*
+""¤
+¡
+ (LK
+swaggerSettings8MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings"__id*B@
+>
+%18MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings²
+¯
+ ()
+%2string"DMyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings.ApiName.get*OM
+K
+swaggerSettings8MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettingsT
+R
+ (0
+%3string"__concat*
+ ()
+
+%2string*
+, (0
+v1Ù
+Ö
+ (	
+
+%4void"ŠMicrosoft.AspNetCore.Builder.SwaggerUIOptionsExtensions.SwaggerEndpoint(Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions, string, string)*=;"9
+7Microsoft.AspNetCore.Builder.SwaggerUIOptionsExtensions*@>
+<
+options1Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions*
+/swagger/v1/swagger.json*
+
+%3string*
+1*.
+1 ("
+ (
+implicit return:H
+ (2<
+options1Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptionsBFD
+BMyWarehouse.WebApi.Swagger.Configuration.ConfigureSwaggerUIOptions

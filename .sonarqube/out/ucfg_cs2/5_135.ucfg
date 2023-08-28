@@ -1,0 +1,159 @@
+
+ŽMyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute.IsValidationRequired(System.ComponentModel.DataAnnotations.ValidationContext)k
+aC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Validation\RequiredIfAttribute.cs (%"0*…
+0 !(!¯
+¬
+ (2
+%0object"JSystem.ComponentModel.DataAnnotations.ValidationContext.ObjectInstance.get*FD
+B
+context7System.ComponentModel.DataAnnotations.ValidationContextC
+A
+ (<
+%1System.Type"object.GetType()*
+
+%0object‰
+†
+I ([
+%2string"__id*fd*bB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute"
+_otherPropertyNamestring|
+z
+ (\$
+%3System.Reflection.PropertyInfo"System.Type.GetProperty(string)*
+
+%1System.Type*
+
+%2stringm
+k
+ (\/
+otherPropertySystem.Reflection.PropertyInfo"__id*(&
+$
+%3System.Reflection.PropertyInfo*
+1
+2*Ï
+1" "(U‰
+†
+"C "(U
+%4string"__id*fd*bB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute"
+_otherPropertyNamestringk
+i
+	"( "(€
+%5string"__concat*(
+"* "(B
+The specified property '*
+"B "(V
+
+%4stringr
+p
+	"( "(€
+%6string"__concat*
+
+%5string*9
+"V "(-+
+)' is not found on the validatable object.GE
+	" "(
+%7System.ArgumentException"System.ArgumentException„
+
+" "('
+
+%8void"3System.ArgumentException.ArgumentException(string?)*" 
+
+%7System.ArgumentException*
+
+%6string*
+3*¶
+2$ $(6˜•
+$ $(&
+%9System.Type"/System.Reflection.PropertyInfo.PropertyType.get*31
+/
+otherPropertySystem.Reflection.PropertyInfo2PropertyType.getƒ
+€
+$ $(6
+%10bool"3System.Type.operator !=(System.Type?, System.Type?)*"
+System.Type*
+
+%9System.Type*
+""*
+4
+5*¸
+4$: $(e™–
+$: $(T
+%11System.Type"/System.Reflection.PropertyInfo.PropertyType.get*31
+/
+otherPropertySystem.Reflection.PropertyInfo2PropertyType.get„
+
+$: $(e
+%12bool"3System.Type.operator !=(System.Type?, System.Type?)*"
+System.Type*
+
+%11System.Type*
+""*
+6
+5*á
+6% %(UŠ
+‡
+%C %(U
+%13string"__id*fd*bB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute"
+_otherPropertyNamestringm
+k
+	%( %(ˆ
+%14string"__concat*(
+%* %(B
+The specified property '*
+%B %(V
+
+%13string}
+{
+	%( %(ˆ
+%15string"__concat*
+
+%14string*B
+	%V %(‡53
+1' on the validatable object must be of type bool.HF
+	% %(‰
+%16System.ArgumentException"System.ArgumentException‡
+„
+% %('
+%17void"3System.ArgumentException.ArgumentException(string?)*#!
+
+%16System.ArgumentException*
+
+%15string*
+3*œ
+5' )(#°
+­
+': '(P
+%18object"JSystem.ComponentModel.DataAnnotations.ValidationContext.ObjectInstance.get*FD
+B
+context7System.ComponentModel.DataAnnotations.ValidationContext–
+“
+'# '(Q
+%19object"0System.Reflection.PropertyInfo.GetValue(object?)*31
+/
+otherPropertySystem.Reflection.PropertyInfo*
+
+%18object4
+2
+'# '(Z
+%20object"__id*
+
+%19object#
+!
+'^ '(q
+%21"__id*
+"":
+8
+' '(q
+ifConditionSatisfiedbool"__id*
+"""*
+) )($
+
+ifConditionSatisfiedbool*.
+3* *("
+* *(
+implicit return:N
+& (?B
+context7System.ComponentModel.DataAnnotations.ValidationContextBDB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute

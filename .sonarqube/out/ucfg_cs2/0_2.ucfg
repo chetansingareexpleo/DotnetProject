@@ -1,0 +1,19 @@
+
+@MyWarehouse.Domain.Transactions.Transaction.TransactionLines.getV
+LC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Transactions\Transaction.cs8 (H"0*ò
+0L (j«
+¨
+L (](
+%0"System.Collections.Generic.List<T>"__id*lj*h-
++MyWarehouse.Domain.Transactions.Transaction"7
+_transactionLines"System.Collections.Generic.List<T>¯
+¬
+L (j:
+%14System.Collections.ObjectModel.ReadOnlyCollection<T>"6System.Collections.Generic.ICollection<T>.AsReadOnly()*,*
+(
+%0"System.Collections.Generic.List<T>*
+1*.
+1k (k"
+j (k
+implicit returnB/-
++MyWarehouse.Domain.Transactions.Transaction

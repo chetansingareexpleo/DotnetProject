@@ -1,0 +1,6 @@
+¢
+;MyWarehouse.Infrastructure.Migrations.UpdateDomainToDotNet62Microsoft.EntityFrameworkCore.Migrations.Migrationobjectº
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)yMyWarehouse.Infrastructure.Migrations.UpdateDomainToDotNet6.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¾
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder){MyWarehouse.Infrastructure.Migrations.UpdateDomainToDotNet6.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¸
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)xMyWarehouse.Infrastructure.Migrations.UpdateDomainToDotNet6.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)n
+UpdateDomainToDotNet6()SMyWarehouse.Infrastructure.Migrations.UpdateDomainToDotNet6.UpdateDomainToDotNet6()

@@ -1,0 +1,6 @@
+√
+RMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsServiceobjectEMyWarehouse.Application.Dependencies.Services.IStockStatisticsServiceé
+[StockStatisticsService(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext)ÆMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService.StockStatisticsService(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext)Ö
+GetProductStockCounts()jMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService.GetProductStockCounts()Ù
+NGetProductStockTotalMass(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)°MyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService.GetProductStockTotalMass(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)ç
+GetProductStockTotalValue()nMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService.GetProductStockTotalValue()

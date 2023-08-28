@@ -1,0 +1,29 @@
+
+∆MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryHandler.GetPartnerDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)t
+jC:\Users\csingare\Desktop\MyWarehouse\src\Application\Partners\GetPartnerDetails\GetPartnerDetailsQuery.cs (("1*
+1 (*
+0*’
+0 (ì
+ê
+ ( ßR
+PMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*TR
+P
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork™
+ß
+ (sR
+PMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryHandler"
+_mapperAutoMapper.IMapper"__id* 
+
+mapperAutoMapper.IMapper*
+2*.
+2 ("
+ (
+implicit return:\
+) (?P
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork:(
+A (O
+mapperAutoMapper.IMapperBTR
+PMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryHandler

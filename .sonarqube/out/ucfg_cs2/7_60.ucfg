@@ -1,0 +1,49 @@
+
+7MyWarehouse.WebApi.API.V1.ProductController.Delete(int)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\ProductController.cs$$ $(*"2*ç
+
+0& ((Ä
+~
+& &(
+%0MediatR.IMediator"__id*SQ*O-
++MyWarehouse.WebApi.API.V1.ProductController"
+	_mediatorMediatR.IMediatorùö
+& &(CI
+%1CMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand"CMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommandƒ
+¡
+&! &(5
+
+%2void"ZMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.DeleteProductCommand()*MK
+I
+%1CMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommandæ
+ª
+&: &(A	
+%3int"KMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.Id.init*MK
+I
+%1CMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand*
+""„‡
+& &(D*
+%4$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*MK
+I
+%1CMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)Æ´
+( ((.
+%5(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase2NoContent()"<
+( ((0
+.
+%5(Microsoft.AspNetCore.Mvc.NoContentResult*.
+1) )("
+) )(
+implicit return*>
+2$2 $(2*
+(
+$$ $(*
+%6"__entrypoint*
+""*
+0:
+$+ $(1	
+idintB/-
++MyWarehouse.WebApi.API.V1.ProductController

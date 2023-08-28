@@ -1,0 +1,58 @@
+
+eMyWarehouse.Infrastructure.QueryableExtensions.ApplyOrder<T>(System.Linq.IQueryable<T>, string?, int)k
+aC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Extensions\QueryableExtensions.cs  (*"0*
+0& &(*
+1
+2*æ
+1   (X§
+¤
+   (Y
+%0System.Linq.IQueryable<T>"mMyWarehouse.Infrastructure.QueryableExtensions.ApplyOrderInternal<T>(System.Linq.IQueryable<T>, string?, int)*42"0
+.MyWarehouse.Infrastructure.QueryableExtensions*&$
+"
+querySystem.Linq.IQueryable<T>* 
+
+oDataOrderByStringstring*
+"""-
+   (Z!
+
+%0System.Linq.IQueryable<T>*ß
+2$ $(k€
+~
+$& $(h
+%1string"__concat*.
+$( $(F" 
+The specified orderBy string '**
+$F $(Z
+
+oDataOrderByStringstringU
+S
+$& $(h
+%2string"__concat*
+
+%1string*
+$Z $(g
+' is invalid.B@
+$ $(l
+%3System.FormatException"System.FormatException¬
+©
+$ $(%
+
+%4void"BSystem.FormatException.FormatException(string?, System.Exception?)* 
+
+%3System.FormatException*
+
+%2string*
+
+eSystem.Exception*
+3*.
+3& &("
+& &(
+implicit return:.
+. (F"
+querySystem.Linq.IQueryable<T>:(
+H (b
+oDataOrderByStringstring:+
+	d (ƒ
+maximumNumberOfOrderingintB2"0
+.MyWarehouse.Infrastructure.QueryableExtensions

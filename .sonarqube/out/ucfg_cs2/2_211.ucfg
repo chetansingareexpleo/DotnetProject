@@ -1,0 +1,96 @@
+
+lMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandValidator.UpdateProductCommandValidator()w
+mC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\UpdateProduct\UpdateProductCommandValidator.cs (("1*Š
+1 (v
+t
+
+%0void"9FluentValidation.AbstractValidator<T>.AbstractValidator()*+)'
+%FluentValidation.AbstractValidator<T>*
+0*ê
+0	 (@÷
+ô
+	 	(8
+%12FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*+)'
+%FluentValidation.AbstractValidator<T>*
+""©
+¦
+	 
+(8
+%22FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*1/"-
++FluentValidation.DefaultValidatorExtensions*<:
+8
+%12FluentValidation.IRuleBuilderInitial<T, TProperty>"
+ 
+ (:
+%3"__id*
+""¯
+¬
+	 (;8
+%42FluentValidation.IRuleBuilderOptions<T, TProperty>"kFluentValidation.DefaultValidatorExtensions.MaximumLength<T>(FluentValidation.IRuleBuilder<T, string>, int)*1/"-
++FluentValidation.DefaultValidatorExtensions*<:
+8
+%22FluentValidation.IRuleBuilderOptions<T, TProperty>*
+
+%3÷
+ô
+ (#8
+%52FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*+)'
+%FluentValidation.AbstractValidator<T>*
+""©
+¦
+ (8
+%62FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*1/"-
++FluentValidation.DefaultValidatorExtensions*<:
+8
+%52FluentValidation.IRuleBuilderInitial<T, TProperty>"
+ 
+ (A
+%7"__id*
+""¯
+¬
+ (B8
+%82FluentValidation.IRuleBuilderOptions<T, TProperty>"kFluentValidation.DefaultValidatorExtensions.MaximumLength<T>(FluentValidation.IRuleBuilder<T, string>, int)*1/"-
++FluentValidation.DefaultValidatorExtensions*<:
+8
+%62FluentValidation.IRuleBuilderOptions<T, TProperty>*
+
+%7÷
+ô
+ (!8
+%92FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*+)'
+%FluentValidation.AbstractValidator<T>*
+""#
+!
+" (?
+%10"__id*
+""Í
+Ê
+ (@9
+%112FluentValidation.IRuleBuilderOptions<T, TProperty>"†FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, TProperty)*1/"-
++FluentValidation.DefaultValidatorExtensions*<:
+8
+%92FluentValidation.IRuleBuilderInitial<T, TProperty>*	
+
+%10ø
+õ
+ (#9
+%122FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*+)'
+%FluentValidation.AbstractValidator<T>*
+""#
+!
+" (@
+%13"__id*
+""Î
+Ë
+ (A9
+%142FluentValidation.IRuleBuilderOptions<T, TProperty>"†FluentValidation.DefaultValidatorExtensions.GreaterThanOrEqualTo<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, TProperty)*1/"-
++FluentValidation.DefaultValidatorExtensions*=;
+9
+%122FluentValidation.IRuleBuilderInitial<T, TProperty>*	
+
+%13*
+2*.
+2 ("
+ (
+implicit returnBPN
+LMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandValidator

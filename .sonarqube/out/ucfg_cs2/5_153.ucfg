@@ -1,0 +1,71 @@
+
+mMyWarehouse.Infrastructure.QueryableExtensions.ApplyOrderInternal<T>(System.Linq.IQueryable<T>, string?, int)k
+aC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Extensions\QueryableExtensions.cs;! ;(3"0*ƒ
+0= =(8l
+j
+= =(9
+
+%0bool""string.IsNullOrWhiteSpace(string?)*
+"
+string* 
+
+oDataOrderByStringstring*
+1
+2*?
+1? ?("0
+? ?($
+"
+querySystem.Linq.IQueryable<T>*ˆ
+2B C(i3
+1
+B B(!
+firstOrderingbool"__id*
+""¾
+»
+C. C(j/
+%1)System.Collections.Generic.IEnumerable<T>"GetOrderEntries(string, int)*42"0
+.MyWarehouse.Infrastructure.QueryableExtensions* 
+
+oDataOrderByStringstring*
+""*
+3*
+3i i(*
+4
+5*£
+4E F(!ü
+ù
+E E(L
+%2System.Linq.IQueryable<T>"pApplyOrdering(System.Linq.IQueryable<T>, string, MyWarehouse.Infrastructure.QueryableExtensions.SortOrder, bool)*42"0
+.MyWarehouse.Infrastructure.QueryableExtensions*&$
+"
+querySystem.Linq.IQueryable<T>*
+
+propertyNamestring*EC
+A
+order8MyWarehouse.Infrastructure.QueryableExtensions.SortOrder*
+
+firstOrderingbool[
+Y
+E E(L"
+querySystem.Linq.IQueryable<T>"__id*#!
+
+%2System.Linq.IQueryable<T>3
+1
+F F(!
+firstOrderingbool"__id*
+""*
+3*?
+5J J("0
+J J($
+"
+querySystem.Linq.IQueryable<T>*.
+6i i("
+i i(
+implicit return:.
+;7 ;(J"
+querySystem.Linq.IQueryable<T>:(
+;L ;(f
+oDataOrderByStringstring:+
+	;h ;(ƒ
+maximumNumberOfOrderingintB2"0
+.MyWarehouse.Infrastructure.QueryableExtensions

@@ -1,0 +1,33 @@
+
+­MyWarehouse.Infrastructure.Identity.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Identity\Startup.cs (("0*¡	
+0 (	Ñ
+Î
+ (
+3
+%0-Microsoft.AspNetCore.Identity.IdentityBuilder"áMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions.AddIdentity<TUser, TRole>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Identity.IdentityOptions>)*RP"N
+LMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""»
+¸
+ ('3
+%1-Microsoft.AspNetCore.Identity.IdentityBuilder"Microsoft.AspNetCore.Identity.IdentityBuilderExtensions.AddDefaultTokenProviders(Microsoft.AspNetCore.Identity.IdentityBuilder)*=;"9
+7Microsoft.AspNetCore.Identity.IdentityBuilderExtensions*75
+3
+%0-Microsoft.AspNetCore.Identity.IdentityBuilderú
+÷
+ (=3
+%2-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions.AddEntityFrameworkStores<TContext>(Microsoft.AspNetCore.Identity.IdentityBuilder)*WU"S
+QMicrosoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions*75
+3
+%1-Microsoft.AspNetCore.Identity.IdentityBuilder*
+1*.
+1 ("
+ (
+implicit return:S
+) (DG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:B
+F (V6
+_1Microsoft.Extensions.Configuration.IConfigurationB/"-
++MyWarehouse.Infrastructure.Identity.Startup

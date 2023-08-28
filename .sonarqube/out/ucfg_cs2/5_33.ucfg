@@ -1,0 +1,46 @@
+
+kMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.TokenModel(string, string, System.DateTime)j
+`C:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\Core\Model\TokenModel.cs	 	("1*
+1
+U 
+(U*
+0*Ï
+0
+ 
+(S±
+®
+
+ 
+(
+%0string"MMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.TokenType.get*ECA
+?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel³
+°
+
+ 
+("
+%1string"OMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.AccessToken.get*ECA
+?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModelº
+·
+
+$ 
+(-
+%2System.DateTime"MMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.ExpiresAt.get*ECA
+?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel"
+
+ 
+(T
+	{unknown}*.
+2
+U 
+(U"
+
+T 
+(U
+implicit return:
+	 	(&
+	tokenTypestring:!
+	( 	(:
+accessTokenstring:(
+	< 	(N
+	expiresAtSystem.DateTimeBCA
+?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel

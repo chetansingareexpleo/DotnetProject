@@ -1,0 +1,34 @@
+
+vMyWarehouse.WebApi.API.V1.ProductController.GetList(MyWarehouse.Application.Products.GetProducts.GetProductsListQuery)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\ProductController.csD (K"2*î
+0 ((€
+~
+ (
+%0MediatR.IMediator"__id*SQ*O-
++MyWarehouse.WebApi.API.V1.ProductController"
+	_mediatorMediatR.IMediatoräá
+ ()*
+%1$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*NL
+J
+queryAMyWarehouse.Application.Products.GetProducts.GetProductsListQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)·´
+ (*-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2Ok(object?)";
+ (*/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*.
+1+ (+"
+* (+
+implicit return*4
+2s (s 
+
+D (K
+%3"__entrypoint*
+0:V
+L (rJ
+queryAMyWarehouse.Application.Products.GetProducts.GetProductsListQueryB/-
++MyWarehouse.WebApi.API.V1.ProductController

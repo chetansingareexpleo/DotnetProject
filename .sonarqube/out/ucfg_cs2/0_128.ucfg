@@ -1,0 +1,172 @@
+
+fMyWarehouse.Domain.Products.Product.RecordTransaction(MyWarehouse.Domain.Transactions.TransactionLine)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Products\Product.csZ Z(#"0*¶
+0\ \((ž
+›
+\ \($	
+%0int"<MyWarehouse.Domain.Transactions.TransactionLine.Quantity.get*FD
+B
+transactionLine/MyWarehouse.Domain.Transactions.TransactionLine*
+1
+2*Œ
+1] ](_FD
+] ](`
+%1System.ArgumentException"System.ArgumentException¯
+¬
+] ]('
+
+%2void"3System.ArgumentException.ArgumentException(string?)*" 
+
+%1System.ArgumentException*;97
+5Product quantity in transaction must be 1 or greater.*
+3*
+2_ _(;É
+Æ
+_ _(+1
+%3+MyWarehouse.Domain.Transactions.Transaction"?MyWarehouse.Domain.Transactions.TransactionLine.Transaction.get*FD
+B
+transactionLine/MyWarehouse.Domain.Transactions.TransactionLine¯
+¬
+_ _(;(
+%4"MyWarehouse.Domain.TransactionType"?MyWarehouse.Domain.Transactions.Transaction.TransactionType.get*53
+1
+%3+MyWarehouse.Domain.Transactions.Transaction*
+4*
+4_ _(;*
+5
+6*±
+5b b(<ž
+›
+b b(,	
+%5int"<MyWarehouse.Domain.Transactions.TransactionLine.Quantity.get*FD
+B
+transactionLine/MyWarehouse.Domain.Transactions.TransactionLiney
+w
+b/ b(<	
+%6int"5MyWarehouse.Domain.Products.Product.NumberInStock.get*)'%
+#MyWarehouse.Domain.Products.Product*
+7
+8*ç
+7c c(fž
+›
+c? c(W	
+%7int"<MyWarehouse.Domain.Transactions.TransactionLine.Quantity.get*FD
+B
+transactionLine/MyWarehouse.Domain.Transactions.TransactionLiney
+w
+cY c(f	
+%8int"5MyWarehouse.Domain.Products.Product.NumberInStock.get*)'%
+#MyWarehouse.Domain.Products.Product‡„
+c c(g>
+%98MyWarehouse.Domain.Exceptions.InsufficientStockException"8MyWarehouse.Domain.Exceptions.InsufficientStockException¬
+©
+c c(8
+%10void"‚MyWarehouse.Domain.Exceptions.InsufficientStockException.InsufficientStockException(MyWarehouse.Domain.Products.Product, int, int)*B@
+>
+%98MyWarehouse.Domain.Exceptions.InsufficientStockException*)'%
+#MyWarehouse.Domain.Products.Product*
+	
+%7int*
+	
+%8int*
+3*¾
+8d d(9z
+x
+d d(
+
+%11int"5MyWarehouse.Domain.Products.Product.NumberInStock.get*)'%
+#MyWarehouse.Domain.Products.ProductŸ
+œ
+d! d(9
+
+%12int"<MyWarehouse.Domain.Transactions.TransactionLine.Quantity.get*FD
+B
+transactionLine/MyWarehouse.Domain.Transactions.TransactionLine‹
+ˆ
+d d(9
+
+%13int"5MyWarehouse.Domain.Products.Product.NumberInStock.set*)'%
+#MyWarehouse.Domain.Products.Product*
+
+
+%12int*
+3*
+6_ _(;*
+9
+10*¸
+9g g(9z
+x
+g g(
+
+%14int"5MyWarehouse.Domain.Products.Product.NumberInStock.get*)'%
+#MyWarehouse.Domain.Products.ProductŸ
+œ
+g! g(9
+
+%15int"<MyWarehouse.Domain.Transactions.TransactionLine.Quantity.get*FD
+B
+transactionLine/MyWarehouse.Domain.Transactions.TransactionLine…
+‚
+g g(9
+
+%16int"5MyWarehouse.Domain.Products.Product.NumberInStock.set*)'%
+#MyWarehouse.Domain.Products.Product*
+""*
+3*Œ
+10	j j(ŒÊ
+Ç
+ja j(|2
+%17+MyWarehouse.Domain.Transactions.Transaction"?MyWarehouse.Domain.Transactions.TransactionLine.Transaction.get*FD
+B
+transactionLine/MyWarehouse.Domain.Transactions.TransactionLine²
+¯
+	ja j(Œ)
+%18"MyWarehouse.Domain.TransactionType"?MyWarehouse.Domain.Transactions.Transaction.TransactionType.get*64
+2
+%17+MyWarehouse.Domain.Transactions.TransactionO
+M
+	j7 j(
+%19"__concat*
+j9 j(D
+Unexpected *
+jD j(]
+"">
+<
+	j7 j(
+%20"__concat*	
+
+%19*
+j] j(`
+: 'c
+a
+	j7 j(
+%21"__concat*	
+
+%20*8
+	j` j(+
+)
+%18"MyWarehouse.Domain.TransactionType?
+=
+	j7 j(
+%22"__concat*	
+
+%21*
+
+j j(
+'.|z
+	j j(‘9
+%232System.ComponentModel.InvalidEnumArgumentException"2System.ComponentModel.InvalidEnumArgumentException¾
+»
+j j(6
+%24void"XSystem.ComponentModel.InvalidEnumArgumentException.InvalidEnumArgumentException(string?)*=;
+9
+%232System.ComponentModel.InvalidEnumArgumentException*	
+
+%22*
+3*.
+3l l("
+l l(
+implicit return:N
+Z$ Z(CB
+transactionLine/MyWarehouse.Domain.Transactions.TransactionLineB'%
+#MyWarehouse.Domain.Products.Product

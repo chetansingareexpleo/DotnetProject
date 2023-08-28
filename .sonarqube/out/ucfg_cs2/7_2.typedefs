@@ -1,0 +1,7 @@
+„
+=MyWarehouse.WebApi.Authentication.Services.CurrentUserServiceobjectAMyWarehouse.Application.Dependencies.Services.ICurrentUserServiceÇ
+BCurrentUserService(Microsoft.AspNetCore.Http.IHttpContextAccessor)€MyWarehouse.WebApi.Authentication.Services.CurrentUserService.CurrentUserService(Microsoft.AspNetCore.Http.IHttpContextAccessor)V
+
+UserId.getHMyWarehouse.WebApi.Authentication.Services.CurrentUserService.UserId.getV
+
+UserId.setHMyWarehouse.WebApi.Authentication.Services.CurrentUserService.UserId.set

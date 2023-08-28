@@ -1,0 +1,17 @@
+
+[MyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException()l
+bC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Exceptions\EntityNotFoundException.cs (""1*
+1 (*
+0*†
+0 (&r
+p
+ ('
+
+%0void"#System.Exception.Exception(string?)*
+System.Exception*
+Entity was not found.*
+2*.
+2 ("
+ (
+implicit returnBEC
+AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException

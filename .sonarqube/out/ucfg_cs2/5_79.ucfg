@@ -1,0 +1,44 @@
+
+¤MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.UnitOfWork(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository)s
+iC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\UnitOfWork.cs ("1*
+1 (*
+0*§
+0 (#‹
+ˆ
+ (ŸJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork"Q
+
+_dbContextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*TR
+P
+	dbContextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextú
+÷
+ (\
+%0VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository"UMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Partners.set*NLJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork*fd
+b
+partnersVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepositoryú
+÷
+ (\
+%1VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository"UMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Products.set*NLJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork*fd
+b
+productsVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepositoryŠ
+‡
+ (#`
+%2ZMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository"YMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Transactions.set*NLJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork*nl
+j
+transactionsZMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository*
+2*.
+2 ("
+ (
+implicit return:\
+ (4P
+	dbContextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext:n
+6 (Qb
+partnersVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository:n
+S (nb
+productsVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository:w
+	p (“j
+transactionsZMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepositoryBLJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork

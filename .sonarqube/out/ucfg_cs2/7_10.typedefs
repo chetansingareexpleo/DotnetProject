@@ -1,0 +1,4 @@
+´
+BMyWarehouse.WebApi.Swagger.Configuration.ConfigureSwaggerUIOptionsobject8Microsoft.Extensions.Options.IConfigureOptions<TOptions>‡
+LConfigureSwaggerUIOptions(Microsoft.Extensions.Configuration.IConfiguration)èMyWarehouse.WebApi.Swagger.Configuration.ConfigureSwaggerUIOptions.ConfigureSwaggerUIOptions(Microsoft.Extensions.Configuration.IConfiguration)ø
+<Configure(Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions)MyWarehouse.WebApi.Swagger.Configuration.ConfigureSwaggerUIOptions.Configure(Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions)

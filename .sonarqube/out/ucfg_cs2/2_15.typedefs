@@ -1,0 +1,4 @@
+Ý
+HMyWarehouse.Application.Partners.GetPartners.GetPartnersListQueryHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>Œ
+_GetPartnersListQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)¨MyWarehouse.Application.Partners.GetPartners.GetPartnersListQueryHandler.GetPartnersListQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)Ë
+¾Handle(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<MyWarehouse.Application.Partners.GetPartners.PartnerDto>, System.Threading.CancellationToken)‡MyWarehouse.Application.Partners.GetPartners.GetPartnersListQueryHandler.Handle(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<MyWarehouse.Application.Partners.GetPartners.PartnerDto>, System.Threading.CancellationToken)

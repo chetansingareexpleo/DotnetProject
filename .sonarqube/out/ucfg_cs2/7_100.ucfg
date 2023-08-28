@@ -1,0 +1,48 @@
+
+›MyWarehouse.WebApi.Swagger.SwaggerStartup.UseMySwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Configuration.IConfiguration)T
+JC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Swagger\SwaggerStartup.cs8 8(#"0*Ë
+0: <(.Ö
+Ó
+: :(K>
+%08MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings"{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+""¤
+¡
+: :(KK
+swaggerSettings8MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings"__id*B@
+>
+%08MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings³
+°
+< <(&
+
+%1bool"GMyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings.UseSwagger.get*OM
+K
+swaggerSettings8MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings*
+1
+2*š
+1> ?(ü
+ù
+> >(6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"°Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*;9"7
+5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""†
+ƒ
+? ?(6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"¸Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*=;"9
+7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+2*.
+2A A("
+A A(
+implicit return:C
+8$ 8(@7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:N
+8B 8(^B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB-"+
+)MyWarehouse.WebApi.Swagger.SwaggerStartup

@@ -1,0 +1,4 @@
+Ž
+PMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>À
+uGetPartnerDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)ÆMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryHandler.GetPartnerDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)À
+uHandle(MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery, System.Threading.CancellationToken)ÆMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryHandler.Handle(MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery, System.Threading.CancellationToken)

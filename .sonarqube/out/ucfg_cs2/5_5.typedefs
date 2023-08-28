@@ -1,0 +1,21 @@
+ã
+?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModelobjectSystem.IEquatable<T>š
++TokenModel(string, string, System.DateTime)kMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.TokenModel(string, string, System.DateTime)~
+GetRemainingLifetimeSeconds()]MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.GetRemainingLifetimeSeconds()X
+
+ToString()JMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.ToString()’
+'PrintMembers(System.Text.StringBuilder)gMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.PrintMembers(System.Text.StringBuilder)^
+GetHashCode()MMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.GetHashCode()b
+Equals(object?)OMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.Equals(object?)Õ
+HEquals(MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel?)ˆMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.Equals(MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel?)X
+
+<Clone>$()JMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.<Clone>$()Û
+KTokenModel(MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel)‹MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.TokenModel(MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel)l
+EqualityContract.getTMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.EqualityContract.getl
+EqualityContract.setTMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.EqualityContract.set^
+TokenType.getMMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.TokenType.get^
+TokenType.setMMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.TokenType.setb
+AccessToken.getOMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.AccessToken.getb
+AccessToken.setOMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.AccessToken.set^
+ExpiresAt.getMMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.ExpiresAt.get^
+ExpiresAt.setMMyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel.ExpiresAt.set

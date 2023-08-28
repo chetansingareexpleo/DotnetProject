@@ -1,0 +1,51 @@
+
+¦MyWarehouse.WebApi.Swagger.SwaggerStartup.AddMySwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)T
+JC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Swagger\SwaggerStartup.cs (#"0*Ë
+0 (/Ö
+Ó
+ (K>
+%08MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings"{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+""¤
+¡
+ (KK
+swaggerSettings8MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings"__id*B@
+>
+%08MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings³
+°
+ (&
+
+%1bool"GMyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings.UseSwagger.get*OM
+K
+swaggerSettings8MyWarehouse.WebApi.Swagger.Configuration.SwaggerSettings*
+1
+2*!
+16 6("
+ (
+""*˜
+2 5(_Ý
+Ú
+ 2(
+A
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*TR"P
+NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""£
+ 
+5 5(_A
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+3*.
+36 6("
+6 6(
+implicit return:S
+$ (DG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:N
+F (bB
+configuration1Microsoft.Extensions.Configuration.IConfigurationB-"+
+)MyWarehouse.WebApi.Swagger.SwaggerStartup

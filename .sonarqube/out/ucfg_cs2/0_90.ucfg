@@ -1,0 +1,150 @@
+
+GMyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.FromSymbol(string)_
+UC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Mass\MassUnit.cs (%"0*]
+0 (F
+D
+ (
+%0string"string.ToLower()*
+
+
+unitSymbolstring*
+1
+2*Ê
+1 (Ì
+É
+ (:
+%74MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*{y*w6
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"=
+Tonne4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+ (:
+%24MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%74MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+ (:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%24MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"H
+ (<
+:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*
+2 (*
+3
+4*Í
+3 (Ï
+Ì
+ (:
+%84MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*~|*z6
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"@
+Kilogram4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+ (:
+%34MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%84MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+ (:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%34MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"H
+ (<
+:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*
+4 (*
+5
+6*É
+5 (Ë
+È
+ (:
+%94MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*zx*v6
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"<
+Gram4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+ (:
+%44MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%94MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+ (:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%44MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"H
+ (<
+:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*
+6 (*
+7
+8*Ì
+7 (Í
+Ê
+ (;
+%104MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*{y*w6
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"=
+Pound4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+
+ (:
+%54MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*?=
+;
+%104MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+ (:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%54MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"H
+ (<
+:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*Œ
+8 (sJ
+H
+- (_
+%11"__concat*
+/ (6	
+Uknown *
+6 (H
+""B
+@
+- (_
+%12"__concat*	
+
+%11*
+H (P
+
+ value 'L
+J
+- (_
+%13"__concat*	
+
+%12*"
+P (\
+
+
+unitSymbolstring<
+:
+- (_
+%14"__concat*	
+
+%13*
+\ (^
+'.GE
+ (t
+%15System.ArgumentException"System.ArgumentException’
+
+ (,
+%16void"<System.ArgumentException.ArgumentException(string?, string?)*#!
+
+%15System.ArgumentException*	
+
+%14*
+""*
+9*.
+9
+ (
+"
+	 (
+
+implicit return: 
+& (7
+
+unitSymbolstringB8"6
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit

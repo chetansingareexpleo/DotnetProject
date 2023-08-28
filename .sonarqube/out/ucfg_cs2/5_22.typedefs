@@ -1,0 +1,8 @@
+†
+bMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEFkMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>objectZMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository»
+pTransactionRepositoryEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)”MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.TransactionRepositoryEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)Œ
+3Remove(MyWarehouse.Domain.Transactions.Transaction)ñMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.Remove(MyWarehouse.Domain.Transactions.Transaction)®
+`RemoveRange(System.Collections.Generic.IEnumerable<MyWarehouse.Domain.Transactions.Transaction>)√MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.RemoveRange(System.Collections.Generic.IEnumerable<MyWarehouse.Domain.Transactions.Transaction>)ô
+GetEntireTransaction(int)|MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.GetEntireTransaction(int)Å
+BaseQuery.getpMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.BaseQuery.getÅ
+BaseQuery.setpMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.BaseQuery.set

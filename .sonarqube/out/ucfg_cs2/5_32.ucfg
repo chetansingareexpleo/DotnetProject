@@ -1,0 +1,69 @@
+
+≥MyWarehouse.Infrastructure.Authentication.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)\
+RC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\Startup.cs (("0*œ
+0 (K†
+ù
+ (7A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection†
+ù
+ (<A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection∑
+¥
+ (<
+
+%2void"äMyWarehouse.Infrastructure.ConfigurationExtensions.RegisterMyOptions<T>(Microsoft.Extensions.DependencyInjection.IServiceCollection, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""Á
+‰
+2 (fO
+%3IMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings"{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+""–
+Õ
+ (g
+
+%4void"ŸMyWarehouse.Infrastructure.Authentication.Startup.ConfigureLocalJwtAuthentication(Microsoft.Extensions.DependencyInjection.IServiceCollection, MyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings)*75"3
+1MyWarehouse.Infrastructure.Authentication.Startup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*SQ
+O
+%3IMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings∑
+¥
+ (D
+
+%5void"äMyWarehouse.Infrastructure.ConfigurationExtensions.RegisterMyOptions<T>(Microsoft.Extensions.DependencyInjection.IServiceCollection, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""†
+ù
+ (]A
+%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection†
+ù
+ (KA
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*.
+1 ("
+ (
+implicit return:S
+) (IG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:N
+K (gB
+configuration1Microsoft.Extensions.Configuration.IConfigurationB5"3
+1MyWarehouse.Infrastructure.Authentication.Startup

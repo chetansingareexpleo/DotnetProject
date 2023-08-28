@@ -1,0 +1,121 @@
+
+{MyWarehouse.Infrastructure.Migrations.UpdateDomainToDotNet6.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)‰
+C:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\Migrations\20221005140037_UpdateDomainToDotNet6.cs*  *($"0*„
+0, B((ûø
+, 2()d
+%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÁMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*QO
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	CreatedBy*
+Transactions*
+nvarchar(max)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+nvarchar(max)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2‡AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)÷ô
+4 :()d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÁMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*QO
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	CreatedBy*
+
+Products*
+nvarchar(max)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+nvarchar(max)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2‡AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)÷ô
+< B()d
+%2^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÁMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*QO
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	CreatedBy*
+
+Partners*
+nvarchar(max)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+nvarchar(max)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2‡AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*
+1*.
+1C	 C(	"
+C C(	
+implicit return:Y
+*% *(FM
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB?=
+;MyWarehouse.Infrastructure.Migrations.UpdateDomainToDotNet6

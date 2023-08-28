@@ -1,0 +1,4 @@
+ˆ
+VMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>¢
+cCreateTransactionCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)ºMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandHandler.CreateTransactionCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)Ò
+{Handle(MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand, System.Threading.CancellationToken)ÒMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandHandler.Handle(MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand, System.Threading.CancellationToken)

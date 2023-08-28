@@ -1,0 +1,26 @@
+
+FMyWarehouse.Application.Common.Mapping.MappingProfile.MappingProfile()`
+VC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Mapping\MappingProfile.cs ("1*Z
+1	 (	F
+D
+
+%0void"AutoMapper.Profile.Profile()*
+AutoMapper.Profile*
+0*Ö
+0 (EÑ
+Å
+& (E 
+%1System.Reflection.Assembly"1System.Reflection.Assembly.GetExecutingAssembly()* "
+System.Reflection.AssemblyÈ
+Ê
+ (F
+
+%2void"kMyWarehouse.Application.Common.Mapping.MappingProfile.ApplyMappingsFromAssembly(System.Reflection.Assembly)*;97
+5MyWarehouse.Application.Common.Mapping.MappingProfile*$"
+ 
+%1System.Reflection.Assembly*
+2*.
+2	 (	"
+ (	
+implicit returnB97
+5MyWarehouse.Application.Common.Mapping.MappingProfile

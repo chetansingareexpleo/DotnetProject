@@ -1,0 +1,24 @@
+
+ñMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.Remove(MyWarehouse.Domain.Transactions.Transaction)é
+ÉC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\TransactionRepositoryEF.cs ("0*ˇ
+0 (%ı
+Ú
+ (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*´®*•m
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>"4
+_set,Microsoft.EntityFrameworkCore.DbSet<TEntity>†ù
+ (&G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*64
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*A?
+=
+entityToDelete+MyWarehouse.Domain.Transactions.Transaction2Remove(TEntity)"U
+ (&I
+G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*.
+1' ('"
+& ('
+implicit return:I
+  (:=
+entityToDelete+MyWarehouse.Domain.Transactions.TransactionBfd
+bMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF

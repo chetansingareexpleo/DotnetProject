@@ -1,0 +1,4 @@
+
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilterobject1Microsoft.AspNetCore.Mvc.Filters.IExceptionFilter¸
+>OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)vMyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)l
+ExceptionMappingFilter()PMyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.ExceptionMappingFilter()

@@ -1,0 +1,40 @@
+
+>MyWarehouse.WebApi.API.V1.ProductController.ProductStockMass()V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\ProductController.cs62 6(B"2*é
+07 7(>€
+~
+7 7(
+%0MediatR.IMediator"__id*SQ*O-
++MyWarehouse.WebApi.API.V1.ProductController"
+	_mediatorMediatR.IMediator¥¢
+7# 7(>M
+%1GMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery"GMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryÍ
+Ê
+7' 7(<
+
+%2void"_MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.ProductStockMassQuery()*QO
+M
+%1GMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryçä
+7 7(?*
+%3$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*QO
+M
+%1GMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)·´
+7 7(@-
+%4'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2Ok(object?)";
+7 7(@/
+-
+%4'Microsoft.AspNetCore.Mvc.OkObjectResult*.
+17A 7(A"
+7@ 7(A
+implicit return*4
+26D 6(D 
+
+62 6(B
+%5"__entrypoint*
+0B/-
++MyWarehouse.WebApi.API.V1.ProductController

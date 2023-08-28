@@ -1,0 +1,30 @@
+
+¯MyWarehouse.Application.Common.Exceptions.InputValidationException.InputValidationException(System.Collections.Generic.IEnumerable<FluentValidation.Results.ValidationFailure>)m
+cC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Exceptions\InputValidationException.cs (#"1*
+1U (U*
+0*’
+0 (R¢
+Ÿ
+ (S/
+%0)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*97
+5
+failures)System.Collections.Generic.IEnumerable<T>*
+""Ã
+À
+ (T
+
+%1void"¨MyWarehouse.Application.Common.Exceptions.InputValidationException.SaveGroupedErrors(System.Collections.Generic.IEnumerable<(string PropertyName, string ErrorMessage)>)*HFD
+BMyWarehouse.Application.Common.Exceptions.InputValidationException*31
+/
+%0)System.Collections.Generic.IEnumerable<T>"
+ (T
+
+
+%1void*.
+2U (U"
+T (U
+implicit return:A
+$ (K5
+failures)System.Collections.Generic.IEnumerable<T>BFD
+BMyWarehouse.Application.Common.Exceptions.InputValidationException

@@ -1,0 +1,22 @@
+
+UMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChanges(bool)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ApplicationDbContext.cs; ;(#"0*©
+0= >(9Â
+¿
+= =( 
+
+%0void"\MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ApplyMyEntityOverrides()*IGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext»¸
+> >(:	
+%1int"9Microsoft.EntityFrameworkCore.DbContext.SaveChanges(bool)*IGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*
+""2SaveChanges(bool)"
+> >(;
+	
+%1int*.
+1? ?("
+? ?(
+implicit return:-
+;$ ;(B!
+acceptAllChangesOnSuccessboolBGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext

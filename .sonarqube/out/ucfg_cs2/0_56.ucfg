@@ -1,0 +1,36 @@
+
+KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Partners\Address.cs ("1*
+1O (O*
+0*„
+0 (Mu
+s
+ (
+%0string".MyWarehouse.Domain.Partners.Address.Street.get*)'%
+#MyWarehouse.Domain.Partners.Addresss
+q
+ (
+%1string",MyWarehouse.Domain.Partners.Address.City.get*)'%
+#MyWarehouse.Domain.Partners.Addressv
+t
+ (!
+%2string"/MyWarehouse.Domain.Partners.Address.Country.get*)'%
+#MyWarehouse.Domain.Partners.Addressv
+t
+# (*
+%3string"/MyWarehouse.Domain.Partners.Address.ZipCode.get*)'%
+#MyWarehouse.Domain.Partners.Address"
+ (N
+	{unknown}*.
+2O (O"
+N (O
+implicit return:
+ ( 
+streetstring:
+" (-
+citystring:
+/ (=
+countrystring:
+? (M
+zipcodestringB'%
+#MyWarehouse.Domain.Partners.Address

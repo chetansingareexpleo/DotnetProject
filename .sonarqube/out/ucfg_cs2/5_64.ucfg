@@ -1,0 +1,39 @@
+
+ÇMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationInfoException.ExternalAuthenticationInfoException(System.Collections.Generic.IEnumerable<string>?, MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData?)ç
+ÇC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\External\Exceptions\ExternalAuthenticationInfoException.cs
+ 
+(."1*
+1 (*
+0*Û
+0 (%¨
+©
+ (`
+
+%0void"#System.Exception.Exception(string?)*
+System.Exception*TRP
+NExternal authentication yielded insufficient information to allow local login.µ
+≤
+ (#¿c
+aMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationInfoException"Y
+ReceivedDataIMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData"__id*][
+Y
+receivedDataIMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData˜
+Ù
+ (%°c
+aMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationInfoException":
+MissingFields)System.Collections.Generic.IEnumerable<T>"__id*><
+:
+missingFields)System.Collections.Generic.IEnumerable<T>*
+2*.
+2 ("
+ (
+implicit return:F
+
+/ 
+(X:
+missingFields)System.Collections.Generic.IEnumerable<T>:e
+
+Z 
+(Y
+receivedDataIMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserDataBec
+aMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationInfoException

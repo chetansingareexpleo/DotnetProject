@@ -1,0 +1,115 @@
+
+æMyWarehouse.Domain.Partners.Partner.CreateTransaction(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>, MyWarehouse.Domain.TransactionType)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Partners\Partner.csB B()"0*•
+0D D(ç
+ä
+D D(
+
+%0bool""object.operator ==(object, object)*
+"
+object*64
+2
+items)System.Collections.Generic.IEnumerable<T>*
+""*
+1
+2*Ì
+1E E(9NL
+E E(:"
+%1System.ArgumentNullException"System.ArgumentNullExceptionà
+Ö
+E E(+
+
+%2void";System.ArgumentNullException.ArgumentNullException(string?)*&$
+"
+%1System.ArgumentNullException*
+""*
+3*›
+2G G(≈
+¬
+G G(
+
+%3bool"TSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*64
+2
+items)System.Collections.Generic.IEnumerable<T>*
+4
+5*É
+5G G(NÎ
+Ë
+G G(O
+
+%4bool"pSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*64
+2
+items)System.Collections.Generic.IEnumerable<T>*
+""*
+4
+6*≈
+4	H H(íGE
+	H H(ì
+%5System.ArgumentException"System.ArgumentExceptionÊ
+„
+H H('
+
+%6void"<System.ArgumentException.ArgumentException(string?, string?)*" 
+
+%5System.ArgumentException*_][
+YList of items must be a non-empty list of non-null products and quantities of at least 1.*
+""*
+3*î
+6J O(1lj
+J M(	1
+%7+MyWarehouse.Domain.Transactions.Transaction"+MyWarehouse.Domain.Transactions.Transactionà
+Ö
+J J()
+
+%8void"ÄMyWarehouse.Domain.Transactions.Transaction.Transaction(MyWarehouse.Domain.TransactionType, MyWarehouse.Domain.Partners.Partner)*53
+1
+%7+MyWarehouse.Domain.Transactions.Transaction*
+""*)'%
+#MyWarehouse.Domain.Partners.PartnerÜ
+É
+J M(	:
+transaction+MyWarehouse.Domain.Transactions.Transaction"__id*53
+1
+%7+MyWarehouse.Domain.Transactions.Transaction*
+7*
+7W W(*
+8
+9*°
+8Q Q(<å
+â
+Q Q(=
+
+%9void"hMyWarehouse.Domain.Transactions.Transaction.AddTransactionLine(MyWarehouse.Domain.Products.Product, int)*><
+:
+transaction+MyWarehouse.Domain.Transactions.Transaction*20
+.
+product#MyWarehouse.Domain.Products.Product*
+
+quantityint*
+7*∏
+9T V(†
+ù
+T T()
+%10"System.Collections.Generic.List<T>"__id*`^*\%
+#MyWarehouse.Domain.Partners.Partner"3
+_transactions"System.Collections.Generic.List<T>ª
+∏
+T T(&
+%11void"0System.Collections.Generic.ICollection<T>.Add(T)*-+
+)
+%10"System.Collections.Generic.List<T>*><
+:
+transaction+MyWarehouse.Domain.Transactions.Transaction"H
+V V(<
+:
+transaction+MyWarehouse.Domain.Transactions.Transaction*.
+3W W("
+W W(
+implicit return:>
+B* B(\2
+items)System.Collections.Generic.IEnumerable<T>:A
+B^ B(}5
+transactionType"MyWarehouse.Domain.TransactionTypeB'%
+#MyWarehouse.Domain.Partners.Partner

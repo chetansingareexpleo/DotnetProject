@@ -1,0 +1,21 @@
+
+¶MyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler.ProductStockCountQueryHandler(MyWarehouse.Application.Dependencies.Services.IStockStatisticsService)t
+jC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\ProductStockCount\ProductStockCountQuery.cs (("1*
+12 (2*
+0*ý
+0 (1¨
+¥
+ (1²S
+QMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler"[
+_statisticsServiceEMyWarehouse.Application.Dependencies.Services.IStockStatisticsService"__id*^\
+Z
+statisticsServiceEMyWarehouse.Application.Dependencies.Services.IStockStatisticsService"Â
+ (1µ*²S
+QMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler"[
+_statisticsServiceEMyWarehouse.Application.Dependencies.Services.IStockStatisticsService*.
+22 (2"
+1 (2
+implicit return:f
+) (RZ
+statisticsServiceEMyWarehouse.Application.Dependencies.Services.IStockStatisticsServiceBUS
+QMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler

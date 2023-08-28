@@ -1,0 +1,24 @@
+
+áMyWarehouse.WebApi.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)E
+;C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Startup.cs ("1*
+1G (G*
+0*◊
+0 (Eñ
+ì
+ (7
+%01Microsoft.Extensions.Configuration.IConfiguration",MyWarehouse.WebApi.Startup.Configuration.get* 
+MyWarehouse.WebApi.Startupì
+ê
+ (&6
+%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment"*MyWarehouse.WebApi.Startup.Environment.get* 
+MyWarehouse.WebApi.Startup"
+ (F
+	{unknown}*.
+2G (G"
+F (G
+implicit return:N
+ (/B
+configuration1Microsoft.Extensions.Configuration.IConfiguration:K
+1 (P?
+environment0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+MyWarehouse.WebApi.Startup

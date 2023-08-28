@@ -1,0 +1,4 @@
+¹
+JMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommandHandlerobject!MediatR.IRequestHandler<TRequest>Ž
+_DeleteProductCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)ªMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommandHandler.DeleteProductCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)®
+oHandle(MyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand, System.Threading.CancellationToken)ºMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommandHandler.Handle(MyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand, System.Threading.CancellationToken)

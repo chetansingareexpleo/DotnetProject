@@ -1,0 +1,21 @@
+
+…MyWarehouse.WebApi.ErrorHandling.ErrorHandlingStartup.AddMyErrorHandling(Microsoft.Extensions.DependencyInjection.IServiceCollection)`
+VC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\ErrorHandling\ErrorHandlingStartup.cs ()"0*Ç
+0
+ (	²
+¯
+
+ (
+A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"µMicrosoft.Extensions.DependencyInjection.OptionsServiceCollectionExtensions.Configure<TOptions>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<TOptions>)*QO"M
+KMicrosoft.Extensions.DependencyInjection.OptionsServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1*.
+1 ("
+ (
+implicit return:S
+* (JG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB9"7
+5MyWarehouse.WebApi.ErrorHandling.ErrorHandlingStartup

@@ -1,0 +1,27 @@
+
+pMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>.ListQueryModel()„
+zC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Dependencies\DataAccess\Repositories\Common\ListQueryModel.cs ("0*¿
+03 3(ö
+ó
+
+ (+	
+%0int"mMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>.PageIndex.set*eca
+_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>*2"
+ 
+( (8
+%1"__id*
+""÷
+ô
+ (9	
+%2int"lMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>.PageSize.set*eca
+_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>*
+
+%1ù
+ö
+ (/
+%3string"kMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>.OrderBy.set*eca
+_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>*
+id"
+ 3(
+implicit returnBca
+_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>

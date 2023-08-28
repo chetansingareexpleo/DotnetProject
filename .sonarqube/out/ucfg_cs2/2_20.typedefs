@@ -1,0 +1,4 @@
+¹
+JMyWarehouse.Application.Partners.UpdatePartner.UpdatePartnerCommandHandlerobject!MediatR.IRequestHandler<TRequest>Ž
+_UpdatePartnerCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)ªMyWarehouse.Application.Partners.UpdatePartner.UpdatePartnerCommandHandler.UpdatePartnerCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)®
+oHandle(MyWarehouse.Application.Partners.UpdatePartner.UpdatePartnerCommand, System.Threading.CancellationToken)ºMyWarehouse.Application.Partners.UpdatePartner.UpdatePartnerCommandHandler.Handle(MyWarehouse.Application.Partners.UpdatePartner.UpdatePartnerCommand, System.Threading.CancellationToken)

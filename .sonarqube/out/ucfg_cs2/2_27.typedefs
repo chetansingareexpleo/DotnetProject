@@ -1,0 +1,16 @@
+Ä
+BMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryobjectMediatR.IRequest<TResponse>System.IEquatable<T>[
+
+ToString()MMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.ToString()ï
+'PrintMembers(System.Text.StringBuilder)jMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.PrintMembers(System.Text.StringBuilder)a
+GetHashCode()PMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.GetHashCode()e
+Equals(object?)RMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.Equals(object?)ﬁ
+KEquals(MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery?)éMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.Equals(MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery?)[
+
+<Clone>$()MMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.<Clone>$()¸
+ZGetProductDetailsQuery(MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery)ùMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.GetProductDetailsQuery(MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery)w
+GetProductDetailsQuery()[MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.GetProductDetailsQuery()o
+EqualityContract.getWMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.EqualityContract.geto
+EqualityContract.setWMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.EqualityContract.setS
+Id.getIMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.Id.getS
+Id.setIMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.Id.set

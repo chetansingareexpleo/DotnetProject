@@ -1,0 +1,4 @@
+﻿C:\Users\csingare\Desktop\MyWarehouse\src\SampleData\DataGenerator.cs
+C:\Users\csingare\Desktop\MyWarehouse\src\SampleData\Samples\SamplePartners.cs
+C:\Users\csingare\Desktop\MyWarehouse\src\SampleData\Samples\SampleProducts.cs
+C:\Users\csingare\Desktop\MyWarehouse\src\SampleData\Samples\SampleTransactions.cs

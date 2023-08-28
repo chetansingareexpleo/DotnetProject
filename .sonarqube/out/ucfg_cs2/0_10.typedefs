@@ -1,0 +1,16 @@
+À
+
++MyWarehouse.Domain.Transactions.Transaction"MyWarehouse.Domain.Common.MyEntityobjectJ
+Transaction()9MyWarehouse.Domain.Transactions.Transaction.Transaction()Ù
+TTransaction(MyWarehouse.Domain.TransactionType, MyWarehouse.Domain.Partners.Partner)€MyWarehouse.Domain.Transactions.Transaction.Transaction(MyWarehouse.Domain.TransactionType, MyWarehouse.Domain.Partners.Partner)¨
+<AddTransactionLine(MyWarehouse.Domain.Products.Product, int)hMyWarehouse.Domain.Transactions.Transaction.AddTransactionLine(MyWarehouse.Domain.Products.Product, int)V
+TransactionType.get?MyWarehouse.Domain.Transactions.Transaction.TransactionType.getV
+TransactionType.set?MyWarehouse.Domain.Transactions.Transaction.TransactionType.setB
+	Total.get5MyWarehouse.Domain.Transactions.Transaction.Total.getB
+	Total.set5MyWarehouse.Domain.Transactions.Transaction.Total.setJ
+PartnerId.get9MyWarehouse.Domain.Transactions.Transaction.PartnerId.getJ
+PartnerId.set9MyWarehouse.Domain.Transactions.Transaction.PartnerId.setF
+Partner.get7MyWarehouse.Domain.Transactions.Transaction.Partner.getF
+Partner.set7MyWarehouse.Domain.Transactions.Transaction.Partner.setX
+TransactionLines.get@MyWarehouse.Domain.Transactions.Transaction.TransactionLines.getX
+TransactionLines.set@MyWarehouse.Domain.Transactions.Transaction.TransactionLines.set

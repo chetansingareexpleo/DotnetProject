@@ -1,0 +1,29 @@
+
+ÖMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler.GetTransactionDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)€
+vC:\Users\csingare\Desktop\MyWarehouse\src\Application\Transactions\GetTransactionDetails\GetTransactionDetailsQuery.cs (,"1*
+1 (*
+0*í
+0 (Ÿ
+œ
+ ( ³^
+\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*TR
+P
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork¶
+³
+ (^
+\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler"
+_mapperAutoMapper.IMapper"__id* 
+
+mapperAutoMapper.IMapper*
+2*.
+2 ("
+ (
+implicit return:\
+- (CP
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork:(
+E (S
+mapperAutoMapper.IMapperB`^
+\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler

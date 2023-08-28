@@ -1,0 +1,17 @@
+ù
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextJMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>WMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey>íMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey, TUserClaim, TUserRole, TUserLogin, TRoleClaim, TUserToken>vMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityUserContext<TUser, TKey, TUserClaim, TUserLogin, TUserToken>'Microsoft.EntityFrameworkCore.DbContextobject‘
+ÖApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext>, MyWarehouse.Application.Dependencies.Services.ICurrentUserService, MyWarehouse.Application.Dependencies.Services.IDateTime)…MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext>, MyWarehouse.Application.Dependencies.Services.ICurrentUserService, MyWarehouse.Application.Dependencies.Services.IDateTime)‹
+âApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext>)ÕMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext>)b
+SaveChanges()QMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChanges()j
+SaveChanges(bool)UMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChanges(bool)∞
+4SaveChangesAsync(System.Threading.CancellationToken)xMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChangesAsync(System.Threading.CancellationToken)º
+:SaveChangesAsync(bool, System.Threading.CancellationToken)~MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChangesAsync(bool, System.Threading.CancellationToken)„
+MConfigureConventions(Microsoft.EntityFrameworkCore.ModelConfigurationBuilder)ëMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ConfigureConventions(Microsoft.EntityFrameworkCore.ModelConfigurationBuilder)æ
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)x
+ApplyMyEntityOverrides()\MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ApplyMyEntityOverrides()`
+Products.getPMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Products.get`
+Products.setPMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Products.set`
+Partners.getPMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Partners.get`
+Partners.setPMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Partners.seth
+Transactions.getTMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Transactions.geth
+Transactions.setTMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Transactions.set

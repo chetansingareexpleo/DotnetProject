@@ -1,0 +1,11 @@
+Ë	
++MyWarehouse.WebApi.API.V1.ProductController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectx
+$ProductController(MediatR.IMediator)PMyWarehouse.WebApi.API.V1.ProductController.ProductController(MediatR.IMediator)Æ
+KCreate(MyWarehouse.Application.Products.CreateProduct.CreateProductCommand)wMyWarehouse.WebApi.API.V1.ProductController.Create(MyWarehouse.Application.Products.CreateProduct.CreateProductCommand)Ä
+JGetList(MyWarehouse.Application.Products.GetProducts.GetProductsListQuery)vMyWarehouse.WebApi.API.V1.ProductController.GetList(MyWarehouse.Application.Products.GetProducts.GetProductsListQuery)@
+Get(int)4MyWarehouse.WebApi.API.V1.ProductController.Get(int)F
+Delete(int)7MyWarehouse.WebApi.API.V1.ProductController.Delete(int)Ð
+PUpdate(int, MyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand)|MyWarehouse.WebApi.API.V1.ProductController.Update(int, MyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand)T
+ProductStockMass()>MyWarehouse.WebApi.API.V1.ProductController.ProductStockMass()V
+ProductStockValue()?MyWarehouse.WebApi.API.V1.ProductController.ProductStockValue()V
+ProductStockCount()?MyWarehouse.WebApi.API.V1.ProductController.ProductStockCount()

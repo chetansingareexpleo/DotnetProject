@@ -1,0 +1,5 @@
+·
+-MyWarehouse.WebApi.CORS.Settings.CorsSettingsobjectN
+CorsSettings()<MyWarehouse.WebApi.CORS.Settings.CorsSettings.CorsSettings()V
+AllowedOrigins.get@MyWarehouse.WebApi.CORS.Settings.CorsSettings.AllowedOrigins.getV
+AllowedOrigins.set@MyWarehouse.WebApi.CORS.Settings.CorsSettings.AllowedOrigins.set

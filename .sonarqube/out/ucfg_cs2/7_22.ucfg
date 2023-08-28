@@ -1,0 +1,72 @@
+
+iMyWarehouse.WebApi.API.V1.AccountController.Login(MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\AccountController.cs6 (;"2*è
+
+0 (DÌ
+Í
+ (J
+%0DMyWarehouse.Infrastructure.Authentication.Core.Services.IUserService"__id*ãà*Ö-
++MyWarehouse.WebApi.API.V1.AccountController"T
+_userServiceDMyWarehouse.Infrastructure.Authentication.Core.Services.IUserService•
+¢
+& (4
+%1string"CMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.Username.get*CA
+?
+login6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto•
+¢
+6 (D
+%2string"CMyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto.Password.get*CA
+?
+login6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto¢ü
+ (E*
+%3$System.Threading.Tasks.Task<TResult>"[MyWarehouse.Infrastructure.Authentication.Core.Services.IUserService.SignIn(string, string)*NL
+J
+%0DMyWarehouse.Infrastructure.Authentication.Core.Services.IUserService*
+
+%1string*
+
+%2string2SignIn(string, string)◊
+‘
+ (F3
+%4-Microsoft.AspNetCore.Mvc.ActionResult<TValue>"’MyWarehouse.WebApi.API.V1.AccountController.ProduceLoginResponse((MyWarehouse.Infrastructure.Authentication.Core.Model.MySignInResult result, MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData? data))*1/-
++MyWarehouse.WebApi.API.V1.AccountController*
+"""A
+ (F5
+3
+%4-Microsoft.AspNetCore.Mvc.ActionResult<TValue>*.
+1G (G"
+F (G
+implicit return*¶
+2V (V~
+|
+6 (;b
+?
+login6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto"
+EqualityContractSystem.Type"__entrypointÉ
+Ä
+6 (;f
+?
+login6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto"#
+<Username>k__BackingFieldstring"__entrypointq
+o
+6 (;U
+?
+login6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto"
+Usernamestring"__entrypointÉ
+Ä
+6 (;f
+?
+login6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto"#
+<Password>k__BackingFieldstring"__entrypointq
+o
+6 (;U
+?
+login6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDto"
+Passwordstring"__entrypoint 
+
+6 (;
+%5"__entrypoint*
+0:K
+< (U?
+login6MyWarehouse.WebApi.Authentication.Models.Dtos.LoginDtoB/-
++MyWarehouse.WebApi.API.V1.AccountController

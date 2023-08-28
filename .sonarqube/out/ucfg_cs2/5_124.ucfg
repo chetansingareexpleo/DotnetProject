@@ -1,0 +1,22 @@
+
+ŠMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.Remove(MyWarehouse.Domain.Partners.Partner)‰
+C:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\PartnerRepositoryEF.cs ("0*û
+0 (&§
+¤
+ (I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*ÆÃ*Àm
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>"O
+_contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext¼¹
+ ('G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Remove<TEntity>(TEntity)*MK
+I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*97
+5
+entityToDelete#MyWarehouse.Domain.Partners.Partner2Remove<TEntity>(TEntity)*
+1*.
+1 ("
+ (
+implicit return:A
+  (65
+entityToDelete#MyWarehouse.Domain.Partners.PartnerBb`
+^MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF

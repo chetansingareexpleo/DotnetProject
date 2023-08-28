@@ -1,0 +1,16 @@
+÷
+IMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryobjectMediatR.IRequest<TResponse>System.IEquatable<T>b
+
+ToString()TMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.ToString()œ
+'PrintMembers(System.Text.StringBuilder)qMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.PrintMembers(System.Text.StringBuilder)h
+GetHashCode()WMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.GetHashCode()l
+Equals(object?)YMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.Equals(object?)ó
+REquals(MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery?)œMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.Equals(MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery?)b
+
+<Clone>$()TMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.<Clone>$()‘
+aGetPartnerDetailsQuery(MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery)«MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.GetPartnerDetailsQuery(MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery)~
+GetPartnerDetailsQuery()bMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.GetPartnerDetailsQuery()v
+EqualityContract.get^MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.EqualityContract.getv
+EqualityContract.set^MyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.EqualityContract.setZ
+Id.getPMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.Id.getZ
+Id.setPMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.Id.set

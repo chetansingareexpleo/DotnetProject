@@ -1,0 +1,63 @@
+
+ÞMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler.Handle(MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery, System.Threading.CancellationToken)€
+vC:\Users\csingare\Desktop\MyWarehouse\src\Application\Transactions\GetTransactionDetails\GetTransactionDetailsQuery.cs- (3"0*¹
+0 (m™
+–
+ (H
+%3BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*¹¶*³^
+\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork¤¡
+ ()`
+%4ZMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository"SMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Transactions.get*LJ
+H
+%3BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Transactions.getÜ
+Ù
+S (]	
+%5int"\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery.Id.get*db
+`
+requestUMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryáÞ
+ (n*
+%6$System.Threading.Tasks.Task<TResult>"‚MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.GetProjectedAsync<TDto>(int, bool)*db
+`
+%4ZMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository*
+	
+%5int*
+""2"GetProjectedAsync<TDto>(int, bool)t
+r
+ (nV
+%1PMyWarehouse.Application.Transactions.GetTransactionDetails.TransactionDetailsDto"__id*
+""Ç
+Ä
+ (nV
+%0PMyWarehouse.Application.Transactions.GetTransactionDetails.TransactionDetailsDto"__id*ZX
+V
+%1PMyWarehouse.Application.Transactions.GetTransactionDetails.TransactionDetailsDto"d
+ (QX
+V
+%0PMyWarehouse.Application.Transactions.GetTransactionDetails.TransactionDetailsDto*ú
+1 (PÜ
+Ù
+F (P	
+%7int"\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery.Id.get*db
+`
+requestUMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery™–
+ (QG
+%8AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException"AMyWarehouse.Application.Common.Exceptions.EntityNotFoundExceptionê
+ç
+ (0
+
+%9void"iMyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException(string, object)*KI
+G
+%8AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException*
+""*
+	
+%7int*
+2*.
+2R (R"
+Q (R
+implicit return:l
+4 (V`
+requestUMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery:C
+X ({7
+cancellationToken"System.Threading.CancellationTokenB`^
+\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler

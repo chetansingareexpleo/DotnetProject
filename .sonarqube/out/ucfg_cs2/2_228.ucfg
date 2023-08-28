@@ -1,0 +1,59 @@
+
+ÈMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler.Handle(MyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQuery, System.Threading.CancellationToken)t
+jC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\ProductStockCount\ProductStockCountQuery.cs, (2"0*¨
+0 ('›
+˜
+ (*K
+%0EMyWarehouse.Application.Dependencies.Services.IStockStatisticsService"__id*¸µ*²S
+QMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler"[
+_statisticsServiceEMyWarehouse.Application.Dependencies.Services.IStockStatisticsService‚ÿ
+ (B*
+%1$System.Threading.Tasks.Task<TResult>"]MyWarehouse.Application.Dependencies.Services.IStockStatisticsService.GetProductStockCounts()*OM
+K
+%0EMyWarehouse.Application.Dependencies.Services.IStockStatisticsService2GetProductStockCounts()-
++
+ (B
+res(T1, T2)"__id*
+""§¤
+ (	N
+%2HMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDto"HMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDtoÎ
+Ë
+ ('
+
+%3void"_MyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDto.ProductStockCountDto()*RP
+N
+%2HMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDto"
+ 
+ (+
+%4"__id*
+""Ò
+Ï
+ (+	
+%5int"ZMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDto.ProductCount.init*RP
+N
+%2HMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDto*
+
+%4"
+ 
+ ('
+%6"__id*
+""Ð
+Í
+ ('	
+%7int"XMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDto.TotalStock.init*RP
+N
+%2HMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDto*
+
+%6"\
+ (
+P
+N
+%2HMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountDto*.
+1 ("
+ (
+implicit return:a
+3 (QU
+requestJMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQuery:C
+S (v7
+cancellationToken"System.Threading.CancellationTokenBUS
+QMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler

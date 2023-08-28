@@ -1,0 +1,13 @@
+Ω
+BMyWarehouse.Application.Common.Exceptions.InputValidationExceptionSystem.Exceptionobjectù
++InputValidationException(System.Exception?)nMyWarehouse.Application.Common.Exceptions.InputValidationException.InputValidationException(System.Exception?)‚
+MInputValidationException(params (string PropertyName, string ErrorMessage)[])êMyWarehouse.Application.Common.Exceptions.InputValidationException.InputValidationException(params (string PropertyName, string ErrorMessage)[])à
+`InputValidationException(System.Exception?, params (string PropertyName, string ErrorMessage)[])£MyWarehouse.Application.Common.Exceptions.InputValidationException.InputValidationException(System.Exception?, params (string PropertyName, string ErrorMessage)[])†
+lInputValidationException(System.Collections.Generic.IEnumerable<FluentValidation.Results.ValidationFailure>)ØMyWarehouse.Application.Common.Exceptions.InputValidationException.InputValidationException(System.Collections.Generic.IEnumerable<FluentValidation.Results.ValidationFailure>)í
+eSaveGroupedErrors(System.Collections.Generic.IEnumerable<(string PropertyName, string ErrorMessage)>)®MyWarehouse.Application.Common.Exceptions.InputValidationException.SaveGroupedErrors(System.Collections.Generic.IEnumerable<(string PropertyName, string ErrorMessage)>)[
+
+ToString()MMyWarehouse.Application.Common.Exceptions.InputValidationException.ToString()[
+
+Errors.getMMyWarehouse.Application.Common.Exceptions.InputValidationException.Errors.get[
+
+Errors.setMMyWarehouse.Application.Common.Exceptions.InputValidationException.Errors.set

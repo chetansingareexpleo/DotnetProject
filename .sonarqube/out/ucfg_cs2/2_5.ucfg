@@ -1,0 +1,14 @@
+
+jMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery.GetTransactionListQuery()|
+rC:\Users\csingare\Desktop\MyWarehouse\src\Application\Transactions\GetTransactionsList\GetTransactionsListQuery.cs ($"0*—
+0
+ 
+(è
+å
+
+%0void"pMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>.ListQueryModel()*eca
+_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>"
+ 
+(
+implicit returnBTR
+PMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery

@@ -1,0 +1,4 @@
+´
+QMyWarehouse.Infrastructure.Authentication.External.Services.ExternalSignInServiceobjectRMyWarehouse.Infrastructure.Authentication.External.Services.IExternalSignInServiceÊ
+¹ExternalSignInService(MyWarehouse.Infrastructure.Authentication.External.Services.IExternalAuthenticationVerifier, MyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService)‹MyWarehouse.Infrastructure.Authentication.External.Services.ExternalSignInService.ExternalSignInService(MyWarehouse.Infrastructure.Authentication.External.Services.IExternalAuthenticationVerifier, MyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService)µ
+oSignInExternal(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider, string)ÁMyWarehouse.Infrastructure.Authentication.External.Services.ExternalSignInService.SignInExternal(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider, string)

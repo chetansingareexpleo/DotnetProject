@@ -1,0 +1,11 @@
+‘
+@MyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettingsobjecti
+UserSeedSettings()SMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.UserSeedSettings()k
+SeedDefaultUser.getTMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.SeedDefaultUser.getk
+SeedDefaultUser.setTMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.SeedDefaultUser.setk
+DefaultUsername.getTMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.DefaultUsername.getk
+DefaultUsername.setTMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.DefaultUsername.setk
+DefaultPassword.getTMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.DefaultPassword.getk
+DefaultPassword.setTMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.DefaultPassword.sete
+DefaultEmail.getQMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.DefaultEmail.gete
+DefaultEmail.setQMyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings.DefaultEmail.set

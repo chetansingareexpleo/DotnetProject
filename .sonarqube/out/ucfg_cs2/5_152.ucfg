@@ -1,0 +1,40 @@
+
+ßMyWarehouse.Infrastructure.Persistence.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.Hosting.IHostEnvironment)Y
+OC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Startup.cs (("0*æ
+0 (	ã
+à
+ (QK
+%0EMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettings"{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+""í
+ê
+ (RA
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"©Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, TService)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*OM
+K
+%0EMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettingsû
+ø
+ (
+A
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"âMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>?, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*YW"U
+SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+""*
+""*
+1*.
+1 ("
+ (
+implicit return:S
+) (IG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:N
+K (gB
+configuration1Microsoft.Extensions.Configuration.IConfiguration:@
+i (}4
+env-Microsoft.Extensions.Hosting.IHostEnvironmentB2"0
+.MyWarehouse.Infrastructure.Persistence.Startup

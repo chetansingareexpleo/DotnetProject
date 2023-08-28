@@ -1,0 +1,33 @@
+
+pMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.BaseQuery.getŽ
+ƒC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\TransactionRepositoryEF.cs/ (8"0*¨
+
+0 (@§
+¤
+ (I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*ÆÃ*Àm
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>"O
+_contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextæ
+ã
+ ( 2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"TMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Transactions.get*MK
+I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext°
+­
+ (AR
+%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*64
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Í
+Ê
+ (
+%3System.Linq.IQueryable<T>"}Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.IgnoreQueryFilters<TEntity>(System.Linq.IQueryable<TEntity>)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*VT
+R
+%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+1*.
+1 ("
+ (
+implicit returnBfd
+bMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF

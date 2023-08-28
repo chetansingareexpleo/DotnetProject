@@ -1,0 +1,4 @@
+ñ
+QMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>Ÿ
+dProductStockCountQueryHandler(MyWarehouse.Application.Dependencies.Services.IStockStatisticsService)¶MyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler.ProductStockCountQueryHandler(MyWarehouse.Application.Dependencies.Services.IStockStatisticsService)Ã
+vHandle(MyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQuery, System.Threading.CancellationToken)ÈMyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQueryHandler.Handle(MyWarehouse.Application.Products.GetProductsSummary.ProductStockCountQuery, System.Threading.CancellationToken)

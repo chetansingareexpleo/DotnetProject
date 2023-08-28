@@ -1,0 +1,5 @@
+◊
+ZMyWarehouse.Infrastructure.Authentication.External.Services.ExternalAuthenticationVerifierobject[MyWarehouse.Infrastructure.Authentication.External.Services.IExternalAuthenticationVerifier¬
+qExternalAuthenticationVerifier(MyWarehouse.Infrastructure.Authentication.Settings.ExternalAuthenticationSettings)ÃMyWarehouse.Infrastructure.Authentication.External.Services.ExternalAuthenticationVerifier.ExternalAuthenticationVerifier(MyWarehouse.Infrastructure.Authentication.Settings.ExternalAuthenticationSettings)Æ
+gVerify(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider, string)¬MyWarehouse.Infrastructure.Authentication.External.Services.ExternalAuthenticationVerifier.Verify(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider, string)ù
+AuthenticateGoogleToken(string)zMyWarehouse.Infrastructure.Authentication.External.Services.ExternalAuthenticationVerifier.AuthenticateGoogleToken(string)

@@ -1,0 +1,70 @@
+
+`MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.HandleUnknownException(System.Exception)j
+`C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\ErrorHandling\Filters\ExceptionMappingFilter.cs*! *(7"0*Ì
+0, 3(`db
+, 1(	-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails"'Microsoft.AspNetCore.Mvc.ProblemDetails†
+ƒ
+, ,((
+
+%1void"8Microsoft.AspNetCore.Mvc.ProblemDetails.ProblemDetails()*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails"
+ 
+. .(=
+%2"__id*
+""˜
+•
+. .(=
+%3System.Nullable<T>"2Microsoft.AspNetCore.Mvc.ProblemDetails.Status.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*
+
+%2¹
+¶
+/ /(F
+%4string"1Microsoft.AspNetCore.Mvc.ProblemDetails.Title.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*642
+0An error occurred while processing your request.¹
+¶
+0 0(F
+%5string"0Microsoft.AspNetCore.Mvc.ProblemDetails.Type.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*753
+1https://tools.ietf.org/html/rfc7231#section-6.6.1y
+w
+, 1(	2
+details'Microsoft.AspNetCore.Mvc.ProblemDetails"__id*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails`^
+3 3(b+
+%6%Microsoft.AspNetCore.Mvc.ObjectResult"%Microsoft.AspNetCore.Mvc.ObjectResult¿
+¼
+3 3(
+
+%7void";Microsoft.AspNetCore.Mvc.ObjectResult.ObjectResult(object?)*/-
++
+%6%Microsoft.AspNetCore.Mvc.ObjectResult*64
+2
+details'Microsoft.AspNetCore.Mvc.ProblemDetails"
+ 
+38 3(`
+%8"__id*
+""˜
+•
+3+ 3(`
+%9System.Nullable<T>"4Microsoft.AspNetCore.Mvc.ObjectResult.StatusCode.set*/-
++
+%6%Microsoft.AspNetCore.Mvc.ObjectResult*
+
+%8"9
+3 3(c-
++
+%6%Microsoft.AspNetCore.Mvc.ObjectResult*.
+14 4("
+4 4(
+implicit return:!
+*8 *(C
+_System.ExceptionB;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter

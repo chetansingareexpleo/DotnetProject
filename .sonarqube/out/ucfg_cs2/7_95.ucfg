@@ -1,0 +1,75 @@
+
+VMyWarehouse.WebApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder)E
+;C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Startup.cs! !("0*⁄
+0# )(§
+°
+# #(!6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder"oMyWarehouse.WebApi.Logging.LoggingStartup.UseMyRequestLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder)*/-"+
+)MyWarehouse.WebApi.Logging.LoggingStartup*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderƒ
+¡
+$ $(!6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*?=";
+9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder⁄
+◊
+% %(6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*NL"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderÔ
+Ï
+& &($
+
+%3void"lMyWarehouse.WebApi.CORS.CorsStartup.UseMyCorsConfiguration(Microsoft.AspNetCore.Builder.IApplicationBuilder)*)'"%
+#MyWarehouse.WebApi.CORS.CorsStartup*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderñ
+ì
+' '(&7
+%41Microsoft.Extensions.Configuration.IConfiguration",MyWarehouse.WebApi.Startup.Configuration.get* 
+MyWarehouse.WebApi.Startup‚
+ﬂ
+' '('
+
+%5void"õMyWarehouse.WebApi.Swagger.SwaggerStartup.UseMySwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Configuration.IConfiguration)*/-"+
+)MyWarehouse.WebApi.Swagger.SwaggerStartup*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*;9
+7
+%41Microsoft.Extensions.Configuration.IConfigurationñ
+ì
+(  ((-7
+%61Microsoft.Extensions.Configuration.IConfiguration",MyWarehouse.WebApi.Startup.Configuration.get* 
+MyWarehouse.WebApi.Startupì
+ê
+(/ ((:6
+%70Microsoft.AspNetCore.Hosting.IWebHostEnvironment"*MyWarehouse.WebApi.Startup.Environment.get* 
+MyWarehouse.WebApi.StartupÂ
+‚
+( ((;
+
+%8void"€MyWarehouse.Infrastructure.InfrastructureStartup.UseMyInfrastructure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)*64"2
+0MyWarehouse.Infrastructure.InfrastructureStartup*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*;9
+7
+%61Microsoft.Extensions.Configuration.IConfiguration*:8
+6
+%70Microsoft.AspNetCore.Hosting.IWebHostEnvironmentÛ
+
+) )(
+
+%9void"gMyWarehouse.WebApi.Authentication.ApiStartup.UseMyApi(Microsoft.AspNetCore.Builder.IApplicationBuilder)*20".
+,MyWarehouse.WebApi.Authentication.ApiStartup*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+1*.
+1* *("
+* *(
+implicit return:C
+! !(17
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderB
+MyWarehouse.WebApi.Startup

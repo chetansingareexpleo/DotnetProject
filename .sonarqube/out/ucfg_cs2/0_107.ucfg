@@ -1,0 +1,47 @@
+
+rMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Mass(float, MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)[
+QC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Mass\Mass.cs
+ 
+("1*
+1 (*
+0*
+0 (*
+2
+3*‚
+2 (QFD
+ (R
+%0System.ArgumentException"System.ArgumentException¥
+¢
+ ('
+
+%1void"<System.ArgumentException.ArgumentException(string?, string?)*" 
+
+%0System.ArgumentException*
+Value cannot be negative*
+""*
+4*°
+3 (™
+–
+ (
+%2float";MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Value.init*642
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*
+""ÿ
+ü
+ (:
+%34MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit":MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Unit.init*642
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*@>
+<
+unit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*
+4*.
+4 ("
+ (
+implicit return:
+
+ 
+(
+valuefloat:H
+
+ 
+(*<
+unit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitB42
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass

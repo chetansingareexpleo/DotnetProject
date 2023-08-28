@@ -1,0 +1,40 @@
+
+;MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.ToString()[
+QC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Mass\Mass.cs (#"0*¼
+0 (#Ž
+‹
+ (
+%0float":MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Value.get*642
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass¼
+¹
+ (:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"9MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Unit.get*642
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Massœ
+™
+ (#
+%2string"?MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.Symbol.get*><
+:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitQ
+O
+ (%
+%3float"__concat*
+ (
+
+%0float*
+ (
+ P
+N
+ (%
+%4float"__concat*
+
+%3float*
+ ($
+
+%2string"
+ (%
+
+%4float*.
+1& (&"
+% (&
+implicit returnB42
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass

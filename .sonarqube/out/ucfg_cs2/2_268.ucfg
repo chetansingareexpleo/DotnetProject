@@ -1,0 +1,73 @@
+
+ÂMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryHandler.Handle(MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery, System.Threading.CancellationToken)r
+hC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\ProductStockMass\ProductStockMassQuery.cs$ (*"0*¤
+0 (#˜
+•
+ (+K
+%0EMyWarehouse.Application.Dependencies.Services.IStockStatisticsService"__id*µ²*¯P
+NMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryHandler"[
+_statisticsServiceEMyWarehouse.Application.Dependencies.Services.IStockStatisticsServiceÌ
+É
+E (S:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*{y*w6
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"=
+Tonne4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit±®
+ (T*
+%2$System.Threading.Tasks.Task<TResult>"”MyWarehouse.Application.Dependencies.Services.IStockStatisticsService.GetProductStockTotalMass(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)*OM
+K
+%0EMyWarehouse.Application.Dependencies.Services.IStockStatisticsService*><
+:
+%14MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit2NGetProductStockTotalMass(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)V
+T
+ (T8
+mass0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass"__id*
+""“
+ (	D
+%3>MyWarehouse.Application.Products.ProductStockMass.StockMassDto">MyWarehouse.Application.Products.ProductStockMass.StockMassDto²
+¯
+ (
+
+%4void"MMyWarehouse.Application.Products.ProductStockMass.StockMassDto.StockMassDto()*HF
+D
+%3>MyWarehouse.Application.Products.ProductStockMass.StockMassDto”
+‘
+ (
+%5float":MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Value.get*<:
+8
+mass0MyWarehouse.Domain.Common.ValueObjects.Mass.MassÀ
+½
+ (
+%6float"IMyWarehouse.Application.Products.ProductStockMass.StockMassDto.Value.init*HF
+D
+%3>MyWarehouse.Application.Products.ProductStockMass.StockMassDto*
+
+%5floatÂ
+¿
+ (:
+%74MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"9MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Unit.get*<:
+8
+mass0MyWarehouse.Domain.Common.ValueObjects.Mass.Massœ
+™
+ (#
+%8string"?MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.Symbol.get*><
+:
+%74MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitÁ
+¾
+ (#
+%9string"HMyWarehouse.Application.Products.ProductStockMass.StockMassDto.Unit.init*HF
+D
+%3>MyWarehouse.Application.Products.ProductStockMass.StockMassDto*
+
+%8string"R
+ (
+F
+D
+%3>MyWarehouse.Application.Products.ProductStockMass.StockMassDto*.
+1 ("
+ (
+implicit return:^
++ (HR
+requestGMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery:C
+J (m7
+cancellationToken"System.Threading.CancellationTokenBRP
+NMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryHandler

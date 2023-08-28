@@ -1,0 +1,111 @@
+
+ÄMyWarehouse.WebApi.Logging.Helper.LogHelper.ExcludeHealthChecks(Microsoft.AspNetCore.Http.HttpContext, double, System.Exception)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Logging\Helper\LogHelper.cs  (3"0*á
+0 (p
+n
+ (
+
+%0bool""object.operator !=(object, object)*
+"
+object*
+
+exSystem.Exception*
+""*
+1
+2*Ö
+1 (!"
+ 
+ (!
+%4"__id*
+""@
+>
+ (!"
+%2Serilog.Events.LogEventLevel"__id*
+
+%4^
+\
+ (!"
+%1Serilog.Events.LogEventLevel"__id*&$
+"
+%2Serilog.Events.LogEventLevel"0
+ (!$
+"
+%1Serilog.Events.LogEventLevel*€
+2 (+Ø¨
+ (,
+%5&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*0.
+,
+ctx%Microsoft.AspNetCore.Http.HttpContext2Response.getëé
+ (%	
+%6int"5Microsoft.AspNetCore.Http.HttpResponse.StatusCode.get*0.
+,
+%5&Microsoft.AspNetCore.Http.HttpResponse2StatusCode.get*
+3
+4*ÿ
+3 (%"
+ 
+ (%
+%9"__id*
+""@
+>
+ (%"
+%7Serilog.Events.LogEventLevel"__id*
+
+%9^
+\
+ (%"
+%1Serilog.Events.LogEventLevel"__id*&$
+"
+%7Serilog.Events.LogEventLevel*
+5*Å
+4 (+È
+Ê
+ (,
+%10bool"hMyWarehouse.WebApi.Logging.Helper.LogHelper.IsHealthCheckEndpoint(Microsoft.AspNetCore.Http.HttpContext)*1/"-
++MyWarehouse.WebApi.Logging.Helper.LogHelper*0.
+,
+ctx%Microsoft.AspNetCore.Http.HttpContext*
+6
+7*‹
+6 (+#
+!
+ (+
+%13"__id*
+""B
+@
+ (+#
+%11Serilog.Events.LogEventLevel"__id*	
+
+%13_
+]
+ (+"
+%1Serilog.Events.LogEventLevel"__id*'%
+#
+%11Serilog.Events.LogEventLevel*
+5*‹
+7 (/#
+!
+ (/
+%14"__id*
+""B
+@
+ (/#
+%12Serilog.Events.LogEventLevel"__id*	
+
+%14_
+]
+ (/"
+%1Serilog.Events.LogEventLevel"__id*'%
+#
+%12Serilog.Events.LogEventLevel*
+5*.
+50 (0"
+/ (0
+implicit return:8
+4 (C,
+ctx%Microsoft.AspNetCore.Http.HttpContext:
+E (M
+_double:"
+O ([
+exSystem.ExceptionB/"-
++MyWarehouse.WebApi.Logging.Helper.LogHelper

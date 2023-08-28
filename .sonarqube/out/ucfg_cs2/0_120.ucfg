@@ -1,0 +1,62 @@
+
+pMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.ConvertTo(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)[
+QC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Mass\Mass.cs ("0*â
+0 (¼
+¹
+ (:
+%04MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"9MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Unit.get*642
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass‹
+ˆ
+ (
+
+%1bool"®MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.operator ==(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit?, MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit?)*:8"6
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*CA
+?
+newUnit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*><
+:
+%04MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*
+1
+2*O
+1 ("@
+ (42
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*“	
+2 (Ž
+‹
+ (
+%2float":MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Value.get*642
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass¼
+¹
+ (:
+%34MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"9MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Unit.get*642
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass©
+¦
+ (4
+%4float"MMyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.ConversionRateToGram.get*><
+:
+%34MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit®
+«
+7 (S
+%5float"MMyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.ConversionRateToGram.get*CA
+?
+newUnit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitvt
+ (	6
+%60MyWarehouse.Domain.Common.ValueObjects.Mass.Mass"0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass˜
+•
+ (
+
+%7void"rMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Mass(float, MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)*:8
+6
+%60MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*
+""*CA
+?
+newUnit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"D
+ (
+8
+6
+%60MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*.
+3 ("
+ (
+implicit return:K
+ (*?
+newUnit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitB42
+0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass

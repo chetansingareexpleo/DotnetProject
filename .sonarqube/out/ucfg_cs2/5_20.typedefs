@@ -1,0 +1,9 @@
+ð
+^MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.ProductRepositoryEFkMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>objectVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository¼
+lProductRepositoryEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)ËMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.ProductRepositoryEF.ProductRepositoryEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)“
+GetHeaviestProducts(int)wMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.ProductRepositoryEF.GetHeaviestProducts(int)™
+GetMostStockedProducts(int)zMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.ProductRepositoryEF.GetMostStockedProducts(int)º
++Remove(MyWarehouse.Domain.Products.Product)ŠMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.ProductRepositoryEF.Remove(MyWarehouse.Domain.Products.Product)”
+XRemoveRange(System.Collections.Generic.IEnumerable<MyWarehouse.Domain.Products.Product>)·MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.ProductRepositoryEF.RemoveRange(System.Collections.Generic.IEnumerable<MyWarehouse.Domain.Products.Product>)}
+BaseQuery.getlMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.ProductRepositoryEF.BaseQuery.get}
+BaseQuery.setlMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.ProductRepositoryEF.BaseQuery.set

@@ -1,0 +1,4 @@
+œ
+VMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>object.MediatR.IPipelineBehavior<TRequest, TResponse>ì
+HExceptionLoggingBehavior(Microsoft.Extensions.Logging.ILogger<TRequest>)ŸMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>.ExceptionLoggingBehavior(Microsoft.Extensions.Logging.ILogger<TRequest>)š
+_Handle(TRequest, System.Threading.CancellationToken, MediatR.RequestHandlerDelegate<TResponse>)¶MyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>.Handle(TRequest, System.Threading.CancellationToken, MediatR.RequestHandlerDelegate<TResponse>)

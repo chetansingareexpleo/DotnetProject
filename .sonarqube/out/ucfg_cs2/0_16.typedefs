@@ -1,0 +1,22 @@
+Þ
+2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyobjectSystem.IEquatable<T>Á
+EMoney(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)xMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)C
+Copy()9MyWarehouse.Domain.Common.ValueObjects.Money.Money.Copy()[
+AddAmount(decimal)EMyWarehouse.Domain.Common.ValueObjects.Money.Money.AddAmount(decimal)K
+
+ToString()=MyWarehouse.Domain.Common.ValueObjects.Money.Money.ToString()…
+'PrintMembers(System.Text.StringBuilder)ZMyWarehouse.Domain.Common.ValueObjects.Money.Money.PrintMembers(System.Text.StringBuilder)Q
+GetHashCode()@MyWarehouse.Domain.Common.ValueObjects.Money.Money.GetHashCode()U
+Equals(object?)BMyWarehouse.Domain.Common.ValueObjects.Money.Money.Equals(object?)­
+;Equals(MyWarehouse.Domain.Common.ValueObjects.Money.Money?)nMyWarehouse.Domain.Common.ValueObjects.Money.Money.Equals(MyWarehouse.Domain.Common.ValueObjects.Money.Money?)K
+
+<Clone>$()=MyWarehouse.Domain.Common.ValueObjects.Money.Money.<Clone>$()©
+9Money(MyWarehouse.Domain.Common.ValueObjects.Money.Money)lMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(MyWarehouse.Domain.Common.ValueObjects.Money.Money)_
+EqualityContract.getGMyWarehouse.Domain.Common.ValueObjects.Money.Money.EqualityContract.get_
+EqualityContract.setGMyWarehouse.Domain.Common.ValueObjects.Money.Money.EqualityContract.setK
+
+Amount.get=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.getK
+
+Amount.set=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.setO
+Currency.get?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.getO
+Currency.set?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.set

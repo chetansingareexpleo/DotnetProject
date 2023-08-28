@@ -1,0 +1,6 @@
+Î
+/MyWarehouse.Infrastructure.Migrations.AddDomain2Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mMyWarehouse.Infrastructure.Migrations.AddDomain.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)²
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oMyWarehouse.Infrastructure.Migrations.AddDomain.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¬
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)lMyWarehouse.Infrastructure.Migrations.AddDomain.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)J
+AddDomain();MyWarehouse.Infrastructure.Migrations.AddDomain.AddDomain()

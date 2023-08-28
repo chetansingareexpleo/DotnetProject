@@ -1,0 +1,28 @@
+
+9MyWarehouse.TestData.DataGenerator.GenerateBaseEntities()O
+EC:\Users\csingare\Desktop\MyWarehouse\src\SampleData\DataGenerator.cs1 (E"0*ñ
+0 ("»
+¸
+ (@(
+%0"System.Collections.Generic.List<T>"GMyWarehouse.TestData.Samples.SampleProducts.GenerateSampleProducts(int)*1/"-
++MyWarehouse.TestData.Samples.SampleProducts*2Lp
+n
+ (@.
+products"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>«
+¨
+ (9(
+%1"System.Collections.Generic.List<T>"?MyWarehouse.TestData.Samples.SamplePartners.GetSamplePartners()*1/"-
++MyWarehouse.TestData.Samples.SamplePartnersp
+n
+ (9.
+partners"System.Collections.Generic.List<T>"__id*,*
+(
+%1"System.Collections.Generic.List<T>"
+ ($
+""*.
+1 ("
+ (
+implicit returnB&"$
+"MyWarehouse.TestData.DataGenerator

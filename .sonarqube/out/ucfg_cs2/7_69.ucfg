@@ -1,0 +1,66 @@
+
+|MyWarehouse.WebApi.API.V1.ProductController.Update(int, MyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\ProductController.cs,$ ,(*"4*Ð
+0. .(¸
+µ
+. .(	
+%0int"JMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand.Id.get*RP
+N
+commandCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand*
+1
+2*€
+1.% .(1±®
+.% .(1/
+%1)Microsoft.AspNetCore.Mvc.BadRequestResult"4Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest()*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase2BadRequest()"=
+. .(21
+/
+%1)Microsoft.AspNetCore.Mvc.BadRequestResult*ê
+20 2(€
+~
+0 0(
+%2MediatR.IMediator"__id*SQ*O-
++MyWarehouse.WebApi.API.V1.ProductController"
+	_mediatorMediatR.IMediatorèå
+0 0(%*
+%3$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%2MediatR.IMediator*RP
+N
+commandCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)®«
+2 2(.
+%4(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase2NoContent()"<
+2 2(0
+.
+%4(Microsoft.AspNetCore.Mvc.NoContentResult*.
+33 3("
+3 3(
+implicit return*Ô
+4,P ,(PŽ
+‹
+,$ ,(*q
+N
+commandCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand"
+EqualityContractSystem.Type"__entrypoint|
+z
+,$ ,(*`
+N
+commandCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand"
+Namestring"__entrypoint„
+
+,$ ,(*g
+N
+commandCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand"
+Descriptionstring"__entrypoint*
+(
+,$ ,(*
+%5"__entrypoint*
+""*
+0:
+,+ ,(1	
+idint:Z
+,3 ,(ON
+commandCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandB/-
++MyWarehouse.WebApi.API.V1.ProductController

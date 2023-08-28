@@ -1,0 +1,98 @@
+
+ºMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandHandler.Handle(MyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand, System.Threading.CancellationToken)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Application\Partners\DeletePartner\DeletePartnerCommand.cs (""0*ß	
+0 (H‡
+„
+ ('H
+%3BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*§¤*¡L
+JMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork˜•
+ (0\
+%4VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository"OMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Partners.get*LJ
+H
+%3BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Partners.get¸
+µ
+> (H	
+%5int"JMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.Id.get*RP
+N
+requestCMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand°­
+ (I*
+%6$System.Threading.Tasks.Task<TResult>"qMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.GetByIdAsync(int)*`^
+\
+%4VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository*
+	
+%5int2GetByIdAsync(int)G
+E
+ (I)
+%1#MyWarehouse.Domain.Partners.Partner"__id*
+""l
+j
+ (I)
+%0#MyWarehouse.Domain.Partners.Partner"__id*-+
+)
+%1#MyWarehouse.Domain.Partners.Partner*
+1
+2*Ö
+1 (L¸
+µ
+B (L	
+%7int"JMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.Id.get*RP
+N
+requestCMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand™–
+ (MG
+%8AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException"AMyWarehouse.Application.Common.Exceptions.EntityNotFoundExceptionê
+ç
+ (0
+
+%9void"iMyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException(string, object)*KI
+G
+%8AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException*
+""*
+	
+%7int*
+3*¿
+2 (q
+o
+ (M.
+partner#MyWarehouse.Domain.Partners.Partner"__id*-+
+)
+%0#MyWarehouse.Domain.Partners.Partnerˆ
+…
+ (I
+%10BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*§¤*¡L
+JMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkš—
+ (]
+%11VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository"OMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Partners.get*MK
+I
+%10BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Partners.get³°
+ (,
+%12void"oMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.Remove(TEntity)*a_
+]
+%11VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository*20
+.
+partner#MyWarehouse.Domain.Partners.Partner2Remove(TEntity)ˆ
+…
+ (I
+%13BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*§¤*¡L
+JMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkáÞ
+ ('"
+%14System.Threading.Tasks.Task"PMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.SaveChanges()*MK
+I
+%13BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2SaveChanges()M
+K
+ (
+%15MediatR.Unit"MediatR.Unit.Value.get*"
+MediatR.Unit"!
+ (
+
+%15MediatR.Unit*.
+3 ("
+ (
+implicit return:Z
+# (?N
+requestCMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand:C
+A (d7
+cancellationToken"System.Threading.CancellationTokenBNL
+JMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandHandler

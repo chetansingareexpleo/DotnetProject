@@ -1,0 +1,104 @@
+
+6MyWarehouse.Domain.Partners.Partner.UpdateName(string)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Partners\Partner.cs1 1("0*v
+03 3(+_
+]
+3 3(,
+
+%0bool""string.IsNullOrWhiteSpace(string?)*
+"
+string*
+
+valuestring*
+1
+2*Ï
+14 4(?FD
+4 4(@
+%1System.ArgumentException"System.ArgumentExceptionè
+å
+4 4('
+
+%2void"3System.ArgumentException.ArgumentException(string?)*" 
+
+%1System.ArgumentException*
+Name cannot be empty.*
+3*z
+26 6(:?
+=
+6 6(	
+%3int"string.Length.get*
+
+valuestring"
+ 
+6 6(:
+%4"__id*
+""*
+4
+5*†
+4	7 7(à?
+=
+7< 7(H	
+%5int"string.Length.get*
+
+valuestring#
+!
+	7i 7(à
+%6"__id*
+""^
+\
+	7( 7(å	
+%7int"__concat*!
+7* 7(;
+Length of value (*
+7; 7(I
+	
+%5intb
+`
+	7( 7(å	
+%8int"__concat*
+	
+%7int*/
+7I 7(h#!
+) exceeds maximum name length (F
+D
+	7( 7(å	
+%9int"__concat*
+	
+%8int*
+	7h 7(â
+
+%6H
+F
+	7( 7(å
+
+%10int"__concat*
+	
+%9int*
+
+7â 7(ã
+).HF
+	7 7(ç
+%11System.ArgumentException"System.ArgumentExceptionÑ
+Å
+7 7('
+%12void"3System.ArgumentException.ArgumentException(string?)*#!
+
+%11System.ArgumentException*
+
+
+%10int*
+3*ü
+59 9(ä
+á
+9 9(
+%13string",MyWarehouse.Domain.Partners.Partner.Name.set*)'%
+#MyWarehouse.Domain.Partners.Partner*
+
+valuestring*
+3*.
+3: :("
+: :(
+implicit return:
+1 1('
+valuestringB'%
+#MyWarehouse.Domain.Partners.Partner

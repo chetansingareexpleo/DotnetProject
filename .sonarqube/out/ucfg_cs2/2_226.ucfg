@@ -1,0 +1,81 @@
+
+∏MyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler.Handle(MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery, System.Threading.CancellationToken)t
+jC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\GetProductDetails\GetProductDetailsQuery.cs) (/"0*‹	
+0 (HÜ
+É
+ ('H
+%3BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*¶£*†K
+IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkòï
+ (0\
+%4VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository"OMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Products.get*LJ
+H
+%3BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Products.get∂
+≥
+> (H	
+%5int"IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.Id.get*QO
+M
+requestBMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery∞≠
+ (I*
+%6$System.Threading.Tasks.Task<TResult>"qMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.GetByIdAsync(int)*`^
+\
+%4VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository*
+	
+%5int2GetByIdAsync(int)G
+E
+ (I)
+%1#MyWarehouse.Domain.Products.Product"__id*
+""l
+j
+ (I)
+%0#MyWarehouse.Domain.Products.Product"__id*-+
+)
+%1#MyWarehouse.Domain.Products.Product*
+1
+2*‘
+1 (L∂
+≥
+B (L	
+%7int"IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.Id.get*QO
+M
+requestBMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryôñ
+ (MG
+%8AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException"AMyWarehouse.Application.Common.Exceptions.EntityNotFoundExceptionÍ
+Á
+ (0
+
+%9void"iMyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException(string, object)*KI
+G
+%8AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException*
+""*
+	
+%7int*
+3*Ì
+2 (5q
+o
+ (M.
+product#MyWarehouse.Domain.Products.Product"__id*-+
+)
+%0#MyWarehouse.Domain.Products.Product†
+ù
+ (
+%10AutoMapper.IMapper"__id*pn*lK
+IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler"
+_mapperAutoMapper.IMapperÛ
+ (6D
+%11=MyWarehouse.Application.Products.GetProduct.ProductDetailsDto"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%10AutoMapper.IMapper*20
+.
+product#MyWarehouse.Domain.Products.Product2Map<TDestination>(object)"R
+ (7F
+D
+%11=MyWarehouse.Application.Products.GetProduct.ProductDetailsDto*.
+3 ("
+ (
+implicit return:Y
+0 (NM
+requestBMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery:C
+P (s7
+cancellationToken"System.Threading.CancellationTokenBMK
+IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler

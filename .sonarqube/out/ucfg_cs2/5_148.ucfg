@@ -1,0 +1,26 @@
+
+~MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChangesAsync(bool, System.Threading.CancellationToken)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ApplicationDbContext.csD D(."0*ú
+0F G(QÂ
+¿
+F F( 
+
+%0void"\MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ApplyMyEntityOverrides()*IGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextëè
+G G(R*
+%1$System.Threading.Tasks.Task<TResult>"bMicrosoft.EntityFrameworkCore.DbContext.SaveChangesAsync(bool, System.Threading.CancellationToken)*IGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*
+""*;9
+7
+cancellationToken"System.Threading.CancellationToken2:SaveChangesAsync(bool, System.Threading.CancellationToken)"8
+G G(S,
+*
+%1$System.Threading.Tasks.Task<TResult>*.
+1H H("
+H H(
+implicit return:-
+D/ D(M!
+acceptAllChangesOnSuccessbool:C
+DO D(|7
+cancellationToken"System.Threading.CancellationTokenBGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext

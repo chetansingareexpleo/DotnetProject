@@ -1,0 +1,29 @@
+
+¿MyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler.GetProductDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)t
+jC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\GetProductDetails\GetProductDetailsQuery.cs (("1*
+1 (*
+0*Ç
+0 (Œ
+‰
+ (  K
+IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*TR
+P
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork£
+ 
+ (lK
+IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler"
+_mapperAutoMapper.IMapper"__id* 
+
+mapperAutoMapper.IMapper*
+2*.
+2 ("
+ (
+implicit return:\
+) (?P
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork:(
+A (O
+mapperAutoMapper.IMapperBMK
+IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryHandler

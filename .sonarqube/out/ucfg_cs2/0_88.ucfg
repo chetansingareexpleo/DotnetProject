@@ -1,0 +1,68 @@
+
+8MyWarehouse.Domain.Products.Product.UpdatePrice(decimal)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Products\Product.cs9 9("0*Ã
+0; <('‡
+„
+; ;(
+
+%0void"7MyWarehouse.Domain.Products.Product.CheckPrice(decimal)*)'"%
+#MyWarehouse.Domain.Products.Product*
+""¡
+ž
+<" <('8
+%12MyWarehouse.Domain.Common.ValueObjects.Money.Money"-MyWarehouse.Domain.Products.Product.Price.get*)'%
+#MyWarehouse.Domain.Products.Product*
+1
+2*Þ
+2<( <(1É
+Æ
+<) <(1;
+%25MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*<:
+8
+%12MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+1*
+1= =(*
+3
+4*–
+3<5 <([Ù
+Ö
+<5 <([;
+%65MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__id*†ƒ*€/
+-MyWarehouse.Domain.Products.ProductInvariants"M
+DefaultPriceCurrency5MyWarehouse.Domain.Common.ValueObjects.Money.Currency‘
+Ž
+<5 <([;
+%55MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__id*?=
+;
+%65MyWarehouse.Domain.Common.ValueObjects.Money.Currency‘
+Ž
+<5 <([;
+%35MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__id*?=
+;
+%55MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+4*
+4< <(\zx
+< <(\8
+%72MyWarehouse.Domain.Common.ValueObjects.Money.Money"2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyœ
+™
+< <(
+
+%8void"xMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)*<:
+8
+%72MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+""*?=
+;
+%35MyWarehouse.Domain.Common.ValueObjects.Money.Currencyß
+Ü
+< <(\8
+%92MyWarehouse.Domain.Common.ValueObjects.Money.Money"-MyWarehouse.Domain.Products.Product.Price.set*)'%
+#MyWarehouse.Domain.Products.Product*<:
+8
+%72MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+5*.
+5= =("
+= =(
+implicit return:
+9 9(*
+amountdecimalB'%
+#MyWarehouse.Domain.Products.Product

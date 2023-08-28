@@ -1,0 +1,29 @@
+
+HMyWarehouse.Domain.Products.ProductInvariants.ProductInvariants()!staticX
+NC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Products\ProductInvariants.cs (%"0*ú
+0 (Ï
+Ì
+6 (G:
+%04MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*~|*z6
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"@
+Kilogram4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitÏ
+Ì
+$ (Gz/
+-MyWarehouse.Domain.Products.ProductInvariants"G
+DefaultMassUnit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%04MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitÍ
+Ê
+; (G;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__id*{y*w7
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency"<
+USD5MyWarehouse.Domain.Common.ValueObjects.Money.Currency×
+Ô
+$ (G€/
+-MyWarehouse.Domain.Products.ProductInvariants"M
+DefaultPriceCurrency5MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__id*?=
+;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency"
+ (
+implicit returnB1"/
+-MyWarehouse.Domain.Products.ProductInvariants

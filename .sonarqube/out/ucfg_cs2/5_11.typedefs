@@ -1,0 +1,4 @@
+–
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserServiceobjectDMyWarehouse.Infrastructure.Authentication.Core.Services.IUserServiceŠ
+ UserService(Microsoft.AspNetCore.Identity.UserManager<MyWarehouse.Infrastructure.Identity.Model.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<MyWarehouse.Infrastructure.Identity.Model.ApplicationUser>, MyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService)äMyWarehouse.Infrastructure.Authentication.Core.Services.UserService.UserService(Microsoft.AspNetCore.Identity.UserManager<MyWarehouse.Infrastructure.Identity.Model.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<MyWarehouse.Infrastructure.Identity.Model.ApplicationUser>, MyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService)t
+SignIn(string, string)ZMyWarehouse.Infrastructure.Authentication.Core.Services.UserService.SignIn(string, string)

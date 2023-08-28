@@ -1,0 +1,4 @@
+à
+NMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>š
+cProductStockMassQueryHandler(MyWarehouse.Application.Dependencies.Services.IStockStatisticsService)²MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryHandler.ProductStockMassQueryHandler(MyWarehouse.Application.Dependencies.Services.IStockStatisticsService)º
+sHandle(MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery, System.Threading.CancellationToken)ÂMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryHandler.Handle(MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery, System.Threading.CancellationToken)

@@ -1,0 +1,54 @@
+
+ªMyWarehouse.WebApi.CORS.CorsStartup.AddMyCorsConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\CORS\CorsStartup.cs
+ 
+(-"0*Œ
+0 ( Ë
+È
+ (E3
+%0-MyWarehouse.WebApi.CORS.Settings.CorsSettings"{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+""‹
+ˆ
+ (E=
+corsSettings-MyWarehouse.WebApi.CORS.Settings.CorsSettings"__id*75
+3
+%0-MyWarehouse.WebApi.CORS.Settings.CorsSettings˜
+•
+ ( 
+
+%1bool""object.operator ==(object, object)*
+"
+object*A?
+=
+corsSettings-MyWarehouse.WebApi.CORS.Settings.CorsSettings*
+""*
+1
+2*!
+1 ("
+ (
+""*á
+2 (	Ì
+É
+ (
+A
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÒMicrosoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions.AddCors(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions>)*NL"J
+HMicrosoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+3*.
+3 ("
+ (
+implicit return:S
+
+. 
+(NG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:N
+
+P 
+(lB
+configuration1Microsoft.Extensions.Configuration.IConfigurationB'"%
+#MyWarehouse.WebApi.CORS.CorsStartup

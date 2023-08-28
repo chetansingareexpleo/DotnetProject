@@ -1,0 +1,104 @@
+
+=MyWarehouse.Domain.Products.Product.UpdateDescription(string)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Products\Product.csL L(!"0*v
+0N N(+_
+]
+N N(,
+
+%0bool""string.IsNullOrWhiteSpace(string?)*
+"
+string*
+
+valuestring*
+1
+2*Û
+1O O(FFD
+O O(G
+%1System.ArgumentException"System.ArgumentExceptionñ
+ì
+O O('
+
+%2void"3System.ArgumentException.ArgumentException(string?)*" 
+
+%1System.ArgumentException*" 
+Description cannot be empty.*
+3*z
+2Q Q(A?
+=
+Q Q(	
+%3int"string.Length.get*
+
+valuestring"
+ 
+Q Q(A
+%4"__id*
+""*
+4
+5*ß
+4	R R(è?
+=
+R< R(H	
+%5int"string.Length.get*
+
+valuestring#
+!
+	Rp R(è
+%6"__id*
+""^
+\
+	R( R(ì	
+%7int"__concat*!
+R* R(;
+Length of value (*
+R; R(I
+	
+%5inti
+g
+	R( R(ì	
+%8int"__concat*
+	
+%7int*6
+RI R(o*(
+&) exceeds maximum description length (F
+D
+	R( R(ì	
+%9int"__concat*
+	
+%8int*
+	Ro R(ê
+
+%6H
+F
+	R( R(ì
+
+%10int"__concat*
+	
+%9int*
+
+Rê R(í
+).HF
+	R R(î
+%11System.ArgumentException"System.ArgumentExceptionÑ
+Å
+R R('
+%12void"3System.ArgumentException.ArgumentException(string?)*#!
+
+%11System.ArgumentException*
+
+
+%10int*
+3*¶
+5T T(ë
+é
+T T(
+%13string"3MyWarehouse.Domain.Products.Product.Description.set*)'%
+#MyWarehouse.Domain.Products.Product*
+
+valuestring*
+3*.
+3U U("
+U U(
+implicit return:
+L" L(.
+valuestringB'%
+#MyWarehouse.Domain.Products.Product

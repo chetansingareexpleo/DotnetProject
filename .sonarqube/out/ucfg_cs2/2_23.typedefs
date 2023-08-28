@@ -1,0 +1,4 @@
+Ä
+JMyWarehouse.Application.Products.CreateProduct.CreateProductCommandHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>Ž
+_CreateProductCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)ªMyWarehouse.Application.Products.CreateProduct.CreateProductCommandHandler.CreateProductCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)®
+oHandle(MyWarehouse.Application.Products.CreateProduct.CreateProductCommand, System.Threading.CancellationToken)ºMyWarehouse.Application.Products.CreateProduct.CreateProductCommandHandler.Handle(MyWarehouse.Application.Products.CreateProduct.CreateProductCommand, System.Threading.CancellationToken)

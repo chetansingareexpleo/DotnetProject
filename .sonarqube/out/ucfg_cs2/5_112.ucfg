@@ -1,0 +1,83 @@
+
+äMyWarehouse.Infrastructure.ConfigurationExtensions.RegisterMyOptions<T>(Microsoft.Extensions.DependencyInjection.IServiceCollection, bool)o
+eC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Extensions\ConfigurationExtensions.cs) )($"0*Ñ
+0+ 0(&ä
+á
++ +(1;
+%05Microsoft.Extensions.Options.OptionsBuilder<TOptions>"ùMicrosoft.Extensions.DependencyInjection.OptionsServiceCollectionExtensions.AddOptions<TOptions>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.OptionsServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionUS
+, ,()
+%1string"%System.Reflection.MemberInfo.Name.get*
+""2Name.getÍ
+Á
++ ,(*;
+%25Microsoft.Extensions.Options.OptionsBuilder<TOptions>"ÍMicrosoft.Extensions.DependencyInjection.OptionsBuilderConfigurationExtensions.BindConfiguration<TOptions>(Microsoft.Extensions.Options.OptionsBuilder<TOptions>, string, System.Action<Microsoft.Extensions.Configuration.BinderOptions>)*TR"P
+NMicrosoft.Extensions.DependencyInjection.OptionsBuilderConfigurationExtensions*?=
+;
+%05Microsoft.Extensions.Options.OptionsBuilder<TOptions>*
+
+%1string*
+""è
+å
++ -(";
+%35Microsoft.Extensions.Options.OptionsBuilder<TOptions>"©Microsoft.Extensions.DependencyInjection.OptionsBuilderDataAnnotationsExtensions.ValidateDataAnnotations<TOptions>(Microsoft.Extensions.Options.OptionsBuilder<TOptions>)*VT"R
+PMicrosoft.Extensions.DependencyInjection.OptionsBuilderDataAnnotationsExtensions*?=
+;
+%25Microsoft.Extensions.Options.OptionsBuilder<TOptions>È
+Ê
++ .(;
+%45Microsoft.Extensions.Options.OptionsBuilder<TOptions>"íMicrosoft.Extensions.DependencyInjection.OptionsBuilderExtensions.ValidateOnStart<TOptions>(Microsoft.Extensions.Options.OptionsBuilder<TOptions>)*GE"C
+AMicrosoft.Extensions.DependencyInjection.OptionsBuilderExtensions*?=
+;
+%35Microsoft.Extensions.Options.OptionsBuilder<TOptions>ù
+ö
++ .(G
+optionsBuilder5Microsoft.Extensions.Options.OptionsBuilder<TOptions>"__id*?=
+;
+%45Microsoft.Extensions.Options.OptionsBuilder<TOptions>*
+1
+2*’
+11 2(y"
+ 
+2P 2(i
+%5"__id*
+""US
+2k 2(y
+%6string"%System.Reflection.MemberInfo.Name.get*
+""2Name.getd
+b
+2B 2(z
+%7string"string.Format(string, object?)*
+"
+string*
+
+%5*
+
+%6stringﬂ‹
+1 2({;
+%85Microsoft.Extensions.Options.OptionsBuilder<TOptions>"oMicrosoft.Extensions.Options.OptionsBuilder<TOptions>.Validate<TDep>(System.Func<TOptions, TDep, bool>, string)*KI
+G
+optionsBuilder5Microsoft.Extensions.Options.OptionsBuilder<TOptions>*
+""*
+
+%7string29Validate<TDep>(System.Func<TOptions, TDep, bool>, string)*
+2*·
+24 4(VÃ
+…
+4 4(WA
+%9;Microsoft.Extensions.DependencyInjection.IServiceCollection"œMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+3*,
+35 5("
+5 5(
+implicit return:S
+)( )(HG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:2
+)J )(t&
+requiredToExistInConfigurationboolB6"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions

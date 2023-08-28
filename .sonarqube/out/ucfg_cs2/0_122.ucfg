@@ -1,0 +1,74 @@
+
+FMyWarehouse.Domain.Common.ValueObjects.Money.Currency.FromCode(string)`
+VC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Currency.cs" "(#"0*ù
+0$ $(?â
+ß
+$ $(B
+%0<System.Collections.Generic.IReadOnlyDictionary<TKey, TValue>"__id*ˆ…*‚7
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency"G
+_lookup<System.Collections.Generic.IReadOnlyDictionary<TKey, TValue>@
+>
+$! $(/
+%1string"string.ToUpper()*
+
+codestringº·
+$ $(@
+
+%2bool"ZSystem.Collections.Generic.IReadOnlyDictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*FD
+B
+%0<System.Collections.Generic.IReadOnlyDictionary<TKey, TValue>*
+
+%1string*JH
+F
+record<MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record2TryGetValue(TKey, out TValue)*
+1
+2*À
+1% %(kZ
+X
+%( %(]
+%3string"__concat*
+%* %(0
+
+Code '*
+%0 %(6
+
+codestringn
+l
+%( %(]
+%4string"__concat*
+
+%3string*6
+%6 %(\*(
+&' is not a currency code we recognize.FD
+% %(l
+%5System.ArgumentException"System.ArgumentException—
+”
+% %('
+
+%6void"<System.ArgumentException.ArgumentException(string?, string?)*" 
+
+%5System.ArgumentException*
+
+%4string*
+""*
+3*‚
+2' '("€~
+' '(#;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency"5MyWarehouse.Domain.Common.ValueObjects.Money.Currency¤
+¡
+' '(
+
+%8void"|MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Currency(MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record)*?=
+;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency*JH
+F
+record<MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Record"I
+' '($=
+;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency*.
+3( (("
+( ((
+implicit return:
+"$ "(/
+codestringB9"7
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency

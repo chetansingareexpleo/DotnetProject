@@ -1,0 +1,157 @@
+
+πMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandValidator.HaveSufficientStock(MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand, MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine[], FluentValidation.ValidationContext<MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand>, System.Threading.CancellationToken)É
+yC:\Users\csingare\Desktop\MyWarehouse\src\Application\Transactions\CreateTransaction\CreateTransactionCommandValidator.cs (0"0*≤
+0! !(Cˆ
+Û
+! !((
+%0"MyWarehouse.Domain.TransactionType"cMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionType.get*XV
+T
+cOMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand"
+ 
+!! !(C
+%1"__id*
+""*
+1
+2*!
+1# #("
+# #(
+""*Ñ
+2& )("ƒ
+¡
+&& &(8\
+%2VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository"__id*–Õ* Z
+XMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandValidator"l
+_productRepositoryVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository∂≥
+&& '(?*
+%3$System.Threading.Tasks.Task<TResult>"±MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.GetFiltered(System.Linq.Expressions.Expression<System.Func<TEntity, bool>>, bool)*`^
+\
+%2VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository*
+""*
+""2QGetFiltered(System.Linq.Expressions.Expression<System.Func<TEntity, bool>>, bool)\
+Z
+& '(?>
+requestedProducts)System.Collections.Generic.IEnumerable<T>"__id*
+""ß
+§
+) )(e
+%4_MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine"7System.Collections.Generic.ICollection<T>.this[int].get*nl
+j
+linesaMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine[]*
+""Á
+‰
+) 4(	g
+line_MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine"__id*ig
+e
+%4_MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine*
+3*
+37 7(*
+4
+5*ì
+4+ -(<û
+õ
++ +(N/
+%5)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*B@
+>
+requestedProducts)System.Collections.Generic.IEnumerable<T>*
+""‰
+·
++ +(W)
+%6#MyWarehouse.Domain.Products.Product"WSystem.Linq.Enumerable.Single<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*31
+/
+%5)System.Collections.Generic.IEnumerable<T>q
+o
++ +(W.
+product#MyWarehouse.Domain.Products.Product"__id*-+
+)
+%6#MyWarehouse.Domain.Products.ProductÉ
+Ä
+- -(%	
+%7int"5MyWarehouse.Domain.Products.Product.NumberInStock.get*20
+.
+product#MyWarehouse.Domain.Products.Product˙
+˜
+-( -(<	
+%8int"sMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine.ProductQuantity.get*ki
+g
+line_MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine*
+6
+3*Û
+6/ 2(≠
+™
+/ /($0
+%9*FluentValidation.Internal.MessageFormatter":FluentValidation.ValidationContext<T>.MessageFormatter.get*0.
+,
+ctx%FluentValidation.ValidationContext<T>}
+{
+/C /(O
+%10string",MyWarehouse.Domain.Products.Product.Name.get*20
+.
+product#MyWarehouse.Domain.Products.ProductÁ
+‰
+/ /(P1
+%11*FluentValidation.Internal.MessageFormatter"IFluentValidation.Internal.MessageFormatter.AppendArgument(string, object)*42
+0
+%9*FluentValidation.Internal.MessageFormatter*
+ProductName*
+
+%10stringÆ
+´
+0 0($1
+%12*FluentValidation.Internal.MessageFormatter":FluentValidation.ValidationContext<T>.MessageFormatter.get*0.
+,
+ctx%FluentValidation.ValidationContext<T>Ñ
+Å
+0D 0(Y
+
+%13int"5MyWarehouse.Domain.Products.Product.NumberInStock.get*20
+.
+product#MyWarehouse.Domain.Products.ProductÊ
+„
+0 0(Z1
+%14*FluentValidation.Internal.MessageFormatter"IFluentValidation.Internal.MessageFormatter.AppendArgument(string, object)*53
+1
+%12*FluentValidation.Internal.MessageFormatter*
+ProductStock*
+
+
+%13intÆ
+´
+1 1($1
+%15*FluentValidation.Internal.MessageFormatter":FluentValidation.ValidationContext<T>.MessageFormatter.get*0.
+,
+ctx%FluentValidation.ValidationContext<T>˚
+¯
+1D 1(X
+
+%16int"sMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine.ProductQuantity.get*ki
+g
+line_MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLineÊ
+„
+1 1(Y1
+%17*FluentValidation.Internal.MessageFormatter"IFluentValidation.Internal.MessageFormatter.AppendArgument(string, object)*53
+1
+%15*FluentValidation.Internal.MessageFormatter*
+RequestedQty*
+
+
+%16int"
+2 2(
+""*!
+56 6("
+6 6(
+""*.
+77 7("
+7 7(
+implicit return:`
+1 (KT
+cOMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand:v
+M (}j
+linesaMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand.TransactionLine[]:9
+	 (Æ,
+ctx%FluentValidation.ValidationContext<T>:5
+
+∞ (√'
+_"System.Threading.CancellationTokenB\Z
+XMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandValidator

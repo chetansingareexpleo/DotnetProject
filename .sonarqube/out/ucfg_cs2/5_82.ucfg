@@ -1,0 +1,11 @@
+
+²MyWarehouse.Infrastructure.Authorization.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)[
+QC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authorization\Startup.cs (("0*.
+0 ("
+ (
+implicit return:S
+) (DG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:B
+F (V6
+_1Microsoft.Extensions.Configuration.IConfigurationB4"2
+0MyWarehouse.Infrastructure.Authorization.Startup

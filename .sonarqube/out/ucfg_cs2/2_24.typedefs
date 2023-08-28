@@ -1,0 +1,16 @@
+˛
+CMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommandobjectMediatR.IRequestSystem.IEquatable<T>\
+
+ToString()NMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.ToString()ñ
+'PrintMembers(System.Text.StringBuilder)kMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.PrintMembers(System.Text.StringBuilder)b
+GetHashCode()QMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.GetHashCode()f
+Equals(object?)SMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.Equals(object?)·
+LEquals(MyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand?)êMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.Equals(MyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand?)\
+
+<Clone>$()NMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.<Clone>$()˚
+YDeleteProductCommand(MyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand)ùMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.DeleteProductCommand(MyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand)t
+DeleteProductCommand()ZMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.DeleteProductCommand()p
+EqualityContract.getXMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.EqualityContract.getp
+EqualityContract.setXMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.EqualityContract.setT
+Id.getJMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.Id.getT
+Id.setJMyWarehouse.Application.Products.DeleteProduct.DeleteProductCommand.Id.set

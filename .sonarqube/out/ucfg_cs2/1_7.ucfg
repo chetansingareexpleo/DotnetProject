@@ -1,0 +1,83 @@
+
+oMyWarehouse.TestData.Samples.SampleTransactions.SelectRandom<T>(System.Collections.Generic.IEnumerable<T>, int)\
+RC:\Users\csingare\Desktop\MyWarehouse\src\SampleData\Samples\SampleTransactions.cs6# 6(/"0*Ž
+08 9(Å
+Â
+8 8( 	
+%0int"VSystem.Linq.Enumerable.Count<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*53
+1
+list)System.Collections.Generic.IEnumerable<T>/
+-
+8 8( 
+countint"__id*
+	
+%0int*
+1
+2*N
+1: :("?
+: :(3
+1
+list)System.Collections.Generic.IEnumerable<T>*í
+2< <(,`^
+< <(,+
+%1%System.Collections.Generic.HashSet<T>"%System.Collections.Generic.HashSet<T>z
+x
+<  <(*
+
+%2void"/System.Collections.Generic.HashSet<T>.HashSet()*/-
++
+%1%System.Collections.Generic.HashSet<T>{
+y
+< <(,6
+selectedItems%System.Collections.Generic.HashSet<T>"__id*/-
++
+%1%System.Collections.Generic.HashSet<T>*
+3*
+3= =(*
+4
+5*ë
+4> >(@w
+u
+>1 >(5
+%3System.Random"__id*NL*J1
+/MyWarehouse.TestData.Samples.SampleTransactions"
+_rndSystem.Randomfd
+>1 >(A	
+%4int"System.Random.Next(int)*
+
+%3System.Random*
+
+countint2	Next(int)Û
+Ø
+>" >(B
+%5T"_System.Linq.Enumerable.ElementAt<TSource>(System.Collections.Generic.IEnumerable<TSource>, int)*"
+System.Linq.Enumerable*53
+1
+list)System.Collections.Generic.IEnumerable<T>*
+	
+%4int”
+‘
+> >(C
+
+%6bool"0System.Collections.Generic.ICollection<T>.Add(T)*:8
+6
+selectedItems%System.Collections.Generic.HashSet<T>*	
+
+%5T*
+6
+3*
+6? ?(*
+3*S
+5A A("D
+A A(8
+6
+selectedItems%System.Collections.Generic.HashSet<T>*.
+7B B("
+B B(
+implicit return:=
+63 6(K1
+list)System.Collections.Generic.IEnumerable<T>:
+6M 6(W
+neededintB3"1
+/MyWarehouse.TestData.Samples.SampleTransactions

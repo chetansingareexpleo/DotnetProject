@@ -1,0 +1,18 @@
+­
+>MyWarehouse.Application.Products.ProductStockMass.StockMassDtoobjectSystem.IEquatable<T>W
+
+ToString()IMyWarehouse.Application.Products.ProductStockMass.StockMassDto.ToString()‘
+'PrintMembers(System.Text.StringBuilder)fMyWarehouse.Application.Products.ProductStockMass.StockMassDto.PrintMembers(System.Text.StringBuilder)]
+GetHashCode()LMyWarehouse.Application.Products.ProductStockMass.StockMassDto.GetHashCode()a
+Equals(object?)NMyWarehouse.Application.Products.ProductStockMass.StockMassDto.Equals(object?)Ò
+GEquals(MyWarehouse.Application.Products.ProductStockMass.StockMassDto?)†MyWarehouse.Application.Products.ProductStockMass.StockMassDto.Equals(MyWarehouse.Application.Products.ProductStockMass.StockMassDto?)W
+
+<Clone>$()IMyWarehouse.Application.Products.ProductStockMass.StockMassDto.<Clone>$()Ü
+LStockMassDto(MyWarehouse.Application.Products.ProductStockMass.StockMassDto)‹MyWarehouse.Application.Products.ProductStockMass.StockMassDto.StockMassDto(MyWarehouse.Application.Products.ProductStockMass.StockMassDto)_
+StockMassDto()MMyWarehouse.Application.Products.ProductStockMass.StockMassDto.StockMassDto()k
+EqualityContract.getSMyWarehouse.Application.Products.ProductStockMass.StockMassDto.EqualityContract.getk
+EqualityContract.setSMyWarehouse.Application.Products.ProductStockMass.StockMassDto.EqualityContract.setU
+	Value.getHMyWarehouse.Application.Products.ProductStockMass.StockMassDto.Value.getU
+	Value.setHMyWarehouse.Application.Products.ProductStockMass.StockMassDto.Value.setS
+Unit.getGMyWarehouse.Application.Products.ProductStockMass.StockMassDto.Unit.getS
+Unit.setGMyWarehouse.Application.Products.ProductStockMass.StockMassDto.Unit.set

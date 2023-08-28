@@ -1,0 +1,101 @@
+
+\MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.GetExceptionResult(System.Exception)j
+`C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\ErrorHandling\Filters\ExceptionMappingFilter.cs! (3"0*
+0 (*
+1
+2*ì
+1* (Eﬂ
+‹
+* (F,
+%5&Microsoft.AspNetCore.Mvc.IActionResult"ïMyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.HandleValidationException(MyWarehouse.Application.Common.Exceptions.InputValidationException)*=;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter*KI
+G
+eBMyWarehouse.Application.Common.Exceptions.InputValidationExceptionr
+p
+* (F,
+%1&Microsoft.AspNetCore.Mvc.IActionResult"__id*0.
+,
+%5&Microsoft.AspNetCore.Mvc.IActionResultr
+p
+* (F,
+%0&Microsoft.AspNetCore.Mvc.IActionResult"__id*0.
+,
+%1&Microsoft.AspNetCore.Mvc.IActionResult":
+* (F.
+,
+%0&Microsoft.AspNetCore.Mvc.IActionResult*
+2 (*
+3
+4*è
+3) (B€
+ÿ
+) (C,
+%6&Microsoft.AspNetCore.Mvc.IActionResult"íMyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.HandleNotFoundException(MyWarehouse.Application.Common.Exceptions.EntityNotFoundException)*=;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter*JH
+F
+eAMyWarehouse.Application.Common.Exceptions.EntityNotFoundExceptionr
+p
+) (C,
+%2&Microsoft.AspNetCore.Mvc.IActionResult"__id*0.
+,
+%6&Microsoft.AspNetCore.Mvc.IActionResultr
+p
+) (C,
+%0&Microsoft.AspNetCore.Mvc.IActionResult"__id*0.
+,
+%2&Microsoft.AspNetCore.Mvc.IActionResult":
+) (C.
+,
+%0&Microsoft.AspNetCore.Mvc.IActionResult*
+4 (*
+5
+6*‚
+5: (\Æ
+´
+: (],
+%7&Microsoft.AspNetCore.Mvc.IActionResult"¿MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.HandleCannotAuthenticateExternal(MyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationPreventedException)*=;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter*om
+k
+efMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationPreventedExceptionr
+p
+: (],
+%3&Microsoft.AspNetCore.Mvc.IActionResult"__id*0.
+,
+%7&Microsoft.AspNetCore.Mvc.IActionResultr
+p
+: (],
+%0&Microsoft.AspNetCore.Mvc.IActionResult"__id*0.
+,
+%3&Microsoft.AspNetCore.Mvc.IActionResult":
+: (].
+,
+%0&Microsoft.AspNetCore.Mvc.IActionResult*≥
+6 (1ˇ
+¸
+ (2,
+%8&Microsoft.AspNetCore.Mvc.IActionResult"`MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.HandleUnknownException(System.Exception)*=;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter*!
+
+	exceptionSystem.Exceptionr
+p
+ (2,
+%4&Microsoft.AspNetCore.Mvc.IActionResult"__id*0.
+,
+%8&Microsoft.AspNetCore.Mvc.IActionResultr
+p
+ (2,
+%0&Microsoft.AspNetCore.Mvc.IActionResult"__id*0.
+,
+%4&Microsoft.AspNetCore.Mvc.IActionResult":
+ (2.
+,
+%0&Microsoft.AspNetCore.Mvc.IActionResult*.
+7
+ (
+"
+	 (
+
+implicit return:)
+4 (G
+	exceptionSystem.ExceptionB;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter

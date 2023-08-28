@@ -1,0 +1,19 @@
+
+xMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChangesAsync(System.Threading.CancellationToken)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ApplicationDbContext.csA A(."0*Ñ
+0B B(N‡„
+B B(O*
+%0$System.Threading.Tasks.Task<TResult>"~MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChangesAsync(bool, System.Threading.CancellationToken)*IGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*
+""*;9
+7
+cancellationToken"System.Threading.CancellationToken2:SaveChangesAsync(bool, System.Threading.CancellationToken)"8
+B B(O,
+*
+%0$System.Threading.Tasks.Task<TResult>*.
+1BP B(P"
+BO B(P
+implicit return:C
+A/ A(\7
+cancellationToken"System.Threading.CancellationTokenBGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext

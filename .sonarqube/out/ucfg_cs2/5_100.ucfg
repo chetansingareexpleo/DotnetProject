@@ -1,0 +1,26 @@
+
+ÃMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.RemoveRange(System.Collections.Generic.IEnumerable<MyWarehouse.Domain.Transactions.Transaction>)Ž
+ƒC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\TransactionRepositoryEF.cs ($"0*ß
+0 (,õ
+ò
+ (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*«¨*¥m
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>"4
+_set,Microsoft.EntityFrameworkCore.DbSet<TEntity>½º
+ (-
+
+%1void"iMicrosoft.EntityFrameworkCore.DbSet<TEntity>.RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)*64
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*A?
+=
+entitiesToDelete)System.Collections.Generic.IEnumerable<T>2<RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)"
+ (-
+
+
+%1void*.
+1. (."
+- (.
+implicit return:I
+% (N=
+entitiesToDelete)System.Collections.Generic.IEnumerable<T>Bfd
+bMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF

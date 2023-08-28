@@ -1,0 +1,50 @@
+
+|MyWarehouse.WebApi.Versioning.VersioningStartup.AddMyVersioning(Microsoft.Extensions.DependencyInjection.IServiceCollection)Z
+PC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Versioning\VersioningStartup.cs (&"0*î
+0 (GÓ
+Ð
+ (
+A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÜMicrosoft.Extensions.DependencyInjection.IServiceCollectionExtensions.AddApiVersioning(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Mvc.Versioning.ApiVersioningOptions>)*KI"G
+EMicrosoft.Extensions.DependencyInjection.IServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""€
+ý
+ (H
+
+%1bool"pSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1
+2*º
+
+1 ((gÙ
+Ö
+ $(A
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"âMicrosoft.Extensions.DependencyInjection.IServiceCollectionExtensions.AddVersionedApiExplorer(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Mvc.ApiExplorer.ApiExplorerOptions>)*KI"G
+EMicrosoft.Extensions.DependencyInjection.IServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""£
+ 
+' '(iA
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection£
+ 
+( ((gA
+%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+2*.
+2* *("
+* *(
+implicit return:S
+' (GG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB3"1
+/MyWarehouse.WebApi.Versioning.VersioningStartup

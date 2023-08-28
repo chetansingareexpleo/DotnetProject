@@ -1,0 +1,105 @@
+
+)MyWarehouse.WebApi.Program.Main(string[])E
+;C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Program.cs
+ 
+("0*ÿ
+0 "(’
+“
+ (88
+%02Microsoft.AspNetCore.Builder.WebApplicationBuilder"CMicrosoft.AspNetCore.Builder.WebApplication.CreateBuilder(string[])*1/"-
++Microsoft.AspNetCore.Builder.WebApplication*
+
+argsstring[]ê
+ç
+ (8=
+builder2Microsoft.AspNetCore.Builder.WebApplicationBuilder"__id*<:
+8
+%02Microsoft.AspNetCore.Builder.WebApplicationBuilder∆
+√
+ (7
+%11Microsoft.AspNetCore.Builder.ConfigureHostBuilder";Microsoft.AspNetCore.Builder.WebApplicationBuilder.Host.get*A?
+=
+builder2Microsoft.AspNetCore.Builder.WebApplicationBuilderñ
+ì
+ ("/
+%2)Microsoft.Extensions.Hosting.IHostBuilder"hMyWarehouse.WebApi.Logging.LoggingStartup.AddMySerilogLogging(Microsoft.Extensions.Hosting.IHostBuilder)*/-"+
+)MyWarehouse.WebApi.Logging.LoggingStartup*;9
+7
+%11Microsoft.AspNetCore.Builder.ConfigureHostBuilder”–
+ (/
+%3)Microsoft.Extensions.Hosting.IHostBuilder"ΩMicrosoft.Extensions.Hosting.IHostBuilder.ConfigureAppConfiguration(System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder>)*31
+/
+%2)Microsoft.Extensions.Hosting.IHostBuilder*
+""2ìConfigureAppConfiguration(System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder>)’
+“
+" (7=
+%47Microsoft.Extensions.Configuration.ConfigurationManager"DMicrosoft.AspNetCore.Builder.WebApplicationBuilder.Configuration.get*A?
+=
+builder2Microsoft.AspNetCore.Builder.WebApplicationBuilderÃ
+…
+9 (L6
+%50Microsoft.AspNetCore.Hosting.IWebHostEnvironment"BMicrosoft.AspNetCore.Builder.WebApplicationBuilder.Environment.get*A?
+=
+builder2Microsoft.AspNetCore.Builder.WebApplicationBuilderJH
+ (M 
+%6MyWarehouse.WebApi.Startup"MyWarehouse.WebApi.Startup»
+≈
+ (!
+
+%7void"áMyWarehouse.WebApi.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)*$"
+ 
+%6MyWarehouse.WebApi.Startup*A?
+=
+%47Microsoft.Extensions.Configuration.ConfigurationManager*:8
+6
+%50Microsoft.AspNetCore.Hosting.IWebHostEnvironment_
+]
+ (M%
+startupMyWarehouse.WebApi.Startup"__id*$"
+ 
+%6MyWarehouse.WebApi.Startup‘
+—
+" (2A
+%8;Microsoft.Extensions.DependencyInjection.IServiceCollection"?Microsoft.AspNetCore.Builder.WebApplicationBuilder.Services.get*A?
+=
+builder2Microsoft.AspNetCore.Builder.WebApplicationBuilderˆ
+Û
+ (3
+
+%9void"iMyWarehouse.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)*)'
+%
+startupMyWarehouse.WebApi.Startup*EC
+A
+%8;Microsoft.Extensions.DependencyInjection.IServiceCollection¿
+Ω
+ (!2
+%10+Microsoft.AspNetCore.Builder.WebApplication":Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()*A?
+=
+builder2Microsoft.AspNetCore.Builder.WebApplicationBuilder~
+|
+ (!2
+app+Microsoft.AspNetCore.Builder.WebApplication"__id*64
+2
+%10+Microsoft.AspNetCore.Builder.WebApplication’
+“
+   (
+%11void"VMyWarehouse.WebApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder)*)'
+%
+startupMyWarehouse.WebApi.Startup*64
+2
+app+Microsoft.AspNetCore.Builder.WebApplicationñ
+ì
+" "(
+%12void"8Microsoft.AspNetCore.Builder.WebApplication.Run(string?)*64
+2
+app+Microsoft.AspNetCore.Builder.WebApplication*
+""*
+1*.
+1# #("
+# #(
+implicit return:
+
+ 
+()
+argsstring[]B"
+MyWarehouse.WebApi.Program

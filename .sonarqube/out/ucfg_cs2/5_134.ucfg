@@ -1,0 +1,53 @@
+
+ïMyWarehouse.Infrastructure.InfrastructureStartup.AddMyInfrastructureDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.Hosting.IHostEnvironment)[
+QC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\InfrastructureStartup.cs (6"0*û
+0 (Q‘
+Ž
+ (C
+
+%0void"­MyWarehouse.Infrastructure.Identity.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)*1/"-
++MyWarehouse.Infrastructure.Identity.Startup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration
+š
+ (I
+
+%1void"³MyWarehouse.Infrastructure.Authentication.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)*75"3
+1MyWarehouse.Infrastructure.Authentication.Startup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration€
+ý
+ (K
+
+%2void"ßMyWarehouse.Infrastructure.Persistence.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.Hosting.IHostEnvironment)*42"0
+.MyWarehouse.Infrastructure.Persistence.Startup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*86
+4
+env-Microsoft.Extensions.Hosting.IHostEnvironment¯
+¬
+ (R
+
+%3void"¼MyWarehouse.Infrastructure.ApplicationDependencies.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)*@>"<
+:MyWarehouse.Infrastructure.ApplicationDependencies.Startup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+1*.
+1   ("
+   (
+implicit return:S
+7 (WG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:N
+Y (uB
+configuration1Microsoft.Extensions.Configuration.IConfiguration:A
+	w (‹4
+env-Microsoft.Extensions.Hosting.IHostEnvironmentB4"2
+0MyWarehouse.Infrastructure.InfrastructureStartup

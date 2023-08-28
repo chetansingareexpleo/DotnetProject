@@ -1,0 +1,162 @@
+
+´MyWarehouse.Infrastructure.Persistence.Seed.DbInitializer.SeedDatabase(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Configuration.IConfiguration)d
+ZC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Seed\DbInitializer.cs (#"0*≥
+0 (G”–
+ (9
+%0System.IServiceProvider"HMicrosoft.AspNetCore.Builder.IApplicationBuilder.ApplicationServices.get*B@
+>
+
+appBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilder2ApplicationServices.getØ
+¨
+ (G<
+%16Microsoft.Extensions.DependencyInjection.IServiceScope"nMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.CreateScope(System.IServiceProvider)*OM"K
+IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*!
+
+%0System.IServiceProviderñ
+ì
+ (G?
+scope6Microsoft.Extensions.DependencyInjection.IServiceScope"__id*@>
+<
+%16Microsoft.Extensions.DependencyInjection.IServiceScope*
+1*„
+1 (N“œ
+ (0
+%2System.IServiceProvider"JMicrosoft.Extensions.DependencyInjection.IServiceScope.ServiceProvider.get*CA
+?
+scope6Microsoft.Extensions.DependencyInjection.IServiceScope2ServiceProvider.getZ
+X
+ (0#
+servicesSystem.IServiceProvider"__id*!
+
+%2System.IServiceProvider„
+‡
+ (NK
+%3EMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettings"{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+""∑
+¥
+ (NQ
+settingsEMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettings"__id*OM
+K
+%3EMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettings*
+2*Ò
+2 (0Ã
+…
+ (QI
+%4CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"xMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService<T>(System.IServiceProvider)*OM"K
+IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*'%
+#
+servicesSystem.IServiceProvider≤
+Ø
+ (QN
+contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*MK
+I
+%4CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext’
+“
+ ((
+%5System.Nullable<T>"UMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettings.AutoMigrate.get*US
+Q
+settingsEMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettings*
+3
+4*µ
+34 (RËÂ
+4 (DA
+%6;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*RP
+N
+contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext2Database.get≤
+Ø
+4 (R
+
+%7bool"àMicrosoft.EntityFrameworkCore.SqlServerDatabaseFacadeExtensions.IsSqlServer(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)*EC"A
+?Microsoft.EntityFrameworkCore.SqlServerDatabaseFacadeExtensions*EC
+A
+%6;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+5
+4*∞
+5 (.ËÂ
+ ($A
+%8;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*RP
+N
+contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext2Database.get∞
+≠
+ (.
+
+%9void"ÖMicrosoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)*FD"B
+@Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions*EC
+A
+%8;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+4*Î
+4" "(-”
+–
+" "(%
+%10System.Nullable<T>"RMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettings.AutoSeed.get*US
+Q
+settingsEMyWarehouse.Infrastructure.Persistence.Settings.ApplicationDbSettings*
+6
+7*±
+6$ %(*ﬂ
+‹
+$. $(\G
+%11@MyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings"{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)*86"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+""¯
+ı
+$ $(]
+%12void"§MyWarehouse.Infrastructure.Persistence.Seed.DbInitializer.SeedDefaultUser(System.IServiceProvider, MyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettings)*?=";
+9MyWarehouse.Infrastructure.Persistence.Seed.DbInitializer*'%
+#
+servicesSystem.IServiceProvider*KI
+G
+%11@MyWarehouse.Infrastructure.Persistence.Settings.UserSeedSettingsø
+º
+% %(+
+%13void"çMyWarehouse.Infrastructure.Persistence.Seed.DbInitializer.SeedSampleData(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext)*?=";
+9MyWarehouse.Infrastructure.Persistence.Seed.DbInitializer*RP
+N
+contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*
+7*
+71 1(*
+8
+9* 
+8* ,(g”–
+* *(2
+%14System.IServiceProvider"JMicrosoft.Extensions.DependencyInjection.IServiceScope.ServiceProvider.get*CA
+?
+scope6Microsoft.Extensions.DependencyInjection.IServiceScope2ServiceProvider.get∏
+µ
+* *(f:
+%153Microsoft.Extensions.Logging.ILogger<TCategoryName>"xMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService<T>(System.IServiceProvider)*OM"K
+IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*" 
+
+%14System.IServiceProviderí
+è
+* *(f=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*><
+:
+%153Microsoft.Extensions.Logging.ILogger<TCategoryName>é
+ã
+, ,(h
+%16void"äMicrosoft.Extensions.Logging.LoggerExtensions.LogError(Microsoft.Extensions.Logging.ILogger, System.Exception?, string?, params object?[])*31"/
+-Microsoft.Extensions.Logging.LoggerExtensions*A?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*!
+
+	exceptionSystem.Exception*@><
+:An error occurred while migrating or seeding the database.*
+""*
+10*
+91 1(*
+10*/
+101 1("
+1 1(
+implicit return:J
+$ (B>
+
+appBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilder:N
+D (`B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB=";
+9MyWarehouse.Infrastructure.Persistence.Seed.DbInitializer

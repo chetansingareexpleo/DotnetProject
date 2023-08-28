@@ -1,0 +1,5 @@
+˜
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute7System.ComponentModel.DataAnnotations.RequiredAttribute9System.ComponentModel.DataAnnotations.ValidationAttributeSystem.Attributeobject‡
+!RequiredIfAttribute(string, bool)bMyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute.RequiredIfAttribute(string, bool)Ø
+IIsValid(object?, System.ComponentModel.DataAnnotations.ValidationContext)ŠMyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute.IsValid(object?, System.ComponentModel.DataAnnotations.ValidationContext)à
+MIsValidationRequired(System.ComponentModel.DataAnnotations.ValidationContext)ŽMyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute.IsValidationRequired(System.ComponentModel.DataAnnotations.ValidationContext)

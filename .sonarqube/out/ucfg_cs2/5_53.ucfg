@@ -1,0 +1,35 @@
+
+èMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationSetupException.ExternalAuthenticationSetupException(string)é
+ÉC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\External\Exceptions\ExternalAuthenticationSetupException.cs (/"1*
+1 (*
+0*ﬁ
+0 (-k
+i
+ ([
+%0string"__concat*#
+ ($
+External provider '* 
+$ (.
+
+providerstringt
+r
+ ([
+%1string"__concat*
+
+%0string*<
+. (Z0.
+,' is not set up properly for authentication.g
+e
+ (\
+
+%2void"#System.Exception.Exception(string?)*
+System.Exception*
+
+%1string*
+2*.
+2 ("
+ (
+implicit return:
+0 (?
+providerstringBfd
+bMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationSetupException

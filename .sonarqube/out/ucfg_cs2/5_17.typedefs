@@ -1,0 +1,24 @@
+¦
+IMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserDataobjectSystem.IEquatable<T>b
+
+ToString()TMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.ToString()œ
+'PrintMembers(System.Text.StringBuilder)qMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.PrintMembers(System.Text.StringBuilder)h
+GetHashCode()WMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.GetHashCode()l
+Equals(object?)YMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.Equals(object?)ó
+REquals(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData?)œMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.Equals(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData?)b
+
+<Clone>$()TMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.<Clone>$()…
+[ExternalUserData(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData)¥MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.ExternalUserData(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData)r
+ExternalUserData()\MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.ExternalUserData()v
+EqualityContract.get^MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.EqualityContract.getv
+EqualityContract.set^MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.EqualityContract.set`
+	Email.getSMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.Email.get`
+	Email.setSMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.Email.setp
+EmailVerified.get[MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.EmailVerified.getp
+EmailVerified.set[MyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.EmailVerified.setf
+FullName.getVMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.FullName.getf
+FullName.setVMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.FullName.seth
+FirstName.getWMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.FirstName.geth
+FirstName.setWMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.FirstName.setf
+LastName.getVMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.LastName.getf
+LastName.setVMyWarehouse.Infrastructure.Authentication.External.Model.ExternalUserData.LastName.set

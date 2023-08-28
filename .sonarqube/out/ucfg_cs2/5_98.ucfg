@@ -1,0 +1,24 @@
+
+ÓMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF.TransactionRepositoryEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)Ž
+ƒC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\TransactionRepositoryEF.cs (""1*
+1 (*
+0*ï
+0Q (gÚ
+×
+Q (h
+
+%0void"ÕMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.RepositoryBaseEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)*qom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>*RP
+N
+contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext* 
+
+mapperAutoMapper.IMapper*
+2*.
+2 ("
+ (
+implicit return:Z
+# (?N
+contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext:(
+A (O
+mapperAutoMapper.IMapperBfd
+bMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.TransactionRepositoryEF

@@ -1,0 +1,116 @@
+
+=MyWarehouse.Domain.Common.ValueObjects.Money.Money.ToString()]
+SC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Money.cs? ?(#"0*…
+0@ A($Å
+Â
+A A(;
+%05MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money¥
+¢
+A A($
+
+%1bool"IMyWarehouse.Domain.Common.ValueObjects.Money.Currency.SymbolWellKnown.get*?=
+;
+%05MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+1
+2*ã
+1A' A(6Å
+Â
+A' A(/;
+%55MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyž
+›
+A' A(6
+%6string"@MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Symbol.get*?=
+;
+%55MyWarehouse.Domain.Common.ValueObjects.Money.Currency2
+0
+A' A(6
+%3string"__id*
+
+%6string2
+0
+A' A(6
+%2object"__id*
+
+%3string*
+3*á
+2A9 A(FÅ
+Â
+A9 A(A;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyœ
+™
+A9 A(F
+%8string">MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Code.get*?=
+;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency2
+0
+A9 A(F
+%4string"__id*
+
+%8string2
+0
+A9 A(F
+%2object"__id*
+
+%4string*
+3*†
+3B B($Å
+Â
+B B(;
+%95MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money¦
+£
+B B($
+%10bool"IMyWarehouse.Domain.Common.ValueObjects.Money.Currency.SymbolWellKnown.get*?=
+;
+%95MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+4
+5*e
+4B' B(+#
+!
+B' B(+
+%12"__id*
+"",
+*
+B' B(+
+%11object"__id*	
+
+%12*
+6*d
+5B. B(1"
+ 
+B. B(1
+%13"__id*
+ ,
+*
+B. B(1
+%11object"__id*	
+
+%13*
+6*î
+6@ C(–
+“
+C C(
+%14decimal"=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money¨
+¥
+@ C(
+%15string"0string.Format(string, object?, object?, object?)*
+"
+string*
+{0}{1}{2:n}*
+
+%2object*
+
+%11object*
+
+%14decimal"
+@ C(
+
+%15string*.
+7C C("
+C C(
+implicit returnB64
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money

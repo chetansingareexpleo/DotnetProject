@@ -1,0 +1,114 @@
+
+{MyWarehouse.Infrastructure.ConfigurationExtensions.GetMyOptions<T>(Microsoft.Extensions.Configuration.IConfiguration, bool)o
+eC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Extensions\ConfigurationExtensions.cs ( "0*™
+0 (US
+- (;
+%0string"%System.Reflection.MemberInfo.Name.get*
+""2Name.getÅ˛
+ (<>
+%18Microsoft.Extensions.Configuration.IConfigurationSection"DMicrosoft.Extensions.Configuration.IConfiguration.GetSection(string)*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+
+%0string2GetSection(string)ä
+á
+ (E
+%2T"pMicrosoft.Extensions.Configuration.ConfigurationBinder.Get<T>(Microsoft.Extensions.Configuration.IConfiguration)*<:"8
+6Microsoft.Extensions.Configuration.ConfigurationBinder*B@
+>
+%18Microsoft.Extensions.Configuration.IConfigurationSection+
+)
+ (E
+
+boundT"__id*	
+
+%2T*
+1
+2*
+1 (;*
+3
+2*Í
+3 (g"
+ 
+> (W
+%3"__id*
+""US
+Y (g
+%4string"%System.Reflection.MemberInfo.Name.get*
+""2Name.getd
+b
+0 (h
+%5string"string.Format(string, object?)*
+"
+string*
+
+%3*
+
+%4stringVT
+ (i&
+%6 System.InvalidOperationException" System.InvalidOperationExceptionú
+ô
+ (/
+
+%7void"CSystem.InvalidOperationException.InvalidOperationException(string?)**(
+&
+%6 System.InvalidOperationException*
+
+%5string*
+4*
+2 (*
+5
+6*é
+5 (zx
+ (8
+%82MyWarehouse.Infrastructure.ConfigurationExtensions"2MyWarehouse.Infrastructure.ConfigurationExtensions*
+6*ﬂ
+6 (Å
+
+ (
+%9T"__concat*
+ (
+
+
+boundT*F
+ (:
+8
+%82MyWarehouse.Infrastructure.ConfigurationExtensions+
+)
+ (
+
+boundT"__id*	
+
+%9TÜÉ
+( (D>
+%107System.ComponentModel.DataAnnotations.ValidationContext"7System.ComponentModel.DataAnnotations.ValidationContext¡
+æ
+, (=
+%11void"QSystem.ComponentModel.DataAnnotations.ValidationContext.ValidationContext(object)*B@
+>
+%107System.ComponentModel.DataAnnotations.ValidationContext*
+
+
+boundT∑
+¥
+ (b
+%12void"ÖSystem.ComponentModel.DataAnnotations.Validator.ValidateObject(object, System.ComponentModel.DataAnnotations.ValidationContext, bool)*53"1
+/System.ComponentModel.DataAnnotations.Validator*
+
+
+boundT*B@
+>
+%107System.ComponentModel.DataAnnotations.ValidationContext*
+"""
+ (
+
+
+boundT*.
+4 ("
+ (
+implicit return:N
+% (FB
+configuration1Microsoft.Extensions.Configuration.IConfiguration:2
+H (s&
+requiredToExistInConfigurationboolB6"4
+2MyWarehouse.Infrastructure.ConfigurationExtensions

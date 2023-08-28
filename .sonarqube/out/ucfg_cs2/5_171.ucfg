@@ -1,0 +1,263 @@
+
+\MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ApplyMyEntityOverrides()n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ApplicationDbContext.cs~ ~('"0*´
+0
+Ä Ä(?ŒÀ
+
+Ä Ä(+@
+%0:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker"9Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.get*-+)
+'Microsoft.EntityFrameworkCore.DbContext2ChangeTracker.getÈÊ
+
+Ä Ä(?/
+%1)System.Collections.Generic.IEnumerable<T>"MMicrosoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.Entries<TEntity>()*DB
+@
+%0:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker2Entries<TEntity>()ò
+ï
+
+Ä Ä(
+%2	__unknown"7System.Collections.Generic.ICollection<T>.this[int].get*31
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+""=
+;
+
+Ä ç(	
+entry	__unknown"__id*
+
+%2	__unknown*
+1*
+1
+ö ö(*
+2
+3*ˆ
+2
+Ç Ç(ﬂ‹
+
+Ç Ç(/
+%3)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.get*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>2	State.get*
+4*
+4
+Ç Ç(*
+5
+6*Œ
+5
+Ö Ü([àÖ
+
+Ö Ö(>@
+%4:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry"IMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.Property(string)*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+""2Property(string)Å
+˛
+
+ÖN Ö(ZG
+%5AMyWarehouse.Application.Dependencies.Services.ICurrentUserService"__id*†ù*öE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"Q
+_currentUserAMyWarehouse.Application.Dependencies.Services.ICurrentUserServiceƒ¡
+
+ÖN Ö(a
+%6string"LMyWarehouse.Application.Dependencies.Services.ICurrentUserService.UserId.get*KI
+G
+%5AMyWarehouse.Application.Dependencies.Services.ICurrentUserService2
+UserId.get“œ
+
+Ö Ö(a
+%7object"IMicrosoft.EntityFrameworkCore.ChangeTracking.MemberEntry.CurrentValue.set*DB
+@
+%4:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry*
+
+%6string2CurrentValue.setàÖ
+
+Ü Ü(>@
+%8:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry"IMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.Property(string)*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+""2Property(string)Í
+Á
+
+ÜN Ü(W=
+%97MyWarehouse.Application.Dependencies.Services.IDateTime"__id*ìê*çE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"D
+	_dateTime7MyWarehouse.Application.Dependencies.Services.IDateTime¥±
+
+ÜN Ü([
+%10System.DateTime"?MyWarehouse.Application.Dependencies.Services.IDateTime.Now.get*A?
+=
+%97MyWarehouse.Application.Dependencies.Services.IDateTime2Now.get›⁄
+
+Ü Ü([
+%11object"IMicrosoft.EntityFrameworkCore.ChangeTracking.MemberEntry.CurrentValue.set*DB
+@
+%8:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry*
+
+%10System.DateTime2CurrentValue.set*
+1*
+6
+Ç Ç(*
+7
+1*Ÿ
+7
+â ä(`âÜ
+
+â â(CA
+%12:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry"IMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.Property(string)*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+""2Property(string)Ç
+ˇ
+
+âS â(_H
+%13AMyWarehouse.Application.Dependencies.Services.ICurrentUserService"__id*†ù*öE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"Q
+_currentUserAMyWarehouse.Application.Dependencies.Services.ICurrentUserService∆√
+
+âS â(f
+%14string"LMyWarehouse.Application.Dependencies.Services.ICurrentUserService.UserId.get*LJ
+H
+%13AMyWarehouse.Application.Dependencies.Services.ICurrentUserService2
+UserId.get’“
+
+â â(f
+%15object"IMicrosoft.EntityFrameworkCore.ChangeTracking.MemberEntry.CurrentValue.set*EC
+A
+%12:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry*
+
+%14string2CurrentValue.setâÜ
+
+ä ä(CA
+%16:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry"IMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.Property(string)*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+""2Property(string)Î
+Ë
+
+äS ä(\>
+%177MyWarehouse.Application.Dependencies.Services.IDateTime"__id*ìê*çE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"D
+	_dateTime7MyWarehouse.Application.Dependencies.Services.IDateTimeµ≤
+
+äS ä(`
+%18System.DateTime"?MyWarehouse.Application.Dependencies.Services.IDateTime.Now.get*B@
+>
+%177MyWarehouse.Application.Dependencies.Services.IDateTime2Now.getﬁ€
+
+ä ä(`
+%19object"IMicrosoft.EntityFrameworkCore.ChangeTracking.MemberEntry.CurrentValue.set*EC
+A
+%16:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry*
+
+%18System.DateTime2CurrentValue.set*
+1*±
+3
+è è(EœÃ
+
+è è(+A
+%20:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker"9Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.get*-+)
+'Microsoft.EntityFrameworkCore.DbContext2ChangeTracker.getÎË
+
+è è(E0
+%21)System.Collections.Generic.IEnumerable<T>"MMicrosoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.Entries<TEntity>()*EC
+A
+%20:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker2Entries<TEntity>()ö
+ó
+
+è è(
+%22	__unknown"7System.Collections.Generic.ICollection<T>.this[int].get*42
+0
+%21)System.Collections.Generic.IEnumerable<T>*
+"">
+<
+
+è ô(	
+entry	__unknown"__id*
+
+%22	__unknown*
+8*
+8
+ö ö(*
+9
+10*¯
+9
+ë ë(‡›
+
+ë ë(0
+%23)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.get*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>2	State.get*
+11*
+11
+ë ë(*
+12
+8*Ô
+12
+î ñ(a%
+#
+
+î" î(7
+%24"__id*
+""ÎË
+
+î î(70
+%25)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.set*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*	
+
+%242	State.setâÜ
+
+ï ï(DA
+%26:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry"IMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.Property(string)*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+""2Property(string)Ç
+ˇ
+
+ïT ï(`H
+%27AMyWarehouse.Application.Dependencies.Services.ICurrentUserService"__id*†ù*öE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"Q
+_currentUserAMyWarehouse.Application.Dependencies.Services.ICurrentUserService∆√
+
+ïT ï(g
+%28string"LMyWarehouse.Application.Dependencies.Services.ICurrentUserService.UserId.get*LJ
+H
+%27AMyWarehouse.Application.Dependencies.Services.ICurrentUserService2
+UserId.get’“
+
+ï ï(g
+%29object"IMicrosoft.EntityFrameworkCore.ChangeTracking.MemberEntry.CurrentValue.set*EC
+A
+%26:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry*
+
+%28string2CurrentValue.setâÜ
+
+ñ ñ(DA
+%30:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry"IMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.Property(string)*NL
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+""2Property(string)Î
+Ë
+
+ñT ñ(]>
+%317MyWarehouse.Application.Dependencies.Services.IDateTime"__id*ìê*çE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"D
+	_dateTime7MyWarehouse.Application.Dependencies.Services.IDateTimeµ≤
+
+ñT ñ(a
+%32System.DateTime"?MyWarehouse.Application.Dependencies.Services.IDateTime.Now.get*B@
+>
+%317MyWarehouse.Application.Dependencies.Services.IDateTime2Now.getﬁ€
+
+ñ ñ(a
+%33object"IMicrosoft.EntityFrameworkCore.ChangeTracking.MemberEntry.CurrentValue.set*EC
+A
+%30:Microsoft.EntityFrameworkCore.ChangeTracking.PropertyEntry*
+
+%32System.DateTime2CurrentValue.set*
+8*3
+10
+ö ö("!
+
+ö ö(
+implicit returnBGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext

@@ -1,0 +1,22 @@
+
+VMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.SaveChanges()s
+iC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\UnitOfWork.cs" "("0*•
+0# #((†
+ƒ
+# #(I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*¥¢*ŸJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork"Q
+
+_dbContextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextÂ¿
+# #((*
+%1$System.Threading.Tasks.Task<TResult>"xMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.SaveChangesAsync(System.Threading.CancellationToken)*MK
+I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)"8
+# #((,
+*
+%1$System.Threading.Tasks.Task<TResult>*.
+1#) #()"
+#( #()
+implicit returnBLJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork

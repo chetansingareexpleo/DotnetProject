@@ -1,0 +1,25 @@
+
+”MyWarehouse.Domain.Partners.Partner.ProcureFrom(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Partners\Partner.cs- -(""0*ã
+0. .(?"
+ 
+.$ .(?
+%0"__id*
+""î
+ë
+. .(@1
+%1+MyWarehouse.Domain.Transactions.Transaction"¾MyWarehouse.Domain.Partners.Partner.CreateTransaction(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>, MyWarehouse.Domain.TransactionType)*)'%
+#MyWarehouse.Domain.Partners.Partner*64
+2
+items)System.Collections.Generic.IEnumerable<T>*
+
+%0"?
+. .(@3
+1
+%1+MyWarehouse.Domain.Transactions.Transaction*.
+1.A .(A"
+.@ .(A
+implicit return:>
+-# -(U2
+items)System.Collections.Generic.IEnumerable<T>B'%
+#MyWarehouse.Domain.Partners.Partner

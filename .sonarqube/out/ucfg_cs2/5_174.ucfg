@@ -1,0 +1,144 @@
+
+nMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService.GetProductStockTotalValue()}
+sC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\Services\StockStatisticsService.cs4 4(6"0*’
+06 C(,ê
+ç
+6+ 6(5I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*Ø¨*©T
+RMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService"Q
+
+_dbContextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext‚
+ﬂ
+6+ 6(>2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"PMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Products.get*MK
+I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextı
+Ú
+6+ <(
+%2System.Linq.IQueryable<T>"€System.Linq.Queryable.GroupBy<TSource, TKey, TElement>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TKey>>, System.Linq.Expressions.Expression<System.Func<TSource, TElement>>)*"
+System.Linq.Queryable*64
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+""è
+å
+6+ A(
+%3System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*#!
+
+%2System.Linq.IQueryable<T>*
+""Õ
+ 
+6+ A(*
+%4$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*#!
+
+%3System.Linq.IQueryable<T>*
+""Z
+X
+6 A(<
+stockValuesPerCurrency"System.Collections.Generic.List<T>"__id*
+""è
+å
+C C((	
+%5int"3System.Collections.Generic.ICollection<T>.Count.get*@>
+<
+stockValuesPerCurrency"System.Collections.Generic.List<T>*
+1
+2*ä
+1D F(W©
+¶
+F% F(X/
+%6)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*@>
+<
+stockValuesPerCurrency"System.Collections.Generic.List<T>*
+""Ø
+¨
+F F(Y
+%7string"Estring.Join(string?, System.Collections.Generic.IEnumerable<string?>)*
+"
+string*
+, *31
+/
+%6)System.Collections.Generic.IEnumerable<T>S
+Q
+F F(\
+%8string"__concat*
+F F(Z
+
+%7string*
+FZ F([
+.»
+≈
+E F(\
+%9string"__concat*Ñ
+	E E(Üwu
+sOperation cannot be completed, because not all product prices use the same currency. Distinct currencies detected: *
+F F(\
+
+%8stringWU
+D F(]'
+%10 System.InvalidOperationException" System.InvalidOperationExceptionû
+õ
+D D(/
+%11void"CSystem.InvalidOperationException.InvalidOperationException(string?)*+)
+'
+%10 System.InvalidOperationException*
+
+%9string*
+3*¸
+2H I(Z≤
+Ø
+H H(7k
+%12d<anonymous type: MyWarehouse.Domain.Common.ValueObjects.Money.Currency Currency, decimal TotalValue>"VSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*@>
+<
+stockValuesPerCurrency"System.Collections.Generic.List<T>¯
+ı
+H H(7r
+
+stockValued<anonymous type: MyWarehouse.Domain.Common.ValueObjects.Money.Currency Currency, decimal TotalValue>"__id*om
+k
+%12d<anonymous type: MyWarehouse.Domain.Common.ValueObjects.Money.Currency Currency, decimal TotalValue>ä
+á
+I I(.
+%13decimal"s<anonymous type: MyWarehouse.Domain.Common.ValueObjects.Money.Currency Currency, decimal TotalValue>.TotalValue.get*vt
+r
+
+stockValued<anonymous type: MyWarehouse.Domain.Common.ValueObjects.Money.Currency Currency, decimal TotalValue>∂
+≥
+IB I(U<
+%145MyWarehouse.Domain.Common.ValueObjects.Money.Currency"q<anonymous type: MyWarehouse.Domain.Common.ValueObjects.Money.Currency Currency, decimal TotalValue>.Currency.get*vt
+r
+
+stockValued<anonymous type: MyWarehouse.Domain.Common.ValueObjects.Money.Currency Currency, decimal TotalValue>û
+õ
+IB I(Z
+%15string">MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Code.get*@>
+<
+%145MyWarehouse.Domain.Common.ValueObjects.Money.Currency„
+‡
+I0 I([<
+%165MyWarehouse.Domain.Common.ValueObjects.Money.Currency"FMyWarehouse.Domain.Common.ValueObjects.Money.Currency.FromCode(string)*;9"7
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+
+%15string{y
+I I(\9
+%172MyWarehouse.Domain.Common.ValueObjects.Money.Money"2MyWarehouse.Domain.Common.ValueObjects.Money.Money©
+¶
+I I(
+%18void"xMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)*=;
+9
+%172MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+
+%13decimal*@>
+<
+%165MyWarehouse.Domain.Common.ValueObjects.Money.Currency"G
+I I(];
+9
+%172MyWarehouse.Domain.Common.ValueObjects.Money.Money*.
+3J J("
+J J(
+implicit returnBVT
+RMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService

@@ -1,0 +1,32 @@
+
+PMyWarehouse.WebApi.API.V1.ProductController.ProductController(MediatR.IMediator)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\ProductController.cs ("3*‹
+1I (Iw
+u
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*ö
+04 (H‡
+„
+4 (HO-
++MyWarehouse.WebApi.API.V1.ProductController"
+	_mediatorMediatR.IMediator"__id*!
+
+mediatorMediatR.IMediator"]
+4 (HQ*O-
++MyWarehouse.WebApi.API.V1.ProductController"
+	_mediatorMediatR.IMediator*.
+2I (I"
+H (I
+implicit return*W
+30 (0C
+A
+ (
+%1"__entrypoint*!
+
+mediatorMediatR.IMediator*
+1:)
+ (/
+mediatorMediatR.IMediatorB/-
++MyWarehouse.WebApi.API.V1.ProductController

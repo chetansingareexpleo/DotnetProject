@@ -1,0 +1,97 @@
+
+ÇMyWarehouse.Domain.Exceptions.InsufficientStockException.InsufficientStockException(MyWarehouse.Domain.Products.Product, int, int)c
+YC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Exceptions\InsufficientStockException.cs (%"1*
+1 (*
+0*ÿ
+
+0 ('|
+z
+R (^
+%0string",MyWarehouse.Domain.Products.Product.Name.get*20
+.
+product#MyWarehouse.Domain.Products.Product`
+^
+	 (ç
+%1"__concat*-
+ (.!
+Quantity requested for sale (*
+. (A
+""I
+G
+	 (ç
+%2"__concat*
+
+%1* 
+A (Q
+) from product 'C
+A
+	 (ç
+%3"__concat*
+
+%2*
+Q (_
+
+%0stringT
+R
+	 (ç
+%4"__concat*
+
+%3*+
+_ (z
+' exceeds number in stock (<
+:
+	 (ç
+%5"__concat*
+
+%4*
+	z (ä
+""=
+;
+	 (ç
+%6"__concat*
+
+%5*
+
+ä (å
+).`
+^
+	 (é
+
+%7void"#System.Exception.Exception(string?)*
+System.Exception*
+
+%6|
+z
+ ("
+%8string",MyWarehouse.Domain.Products.Product.Name.get*20
+.
+product#MyWarehouse.Domain.Products.Product∑
+¥
+ ("
+%9string"HMyWarehouse.Domain.Exceptions.InsufficientStockException.ProductName.set*><:
+8MyWarehouse.Domain.Exceptions.InsufficientStockException*
+
+%8string≥
+∞
+ (-
+
+%10int"NMyWarehouse.Domain.Exceptions.InsufficientStockException.RequestedQuantity.set*><:
+8MyWarehouse.Domain.Exceptions.InsufficientStockException*
+""∞
+≠
+ ('
+
+%11int"KMyWarehouse.Domain.Exceptions.InsufficientStockException.ActualQuantity.set*><:
+8MyWarehouse.Domain.Exceptions.InsufficientStockException*
+""*
+2*.
+2 ("
+ (
+implicit return::
+& (5.
+product#MyWarehouse.Domain.Products.Product:$
+7 (L
+requestedQuantityint:!
+N (`
+actualQuantityintB<:
+8MyWarehouse.Domain.Exceptions.InsufficientStockException

@@ -1,0 +1,50 @@
+
+4MyWarehouse.WebApi.API.V1.ProductController.Get(int)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\ProductController.cs 7  (:"2*è
+
+0! !(IÄ
+~
+! !(
+%0MediatR.IMediator"__id*SQ*O-
++MyWarehouse.WebApi.API.V1.ProductController"
+	_mediatorMediatR.IMediatorõò
+!# !(KH
+%1BMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery"BMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryƒ
+¡
+!' !(=
+
+%2void"[MyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.GetProductDetailsQuery()*LJ
+H
+%1BMyWarehouse.Application.Products.GetProduct.GetProductDetailsQueryª
+∏
+!B !(I	
+%3int"IMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery.Id.set*LJ
+H
+%1BMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery*
+""‚ﬂ
+! !(L*
+%4$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*LJ
+H
+%1BMyWarehouse.Application.Products.GetProduct.GetProductDetailsQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)∑¥
+! !(M-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2Ok(object?)";
+! !(M/
+-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult*.
+1!N !(N"
+!M !(N
+implicit return*>
+2 B  (B*
+(
+ 7  (:
+%6"__entrypoint*
+""*
+0:
+ ;  (A	
+idintB/-
++MyWarehouse.WebApi.API.V1.ProductController

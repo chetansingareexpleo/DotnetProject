@@ -1,0 +1,22 @@
+
+oMyWarehouse.WebApi.Logging.LoggingStartup.UseMyRequestLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder)T
+JC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Logging\LoggingStartup.cs0& 0(9"0*Î
+02 6(Eø
+õ
+2 6(F6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder"¯Serilog.SerilogApplicationBuilderExtensions.UseSerilogRequestLogging(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Serilog.AspNetCore.RequestLoggingOptions>)*1/"-
++Serilog.SerilogApplicationBuilderExtensions*B@
+>
+
+appBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+"""D
+2 6(G8
+6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder*.
+17 7("
+7 7(
+implicit return:J
+0: 0(]>
+
+appBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilderB-"+
+)MyWarehouse.WebApi.Logging.LoggingStartup

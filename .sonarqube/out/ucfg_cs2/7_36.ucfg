@@ -1,0 +1,34 @@
+
+‰MyWarehouse.WebApi.API.V1.TransactionController.GetList(MyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery)Z
+PC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\TransactionController.csH (O"2*‚
+0 ((…
+‚
+ (
+%0MediatR.IMediator"__id*WU*S1
+/MyWarehouse.WebApi.API.V1.TransactionController"
+	_mediatorMediatR.IMediatoróð
+ ()*
+%1$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*][
+Y
+queryPMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)·´
+ (*-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2Ok(object?)";
+ (*/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*.
+1+ (+"
+* (+
+implicit return*4
+2z (z 
+
+H (O
+%3"__entrypoint*
+0:e
+P (yY
+queryPMyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQueryB31
+/MyWarehouse.WebApi.API.V1.TransactionController

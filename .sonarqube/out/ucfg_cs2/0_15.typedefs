@@ -1,0 +1,15 @@
+Ù
+#MyWarehouse.Domain.Partners.Partner"MyWarehouse.Domain.Common.MyEntityobject:
+	Partner()-MyWarehouse.Domain.Partners.Partner.Partner()ê
+4Partner(string, MyWarehouse.Domain.Partners.Address)XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)ˇ
+kSellTo(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>)èMyWarehouse.Domain.Partners.Partner.SellTo(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>)â
+pProcureFrom(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>)îMyWarehouse.Domain.Partners.Partner.ProcureFrom(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>)L
+UpdateName(string)6MyWarehouse.Domain.Partners.Partner.UpdateName(string)å
+2UpdateAddress(MyWarehouse.Domain.Partners.Address)VMyWarehouse.Domain.Partners.Partner.UpdateAddress(MyWarehouse.Domain.Partners.Address)ﬁ
+öCreateTransaction(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>, MyWarehouse.Domain.TransactionType)æMyWarehouse.Domain.Partners.Partner.CreateTransaction(System.Collections.Generic.IEnumerable<(MyWarehouse.Domain.Products.Product product, int quantity)>, MyWarehouse.Domain.TransactionType)8
+Name.get,MyWarehouse.Domain.Partners.Partner.Name.get8
+Name.set,MyWarehouse.Domain.Partners.Partner.Name.set>
+Address.get/MyWarehouse.Domain.Partners.Partner.Address.get>
+Address.set/MyWarehouse.Domain.Partners.Partner.Address.setH
+Transactions.get4MyWarehouse.Domain.Partners.Partner.Transactions.getH
+Transactions.set4MyWarehouse.Domain.Partners.Partner.Transactions.set

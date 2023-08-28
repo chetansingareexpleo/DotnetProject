@@ -1,0 +1,39 @@
+
+MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ApplicationDbContext.cs[ [(+"0*ç
+0^ d($‹Ÿ
+^ ^(O
+%0IMicrosoft.EntityFrameworkCore.Metadata.Builders.OwnedEntityTypeBuilder<T>"5Microsoft.EntityFrameworkCore.ModelBuilder.Owned<T>()*97
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2
+Owned<T>()‹Ÿ
+_ _( O
+%1IMicrosoft.EntityFrameworkCore.Metadata.Builders.OwnedEntityTypeBuilder<T>"5Microsoft.EntityFrameworkCore.ModelBuilder.Owned<T>()*97
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2
+Owned<T>()‹Ÿ
+` `(O
+%2IMicrosoft.EntityFrameworkCore.Metadata.Builders.OwnedEntityTypeBuilder<T>"5Microsoft.EntityFrameworkCore.ModelBuilder.Owned<T>()*97
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2
+Owned<T>()´
+®
+b b(*
+
+%3void"âMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ConfigureSoftDeleteFilter(Microsoft.EntityFrameworkCore.ModelBuilder)*IG"E
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*97
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder≠™
+d d(%
+
+%4void"ŒMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey, TUserClaim, TUserRole, TUserLogin, TRoleClaim, TUserToken>.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*IGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*97
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*
+1*.
+1e e("
+e e(
+implicit return:A
+[, [(@5
+builder*Microsoft.EntityFrameworkCore.ModelBuilderBGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext

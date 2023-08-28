@@ -1,0 +1,24 @@
+
+ÇMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.StartTracking(TEntity)å
+ÅC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\Common\RepositoryBase.csY Y(%"0*€
+0Z Z(%ı
+Ú
+Z Z(2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*´®*•m
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>"4
+_set,Microsoft.EntityFrameworkCore.DbSet<TEntity>¸˘
+Z Z(&G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*64
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+detachedEntityTEntity2Update(TEntity)"U
+Z Z(&I
+G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*.
+1Z' Z('"
+Z& Z('
+implicit return:%
+Y& Y(<
+detachedEntityTEntityBom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>

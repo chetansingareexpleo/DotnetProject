@@ -1,0 +1,63 @@
+
+7MyWarehouse.Domain.Products.Product.CheckPrice(decimal)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Products\Product.cst t(""0*9
+0v v(3"
+ 
+v v(3
+%0"__id*
+""*
+1
+2*²
+1	w w(ˆ#
+!
+	wk w(ˆ
+%1"__id*
+""K
+I
+	w( w(‹
+%2"__concat*
+w* w(2
+
+Amount '*
+w2 w(:
+""i
+g
+	w( w(‹
+%3"__concat*
+
+%2*@
+w: w(j42
+0' is smaller than the minimum required price of <
+:
+	w( w(‹
+%4"__concat*
+
+%3*
+	wj w(‰
+
+%1<
+:
+	w( w(‹
+%5"__concat*
+
+%4*
+
+w‰ w(Š
+.GE
+	w w(Œ
+%6System.ArgumentException"System.ArgumentException{
+y
+w w('
+
+%7void"3System.ArgumentException.ArgumentException(string?)*" 
+
+%6System.ArgumentException*
+
+%5*
+2*.
+2x x("
+x x(
+implicit return:
+t# t(1
+amountdecimalB'"%
+#MyWarehouse.Domain.Products.Product

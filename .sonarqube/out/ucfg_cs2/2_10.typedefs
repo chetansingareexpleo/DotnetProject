@@ -1,0 +1,16 @@
+˛
+CMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandobjectMediatR.IRequestSystem.IEquatable<T>\
+
+ToString()NMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.ToString()ñ
+'PrintMembers(System.Text.StringBuilder)kMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.PrintMembers(System.Text.StringBuilder)b
+GetHashCode()QMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.GetHashCode()f
+Equals(object?)SMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.Equals(object?)·
+LEquals(MyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand?)êMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.Equals(MyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand?)\
+
+<Clone>$()NMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.<Clone>$()˚
+YDeletePartnerCommand(MyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand)ùMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.DeletePartnerCommand(MyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand)t
+DeletePartnerCommand()ZMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.DeletePartnerCommand()p
+EqualityContract.getXMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.EqualityContract.getp
+EqualityContract.setXMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.EqualityContract.setT
+Id.getJMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.Id.getT
+Id.setJMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand.Id.set

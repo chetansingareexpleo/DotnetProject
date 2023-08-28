@@ -1,0 +1,67 @@
+
+ÂMyWarehouse.Infrastructure.Authentication.External.Services.ExternalAuthenticationVerifier.Verify(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider, string)…
+{C:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\External\Services\ExternalAuthenticationVerifier.cs< (B"0*9
+0 (1"
+ 
+ (1
+%0"__id*
+""*
+1
+2*Ø
+15 (T®
+«
+5 (U*
+%4$System.Threading.Tasks.Task<TResult>"zMyWarehouse.Infrastructure.Authentication.External.Services.ExternalAuthenticationVerifier.AuthenticateGoogleToken(string)*`^\
+ZMyWarehouse.Infrastructure.Authentication.External.Services.ExternalAuthenticationVerifier*
+
+idTokenstringn
+l
+5 (U*
+%2$System.Threading.Tasks.Task<TResult>"__id*.,
+*
+%4$System.Threading.Tasks.Task<TResult>n
+l
+5 (U*
+%1$System.Threading.Tasks.Task<TResult>"__id*.,
+*
+%2$System.Threading.Tasks.Task<TResult>"8
+5 (U,
+*
+%1$System.Threading.Tasks.Task<TResult>*õ
+2 (YX
+V
+8 (p
+%5"__concat*&
+: (P
+Support for provider '*
+P (Z
+""M
+K
+8 (p
+%6"__concat*
+
+%5*%
+Z (o
+' is not implemented.zx
+ (q8
+%72System.ComponentModel.InvalidEnumArgumentException"2System.ComponentModel.InvalidEnumArgumentException»
+¸
+ (7
+
+%8void"XSystem.ComponentModel.InvalidEnumArgumentException.InvalidEnumArgumentException(string?)*<:
+8
+%72System.ComponentModel.InvalidEnumArgumentException*
+
+%6*
+3*.
+3
+ (
+"
+	 (
+
+implicit return:o
+C (jc
+providerWMyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider:
+l (z
+idTokenstringB^\
+ZMyWarehouse.Infrastructure.Authentication.External.Services.ExternalAuthenticationVerifier

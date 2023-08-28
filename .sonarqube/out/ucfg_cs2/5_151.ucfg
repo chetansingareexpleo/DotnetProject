@@ -1,0 +1,22 @@
+
+ùMyWarehouse.Infrastructure.Persistence.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Configuration.IConfiguration)Y
+OC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Startup.cs ( "0*¢
+0! !(:ç
+ä
+! !(;
+
+%0void"´MyWarehouse.Infrastructure.Persistence.Seed.DbInitializer.SeedDatabase(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Configuration.IConfiguration)*?=";
+9MyWarehouse.Infrastructure.Persistence.Seed.DbInitializer*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+1*.
+1" "("
+" "(
+implicit return:C
+! (87
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:N
+: (VB
+configuration1Microsoft.Extensions.Configuration.IConfigurationB2"0
+.MyWarehouse.Infrastructure.Persistence.Startup

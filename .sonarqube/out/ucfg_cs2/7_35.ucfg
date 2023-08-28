@@ -1,0 +1,19 @@
+
+gMyWarehouse.WebApi.Authentication.ApiStartup.UseMyApi(Microsoft.AspNetCore.Builder.IApplicationBuilder)L
+BC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\ApiStartup.cs ("0*¾
+0 (	©
+¦
+ (
+6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder"ÊMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*NL"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+1*.
+1 ("
+ (
+implicit return:C
+  (<7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderB0".
+,MyWarehouse.WebApi.Authentication.ApiStartup

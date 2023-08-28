@@ -1,0 +1,81 @@
+
+°MyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService.GetProductStockTotalMass(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)}
+sC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\Services\StockStatisticsService.cs (4"0*Â
+0! 1('ê
+ç
+!% !(/I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*Ø¨*©T
+RMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService"Q
+
+_dbContextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext‚
+ﬂ
+!% !(82
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"PMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Products.get*MK
+I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextı
+Ú
+!% &(
+%2System.Linq.IQueryable<T>"€System.Linq.Queryable.GroupBy<TSource, TKey, TElement>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TKey>>, System.Linq.Expressions.Expression<System.Func<TSource, TElement>>)*"
+System.Linq.Queryable*64
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+""è
+å
+!% +(
+%3System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*#!
+
+%2System.Linq.IQueryable<T>*
+""Õ
+ 
+!% +(*
+%4$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*#!
+
+%3System.Linq.IQueryable<T>*
+""T
+R
+! +(6
+totalMassPerUnit"System.Collections.Generic.List<T>"__id*
+""£
+†
+- .(;/
+%5)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*:8
+6
+totalMassPerUnit"System.Collections.Generic.List<T>*
+""Í
+Á
+- /(4
+%6float"qSystem.Linq.Enumerable.Sum<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, float>)*"
+System.Linq.Enumerable*31
+/
+%5)System.Collections.Generic.IEnumerable<T>*
+""7
+5
+- /(4
+	totalMassfloat"__id*
+
+%6floatvt
+1 1((6
+%70MyWarehouse.Domain.Common.ValueObjects.Mass.Mass"0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass£
+†
+1 1(
+
+%8void"rMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Mass(float, MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)*:8
+6
+%70MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*
+
+	totalMassfloat*@>
+<
+unit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"D
+1 1()8
+6
+%70MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*.
+12 2("
+2 2(
+implicit return:H
+5 (B<
+unit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitBVT
+RMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService

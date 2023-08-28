@@ -1,0 +1,49 @@
+
+8MyWarehouse.WebApi.API.V1.TransactionController.Get(int)Z
+PC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\TransactionController.cs; (>"2*ù
+0 (MÖ
+Ç
+ (
+%0MediatR.IMediator"__id*WU*S1
+/MyWarehouse.WebApi.API.V1.TransactionController"
+	_mediatorMediatR.IMediator¡æ
+# (O[
+%1UMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery"UMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryÓ
+Î
+' (A
+
+%2void"rMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery.GetTransactionDetailsQuery()*_]
+[
+%1UMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery·
+ﬁ
+F (M	
+%3int"\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery.Id.set*_]
+[
+%1UMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery*
+""ıÚ
+ (P*
+%4$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*_]
+[
+%1UMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)∑¥
+ (Q-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2Ok(object?)";
+ (Q/
+-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult*.
+1R (R"
+Q (R
+implicit return*>
+2F (F*
+(
+; (>
+%6"__entrypoint*
+""*
+0:
+? (E	
+idintB31
+/MyWarehouse.WebApi.API.V1.TransactionController

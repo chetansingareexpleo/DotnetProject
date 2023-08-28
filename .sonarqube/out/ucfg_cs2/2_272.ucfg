@@ -1,0 +1,66 @@
+
+¶MyWarehouse.Application.Products.GetProducts.GetProductsListQueryHandler.Handle(MyWarehouse.Application.Products.GetProducts.GetProductsListQuery, System.Threading.CancellationToken)p
+fC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\GetProductsList\GetProductsListQuery.cs0 (6"0*ù
+0 (1…
+‚
+ (H
+%0BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*¥¢*ŸJ
+HMyWarehouse.Application.Products.GetProducts.GetProductsListQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork˜•
+ (\
+%1VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository"OMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Products.get*LJ
+H
+%0BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Products.get¾
+»
+ (1
+
+%2bool"QMyWarehouse.Application.Products.GetProducts.GetProductsListQuery.StockedOnly.get*PN
+L
+requestAMyWarehouse.Application.Products.GetProducts.GetProductsListQuery*
+1
+2*•
+14 (L(
+&
+4 (L
+
+%4bool"__id*
+""W
+U
+4 (L3
+%3-System.Linq.Expressions.Expression<TDelegate>"__id*
+
+
+%4bool*
+3*‰
+2O (S"
+ 
+O (S
+%5"__id*
+""Q
+O
+O (S3
+%3-System.Linq.Expressions.Expression<TDelegate>"__id*
+
+%5*
+3*æ
+3 (œ™
+ (*
+%6$System.Threading.Tasks.Task<TResult>"£MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.GetProjectedListAsync<TDto>(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>, System.Linq.Expressions.Expression<System.Func<TEntity, bool>>?, bool)*`^
+\
+%1VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository*PN
+L
+requestAMyWarehouse.Application.Products.GetProducts.GetProductsListQuery*75
+3
+%3-System.Linq.Expressions.Expression<TDelegate>*
+""2ÃGetProjectedListAsync<TDto>(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>, System.Linq.Expressions.Expression<System.Func<TEntity, bool>>?, bool)"8
+ (,
+*
+%6$System.Threading.Tasks.Task<TResult>*.
+4 ("
+ (
+implicit return:X
+7 (SL
+requestAMyWarehouse.Application.Products.GetProducts.GetProductsListQuery:C
+U (x7
+cancellationToken"System.Threading.CancellationTokenBLJ
+HMyWarehouse.Application.Products.GetProducts.GetProductsListQueryHandler

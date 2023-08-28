@@ -1,0 +1,39 @@
+
+“MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandValidator.CreateTransactionCommandValidator(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository)É
+yC:\Users\csingare\Desktop\MyWarehouse\src\Application\Transactions\CreateTransaction\CreateTransactionCommandValidator.cs	 	(,"1*ä
+1 (v
+t
+
+%0void"9FluentValidation.AbstractValidator<T>.AbstractValidator()*+)'
+%FluentValidation.AbstractValidator<T>*
+0*è	
+0 (—
+Œ
+ (. Z
+XMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandValidator"l
+_productRepositoryVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository"__id*om
+k
+productRepositoryVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository˜
+Ù
+ ((8
+%12FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*+)'
+%FluentValidation.AbstractValidator<T>*
+""©
+¶
+ (8
+%22FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*1/"-
++FluentValidation.DefaultValidatorExtensions*<:
+8
+%12FluentValidation.IRuleBuilderInitial<T, TProperty>Ä˝
+ (8
+%32FluentValidation.IRuleBuilderOptions<T, TProperty>"PFluentValidation.IRuleBuilderOptions<T, TProperty>.DependentRules(System.Action)*<:
+8
+%22FluentValidation.IRuleBuilderOptions<T, TProperty>*
+""2DependentRules(System.Action)*
+2*.
+2 ("
+ (
+implicit return:w
+	- 	(Qk
+productRepositoryVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepositoryB\Z
+XMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandValidator

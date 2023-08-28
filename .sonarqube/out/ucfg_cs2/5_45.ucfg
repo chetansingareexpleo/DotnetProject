@@ -1,0 +1,27 @@
+
+‹MyWarehouse.Infrastructure.Authentication.External.Services.ExternalSignInService.ExternalSignInService(MyWarehouse.Infrastructure.Authentication.External.Services.IExternalAuthenticationVerifier, MyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService)|
+rC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\External\Services\ExternalSignInService.cs ( "1*
+1 (*
+0*ø
+0 ($Â
+¿
+ (¿S
+QMyWarehouse.Infrastructure.Authentication.External.Services.ExternalSignInService"h
+	_verifier[MyWarehouse.Infrastructure.Authentication.External.Services.IExternalAuthenticationVerifier"__id*ki
+g
+verifier[MyWarehouse.Infrastructure.Authentication.External.Services.IExternalAuthenticationVerifierž
+›
+ ($­S
+QMyWarehouse.Infrastructure.Authentication.External.Services.ExternalSignInService"V
+_tokenServiceEMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService"__id*YW
+U
+tokenServiceEMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService*
+2*.
+2 ("
+ (
+implicit return:s
+! (Ig
+verifier[MyWarehouse.Infrastructure.Authentication.External.Services.IExternalAuthenticationVerifier:a
+K (eU
+tokenServiceEMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenServiceBUS
+QMyWarehouse.Infrastructure.Authentication.External.Services.ExternalSignInService

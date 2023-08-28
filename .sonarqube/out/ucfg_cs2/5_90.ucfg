@@ -1,0 +1,55 @@
+
+aMyWarehouse.Infrastructure.QueryableExtensions.ApplyFilter<T>(System.Linq.IQueryable<T>, string?)k
+aC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Extensions\QueryableExtensions.cs  (+"0*
+0 (*
+1
+2*×
+1 (?˜
+•
+ (@
+%0System.Linq.IQueryable<T>"iMyWarehouse.Infrastructure.QueryableExtensions.ApplyFilterInternal<T>(System.Linq.IQueryable<T>, string?)*42"0
+.MyWarehouse.Infrastructure.QueryableExtensions*&$
+"
+querySystem.Linq.IQueryable<T>*
+
+oDataFilterStringstring"-
+ (A!
+
+%0System.Linq.IQueryable<T>*Ü
+2 (i~
+|
+& (f
+%1string"__concat*-
+( (E!
+The specified filter string '*)
+E (X
+
+oDataFilterStringstringU
+S
+& (f
+%2string"__concat*
+
+%1string*
+X (e
+' is invalid.B@
+ (j
+%3System.FormatException"System.FormatException¬
+©
+ (%
+
+%4void"BSystem.FormatException.FormatException(string?, System.Exception?)* 
+
+%3System.FormatException*
+
+%2string*
+
+eSystem.Exception*
+3*.
+3 ("
+ (
+implicit return:.
+/ (G"
+querySystem.Linq.IQueryable<T>:'
+I (b
+oDataFilterStringstringB2"0
+.MyWarehouse.Infrastructure.QueryableExtensions

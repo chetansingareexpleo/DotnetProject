@@ -1,0 +1,36 @@
+
+rMyWarehouse.WebApi.Authentication.ApiStartup.AddMyApi(Microsoft.Extensions.DependencyInjection.IServiceCollection)L
+BC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\ApiStartup.cs	 	("0*¹
+0 (0•
+’
+ ("C
+%0=Microsoft.Extensions.DependencyInjection.IHealthChecksBuilder"œMicrosoft.Extensions.DependencyInjection.HealthCheckServiceCollectionExtensions.AddHealthChecks(Microsoft.Extensions.DependencyInjection.IServiceCollection)*US"Q
+OMicrosoft.Extensions.DependencyInjection.HealthCheckServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionû
+ø
+ (!:
+%14Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*MK"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionë
+è
+ (':
+%24Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcCoreMvcBuilderExtensions.AddControllersAsServices(Microsoft.Extensions.DependencyInjection.IMvcBuilder)*JH"F
+DMicrosoft.Extensions.DependencyInjection.MvcCoreMvcBuilderExtensions*><
+:
+%14Microsoft.Extensions.DependencyInjection.IMvcBuilder 
+
+ (1:
+%34Microsoft.Extensions.DependencyInjection.IMvcBuilder"¾Microsoft.Extensions.DependencyInjection.MvcCoreMvcBuilderExtensions.AddJsonOptions(Microsoft.Extensions.DependencyInjection.IMvcBuilder, System.Action<Microsoft.AspNetCore.Mvc.JsonOptions>)*JH"F
+DMicrosoft.Extensions.DependencyInjection.MvcCoreMvcBuilderExtensions*><
+:
+%24Microsoft.Extensions.DependencyInjection.IMvcBuilder*
+""*
+1*.
+1 ("
+ (
+implicit return:S
+	  	(@G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB0".
+,MyWarehouse.WebApi.Authentication.ApiStartup

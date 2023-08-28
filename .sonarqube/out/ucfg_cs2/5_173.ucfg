@@ -1,0 +1,92 @@
+
+âMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ConfigureSoftDeleteFilter(Microsoft.EntityFrameworkCore.ModelBuilder)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ApplicationDbContext.csj j(1"0*Ø
+0l1 m(J≈¬
+l1 l(>:
+%04Microsoft.EntityFrameworkCore.Metadata.IMutableModel"4Microsoft.EntityFrameworkCore.ModelBuilder.Model.get*97
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2	Model.get◊‘
+l1 l(O/
+%1)System.Collections.Generic.IEnumerable<T>"EMicrosoft.EntityFrameworkCore.Metadata.IMutableModel.GetEntityTypes()*><
+:
+%04Microsoft.EntityFrameworkCore.Metadata.IMutableModel2GetEntityTypes()è
+å
+l1 m(K/
+%2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*31
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+""ñ
+ì
+l l(-
+%3	__unknown"7System.Collections.Generic.ICollection<T>.this[int].get*31
+/
+%2)System.Collections.Generic.IEnumerable<T>*
+""N
+L
+l x(	%
+softDeletableTypeBuilder	__unknown"__id*
+
+%3	__unknown*
+1*
+1y y(*
+2
+3*˜
+2o v(ŒÀ
+o1 o(Q
+%4System.Type"DMicrosoft.EntityFrameworkCore.Metadata.IReadOnlyTypeBase.ClrType.get*YW
+U
+softDeletableTypeBuilder9Microsoft.EntityFrameworkCore.Metadata.IMutableEntityType2ClrType.getŒ
+À
+o o(W1
+%5+System.Linq.Expressions.ParameterExpression"BSystem.Linq.Expressions.Expression.Parameter(System.Type, string?)*(&"$
+"System.Linq.Expressions.Expression*
+
+%4System.Type*
+pÑ
+Å
+o o(W8
+	parameter+System.Linq.Expressions.ParameterExpression"__id*53
+1
+%5+System.Linq.Expressions.ParameterExpressionà
+Ö
+t t(X.
+%6(System.Linq.Expressions.MemberExpression"WSystem.Linq.Expressions.Expression.Property(System.Linq.Expressions.Expression, string)*(&"$
+"System.Linq.Expressions.Expression*<:
+8
+	parameter+System.Linq.Expressions.ParameterExpression*
+""©
+¶
+u u(10
+%7*System.Linq.Expressions.ConstantExpression"4System.Linq.Expressions.Expression.Constant(object?)*(&"$
+"System.Linq.Expressions.Expression*
+""√
+¿
+s u(2.
+%8(System.Linq.Expressions.BinaryExpression"pSystem.Linq.Expressions.Expression.Equal(System.Linq.Expressions.Expression, System.Linq.Expressions.Expression)*(&"$
+"System.Linq.Expressions.Expression*20
+.
+%6(System.Linq.Expressions.MemberExpression*42
+0
+%7*System.Linq.Expressions.ConstantExpression‡
+›
+r v(.
+%9(System.Linq.Expressions.LambdaExpression"ÑSystem.Linq.Expressions.Expression.Lambda(System.Linq.Expressions.Expression, params System.Linq.Expressions.ParameterExpression[]?)*(&"$
+"System.Linq.Expressions.Expression*20
+.
+%8(System.Linq.Expressions.BinaryExpression*<:
+8
+	parameter+System.Linq.Expressions.ParameterExpressionŸ÷
+q w(
+%10void"sMicrosoft.EntityFrameworkCore.Metadata.IMutableEntityType.SetQueryFilter(System.Linq.Expressions.LambdaExpression?)*YW
+U
+softDeletableTypeBuilder9Microsoft.EntityFrameworkCore.Metadata.IMutableEntityType*20
+.
+%9(System.Linq.Expressions.LambdaExpression29SetQueryFilter(System.Linq.Expressions.LambdaExpression?)*
+1*.
+3y y("
+y y(
+implicit return:A
+j2 j(F5
+builder*Microsoft.EntityFrameworkCore.ModelBuilderBG"E
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext

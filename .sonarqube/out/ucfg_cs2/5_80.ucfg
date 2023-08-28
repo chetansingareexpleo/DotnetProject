@@ -1,0 +1,23 @@
+
+RMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Dispose()s
+iC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\UnitOfWork.cs ("0*Ù
+0 (†
+ƒ
+ (I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*¥¢*ŸJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork"Q
+
+_dbContextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext¦£
+ (
+
+%1void"1Microsoft.EntityFrameworkCore.DbContext.Dispose()*MK
+I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext2	Dispose()"
+ (
+
+
+%1void*.
+1  ( "
+ ( 
+implicit returnBLJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork

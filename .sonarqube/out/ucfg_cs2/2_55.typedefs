@@ -1,0 +1,4 @@
+”
+\MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>‘
+yGetTransactionDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)÷MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler.GetTransactionDetailsQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork, AutoMapper.IMapper)Â
+ÅHandle(MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery, System.Threading.CancellationToken)ﬁMyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQueryHandler.Handle(MyWarehouse.Application.Transactions.GetTransactionDetails.GetTransactionDetailsQuery, System.Threading.CancellationToken)

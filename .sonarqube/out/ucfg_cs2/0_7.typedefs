@@ -1,0 +1,19 @@
+®
+0MyWarehouse.Domain.Common.ValueObjects.Mass.MassobjectSystem.IEquatable<T>·
+AMass(float, MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)rMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Mass(float, MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)³
+?ConvertTo(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)pMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.ConvertTo(MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)I
+
+ToString();MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.ToString()ƒ
+'PrintMembers(System.Text.StringBuilder)XMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.PrintMembers(System.Text.StringBuilder)O
+GetHashCode()>MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.GetHashCode()S
+Equals(object?)@MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Equals(object?)§
+9Equals(MyWarehouse.Domain.Common.ValueObjects.Mass.Mass?)jMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Equals(MyWarehouse.Domain.Common.ValueObjects.Mass.Mass?)I
+
+<Clone>$();MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.<Clone>$()¡
+6Mass(MyWarehouse.Domain.Common.ValueObjects.Mass.Mass)gMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Mass(MyWarehouse.Domain.Common.ValueObjects.Mass.Mass)]
+EqualityContract.getEMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.EqualityContract.get]
+EqualityContract.setEMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.EqualityContract.setG
+	Value.get:MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Value.getG
+	Value.set:MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Value.setE
+Unit.get9MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Unit.getE
+Unit.set9MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Unit.set

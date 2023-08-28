@@ -1,0 +1,28 @@
+
+{MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.ListResponseModel<TDto>.LastRowOnPage.getè
+ÑC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\Common\ListResponseModel.cs ("0*ˇ
+0  (GÇ
+ˇ
+) (2	
+%0int"wMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.ListResponseModel<TDto>.PageIndex.get*omk
+iMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.ListResponseModel<TDto>Å
+˛
+5 (=	
+%1int"vMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.ListResponseModel<TDto>.PageSize.get*omk
+iMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.ListResponseModel<TDto>Å
+˛
+? (G	
+%2int"vMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.ListResponseModel<TDto>.RowCount.get*omk
+iMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.ListResponseModel<TDto>^
+\
+  (H	
+%3int"System.Math.Min(int, int)*"
+System.Math*
+""*
+	
+%2int*
+1*.
+1I (I"
+H (I
+implicit returnBmk
+iMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.ListResponseModel<TDto>

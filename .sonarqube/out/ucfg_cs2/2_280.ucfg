@@ -1,0 +1,129 @@
+
+ºMyWarehouse.Application.Products.CreateProduct.CreateProductCommandHandler.Handle(MyWarehouse.Application.Products.CreateProduct.CreateProductCommand, System.Threading.CancellationToken)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\CreateProduct\CreateProductCommand.cs (!"0*Á!
+0 '(½
+º
+ (
+%0string"LMyWarehouse.Application.Products.CreateProduct.CreateProductCommand.Name.get*RP
+N
+requestCMyWarehouse.Application.Products.CreateProduct.CreateProductCommand;
+9
+ (%
+%1string"string.Trim()*
+
+%0stringÄ
+Á
+ (,
+%2string"SMyWarehouse.Application.Products.CreateProduct.CreateProductCommand.Description.get*RP
+N
+requestCMyWarehouse.Application.Products.CreateProduct.CreateProductCommand;
+9
+ (3
+%3string"string.Trim()*
+
+%2stringÅ
+Â
+   (0
+%4decimal"SMyWarehouse.Application.Products.CreateProduct.CreateProductCommand.PriceAmount.get*RP
+N
+requestCMyWarehouse.Application.Products.CreateProduct.CreateProductCommandÙ
+Ö
+ 2  (X;
+%55MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__id*†ƒ*€/
+-MyWarehouse.Domain.Products.ProductInvariants"M
+DefaultPriceCurrency5MyWarehouse.Domain.Common.ValueObjects.Money.Currencyzx
+   (Y8
+%62MyWarehouse.Domain.Common.ValueObjects.Money.Money"2MyWarehouse.Domain.Common.ValueObjects.Money.Money¥
+¢
+   (
+
+%7void"xMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)*<:
+8
+%62MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+
+%4decimal*?=
+;
+%55MyWarehouse.Domain.Common.ValueObjects.Money.CurrencyÁ
+¾
+! !(,
+%8float"QMyWarehouse.Application.Products.CreateProduct.CreateProductCommand.MassValue.get*RP
+N
+requestCMyWarehouse.Application.Products.CreateProduct.CreateProductCommandÏ
+Ì
+!. !(O:
+%94MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*~|*z/
+-MyWarehouse.Domain.Products.ProductInvariants"G
+DefaultMassUnit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitwu
+! !(P7
+%100MyWarehouse.Domain.Common.ValueObjects.Mass.Mass"0MyWarehouse.Domain.Common.ValueObjects.Mass.Massœ
+™
+! !(
+%11void"rMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Mass(float, MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)*;9
+7
+%100MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*
+
+%8float*><
+:
+%94MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit][
+ "(	*
+%12#MyWarehouse.Domain.Products.Product"#MyWarehouse.Domain.Products.Product
+Š
+ (!
+%13void"¡MyWarehouse.Domain.Products.Product.Product(string, string, MyWarehouse.Domain.Common.ValueObjects.Money.Money, MyWarehouse.Domain.Common.ValueObjects.Mass.Mass)*.,
+*
+%12#MyWarehouse.Domain.Products.Product*
+
+%1string*
+
+%3string*<:
+8
+%62MyWarehouse.Domain.Common.ValueObjects.Money.Money*;9
+7
+%100MyWarehouse.Domain.Common.ValueObjects.Mass.Massr
+p
+ "(	.
+product#MyWarehouse.Domain.Products.Product"__id*.,
+*
+%12#MyWarehouse.Domain.Products.Productˆ
+…
+$ $(I
+%14BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*§¤*¡L
+JMyWarehouse.Application.Products.CreateProduct.CreateProductCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkš—
+$ $(]
+%15VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository"OMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Products.get*MK
+I
+%14BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Products.get­ª
+$ $()
+%16void"lMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.Add(TEntity)*a_
+]
+%15VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository*20
+.
+product#MyWarehouse.Domain.Products.Product2Add(TEntity)ˆ
+…
+% %(I
+%17BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*§¤*¡L
+JMyWarehouse.Application.Products.CreateProduct.CreateProductCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkáÞ
+% %('"
+%18System.Threading.Tasks.Task"PMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.SaveChanges()*MK
+I
+%17BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2SaveChanges()w
+u
+' '(
+
+%19int")MyWarehouse.Domain.Common.MyEntity.Id.get*20
+.
+product#MyWarehouse.Domain.Products.Product"
+' '(
+
+
+%19int*.
+1( (("
+( ((
+implicit return:Z
+" (>N
+requestCMyWarehouse.Application.Products.CreateProduct.CreateProductCommand:C
+@ (c7
+cancellationToken"System.Threading.CancellationTokenBNL
+JMyWarehouse.Application.Products.CreateProduct.CreateProductCommandHandler

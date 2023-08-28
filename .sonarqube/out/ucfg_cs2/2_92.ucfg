@@ -1,0 +1,93 @@
+
+∂MyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>.Handle(TRequest, System.Threading.CancellationToken, MediatR.RequestHandlerDelegate<TResponse>)l
+bC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Behaviors\ExceptionLoggingBehavior.cs! ('"0*
+0" "(*	
+1
+2
+3*¬
+1 (û
+õ
+ (*
+%0$System.Threading.Tasks.Task<TResult>"2MediatR.RequestHandlerDelegate<TResponse>.Invoke()*/-+
+)MediatR.RequestHandlerDelegate<TResponse>"
+ ( 
+""*›	
+3	 (πUS
+ (3
+%1string"%System.Reflection.MemberInfo.Name.get*
+""2Name.get;
+9
+ (3
+requestNamestring"__id*
+
+%1stringÒ
+Ó
+ (9
+%23Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*†ù*öX
+VMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>È
+Ê
+
+Ø (π:
+%34System.Collections.Generic.IDictionary<TKey, TValue>"MMyWarehouse.Application.Common.Exceptions.InputValidationException.Errors.get*MK
+I
+iveBMyWarehouse.Application.Common.Exceptions.InputValidationException”
+–
+	 (∫
+
+%4void"äMicrosoft.Extensions.Logging.LoggerExtensions.LogError(Microsoft.Extensions.Logging.ILogger, System.Exception?, string?, params object?[])*31"/
+-Microsoft.Extensions.Logging.LoggerExtensions*=;
+9
+%23Microsoft.Extensions.Logging.ILogger<TCategoryName>*MK
+I
+iveBMyWarehouse.Application.Common.Exceptions.InputValidationException*sqo
+mValidation error occurred in request '{RequestName}'
+	RequestPayload: {@RequestPayload}
+	Errors: {@Errors}.*
+
+requestNamestring*
+
+requestTRequest*><
+:
+%34System.Collections.Generic.IDictionary<TKey, TValue>*
+4*·
+2	 (åUS
+ (3
+%5string"%System.Reflection.MemberInfo.Name.get*
+""2Name.get;
+9
+ (3
+requestNamestring"__id*
+
+%5stringÒ
+Ó
+ (9
+%63Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*†ù*öX
+VMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>√
+¿
+	 (ç
+
+%7void"äMicrosoft.Extensions.Logging.LoggerExtensions.LogError(Microsoft.Extensions.Logging.ILogger, System.Exception?, string?, params object?[])*31"/
+-Microsoft.Extensions.Logging.LoggerExtensions*=;
+9
+%63Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+
+eSystem.Exception*WUS
+QException occurred in request '{RequestName}'
+	RequestPayload: {@RequestPayload}*
+
+requestNamestring*
+
+requestTRequest*
+4*.
+4" "("
+" "(
+implicit return:
+( (8
+requestTRequest:C
+: (]7
+cancellationToken"System.Threading.CancellationToken:>
+	_ (Ö1
+next)MediatR.RequestHandlerDelegate<TResponse>BZX
+VMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>

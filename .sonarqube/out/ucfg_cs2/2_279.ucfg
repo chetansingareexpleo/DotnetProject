@@ -1,0 +1,23 @@
+
+ºMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandHandler.CreateTransactionCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)z
+pC:\Users\csingare\Desktop\MyWarehouse\src\Application\Transactions\CreateTransaction\CreateTransactionCommand.cs (*"1*
+1$ ($*
+0*é
+0 (#™
+–
+ (#­X
+VMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*TR
+P
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"½
+ (#°*­X
+VMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork*.
+2$ ($"
+# ($
+implicit return:\
++ (AP
+
+unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkBZX
+VMyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommandHandler

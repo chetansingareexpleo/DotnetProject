@@ -1,0 +1,61 @@
+
+yMyWarehouse.WebApi.API.V1.AccountController.ExternalLogin(MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\AccountController.cs56 5(C"2*Å
+06 7(U“
+
+7 7((X
+%0RMyWarehouse.Infrastructure.Authentication.External.Services.IExternalSignInService"__id*£ *-
++MyWarehouse.WebApi.API.V1.AccountController"l
+_externalSignInServiceRMyWarehouse.Infrastructure.Authentication.External.Services.IExternalSignInService†
+ƒ
+78 7(F]
+%1WMyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider"KMyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto.Provider.get*KI
+G
+login>MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto´
+±
+7H 7(U
+%2string"JMyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto.IdToken.get*KI
+G
+login>MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDtoÂ¿
+7 7(V*
+%3$System.Threading.Tasks.Task<TResult>"ÂMyWarehouse.Infrastructure.Authentication.External.Services.IExternalSignInService.SignInExternal(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider, string)*\Z
+X
+%0RMyWarehouse.Infrastructure.Authentication.External.Services.IExternalSignInService*a_
+]
+%1WMyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider*
+
+%2string2oSignInExternal(MyWarehouse.Infrastructure.Authentication.External.Model.ExternalAuthenticationProvider, string)×
+Ô
+6 7(W3
+%4-Microsoft.AspNetCore.Mvc.ActionResult<TValue>"ÕMyWarehouse.WebApi.API.V1.AccountController.ProduceLoginResponse((MyWarehouse.Infrastructure.Authentication.Core.Model.MySignInResult result, MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData? data))*1/-
++MyWarehouse.WebApi.API.V1.AccountController*
+"""A
+6 7(W5
+3
+%4-Microsoft.AspNetCore.Mvc.ActionResult<TValue>*.
+17X 7(X"
+7W 7(X
+implicit return*Å
+25[ 5([‡
+„
+56 5(Cj
+G
+login>MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto"
+EqualityContractSystem.Type"__entrypointŠ
+‡
+56 5(Cm
+G
+login>MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto""
+<IdToken>k__BackingFieldstring"__entrypointx
+v
+56 5(C\
+G
+login>MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDto"
+IdTokenstring"__entrypoint 
+
+56 5(C
+%5"__entrypoint*
+0:S
+5D 5(ZG
+login>MyWarehouse.WebApi.Authentication.Models.Dtos.ExternalLoginDtoB/-
++MyWarehouse.WebApi.API.V1.AccountController

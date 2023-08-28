@@ -1,0 +1,4 @@
+È
+5MyWarehouse.WebApi.Swagger.Filters.SwaggerGroupFilterobject2Swashbuckle.AspNetCore.SwaggerGen.IOperationFilterè
+jApply(Microsoft.OpenApi.Models.OpenApiOperation, Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)†MyWarehouse.WebApi.Swagger.Filters.SwaggerGroupFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation, Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)b
+SwaggerGroupFilter()JMyWarehouse.WebApi.Swagger.Filters.SwaggerGroupFilter.SwaggerGroupFilter()

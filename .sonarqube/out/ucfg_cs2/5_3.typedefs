@@ -1,0 +1,16 @@
+‡
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWorkobjectBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkÖ
+€UnitOfWork(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository)§MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.UnitOfWork(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository, MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.ITransactionRepository)_
+	Dispose()RMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Dispose()g
+SaveChanges()VMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.SaveChanges(){
+BeginTransactionAsync()`MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.BeginTransactionAsync()}
+CommitTransactionAsync()aMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.CommitTransactionAsync()Å
+RollbackTransactionAsync()cMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.RollbackTransactionAsync()e
+Partners.getUMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Partners.gete
+Partners.setUMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Partners.sete
+Products.getUMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Products.gete
+Products.setUMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Products.setm
+Transactions.getYMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Transactions.getm
+Transactions.setYMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.Transactions.set}
+HasActiveTransaction.getaMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.HasActiveTransaction.get}
+HasActiveTransaction.setaMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.HasActiveTransaction.set

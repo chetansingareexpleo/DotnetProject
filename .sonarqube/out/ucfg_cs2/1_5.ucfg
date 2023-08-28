@@ -1,0 +1,23 @@
+
+ÔMyWarehouse.TestData.DataGenerator.GenerateTransaction(System.Collections.Generic.IReadOnlyList<MyWarehouse.Domain.Partners.Partner>, System.Collections.Generic.IReadOnlyList<MyWarehouse.Domain.Products.Product>)O
+EC:\Users\csingare\Desktop\MyWarehouse\src\SampleData\DataGenerator.cs (1"0*¦
+0 (DÕ
+Ò
+ (E1
+%0+MyWarehouse.Domain.Transactions.Transaction"áMyWarehouse.TestData.Samples.SampleTransactions.GenerateTransaction(System.Collections.Generic.IReadOnlyList<MyWarehouse.Domain.Partners.Partner>, System.Collections.Generic.IReadOnlyList<MyWarehouse.Domain.Products.Product>)*53"1
+/MyWarehouse.TestData.Samples.SampleTransactions*;9
+7
+partners+System.Collections.Generic.IReadOnlyList<T>*;9
+7
+products+System.Collections.Generic.IReadOnlyList<T>"?
+ (E3
+1
+%0+MyWarehouse.Domain.Transactions.Transaction*.
+1F (F"
+E (F
+implicit return:C
+2 (Q7
+partners+System.Collections.Generic.IReadOnlyList<T>:C
+S (r7
+products+System.Collections.Generic.IReadOnlyList<T>B&"$
+"MyWarehouse.TestData.DataGenerator

@@ -1,0 +1,27 @@
+
+ÖMyWarehouse.WebApi.Authentication.AuthenticationStartup.AddMyApiAuthDeps(Microsoft.Extensions.DependencyInjection.IServiceCollection)b
+XC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Authentication\AuthenticationStartup.cs
+ 
+('"0*ƒ
+0 (Eå
+â
+ ()A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"úMicrosoft.Extensions.DependencyInjection.HttpServiceCollectionExtensions.AddHttpContextAccessor(Microsoft.Extensions.DependencyInjection.IServiceCollection)*NL"J
+HMicrosoft.Extensions.DependencyInjection.HttpServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection†
+ù
+ (EA
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*.
+1 ("
+ (
+implicit return:S
+
+( 
+(HG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB;"9
+7MyWarehouse.WebApi.Authentication.AuthenticationStartup

@@ -1,0 +1,9 @@
+ù
+8MyWarehouse.Domain.Exceptions.InsufficientStockExceptionSystem.ExceptionobjectÐ
+IInsufficientStockException(MyWarehouse.Domain.Products.Product, int, int)‚MyWarehouse.Domain.Exceptions.InsufficientStockException.InsufficientStockException(MyWarehouse.Domain.Products.Product, int, int)[
+ProductName.getHMyWarehouse.Domain.Exceptions.InsufficientStockException.ProductName.get[
+ProductName.setHMyWarehouse.Domain.Exceptions.InsufficientStockException.ProductName.setg
+RequestedQuantity.getNMyWarehouse.Domain.Exceptions.InsufficientStockException.RequestedQuantity.getg
+RequestedQuantity.setNMyWarehouse.Domain.Exceptions.InsufficientStockException.RequestedQuantity.seta
+ActualQuantity.getKMyWarehouse.Domain.Exceptions.InsufficientStockException.ActualQuantity.geta
+ActualQuantity.setKMyWarehouse.Domain.Exceptions.InsufficientStockException.ActualQuantity.set

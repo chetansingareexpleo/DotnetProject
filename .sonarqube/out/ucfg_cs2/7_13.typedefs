@@ -1,0 +1,4 @@
+ý
+9MyWarehouse.WebApi.Swagger.Filters.SwaggerAuthorizeFilterobject2Swashbuckle.AspNetCore.SwaggerGen.IOperationFilter“
+jApply(Microsoft.OpenApi.Models.OpenApiOperation, Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)¤MyWarehouse.WebApi.Swagger.Filters.SwaggerAuthorizeFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation, Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)n
+SwaggerAuthorizeFilter()RMyWarehouse.WebApi.Swagger.Filters.SwaggerAuthorizeFilter.SwaggerAuthorizeFilter()

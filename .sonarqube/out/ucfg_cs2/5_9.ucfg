@@ -1,0 +1,21 @@
+
+lMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.BaseQuery.get‰
+C:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\PartnerRepositoryEF.cs
++ 
+(4"0*¡
+0 (§
+¤
+ (I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*ÆÃ*Àm
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>"O
+_contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextâ
+ß
+ (2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"PMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Partners.get*MK
+I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext*
+1*.
+1 ("
+ (
+implicit returnBb`
+^MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF

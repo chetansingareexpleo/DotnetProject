@@ -1,0 +1,68 @@
+
+ΩMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.GetFiltered(System.Linq.Expressions.Expression<System.Func<TEntity, bool>>, bool)å
+ÅC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\Common\RepositoryBase.cs#, #(7"0*
+0$ $(*
+1
+2*ã
+1$ $(5´®
+$ $(&
+%3System.Linq.IQueryable<T>"yMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.BaseQuery.get*qom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>2BaseQuery.getî
+ë
+$ $(5
+%4System.Linq.IQueryable<T>"wMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsNoTracking<TEntity>(System.Linq.IQueryable<TEntity>)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*#!
+
+%3System.Linq.IQueryable<T>X
+V
+$ $(5
+%1System.Linq.IQueryable<T>"__id*#!
+
+%4System.Linq.IQueryable<T>X
+V
+$ $(5
+%0System.Linq.IQueryable<T>"__id*#!
+
+%1System.Linq.IQueryable<T>*
+3*Ù
+2$8 $(A´®
+$8 $(A
+%5System.Linq.IQueryable<T>"yMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.BaseQuery.get*qom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>2BaseQuery.getX
+V
+$8 $(A
+%2System.Linq.IQueryable<T>"__id*#!
+
+%5System.Linq.IQueryable<T>X
+V
+$8 $(A
+%0System.Linq.IQueryable<T>"__id*#!
+
+%2System.Linq.IQueryable<T>*
+3*©
+3$ $(Oµ
+≤
+$ $(P
+%6System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*#!
+
+%0System.Linq.IQueryable<T>*;9
+7
+filter-System.Linq.Expressions.Expression<TDelegate>Õ
+ 
+$ $(^*
+%7$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*#!
+
+%6System.Linq.IQueryable<T>*
+"""
+$ $(^
+""*.
+4$_ $(_"
+$^ $(_
+implicit return:C
+#8 #(^7
+filter-System.Linq.Expressions.Expression<TDelegate>:
+#` #(u
+readOnlyboolBom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>

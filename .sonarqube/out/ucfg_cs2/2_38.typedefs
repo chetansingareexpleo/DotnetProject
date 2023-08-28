@@ -1,0 +1,14 @@
+¿
+IMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQueryobjectMediatR.IRequest<TResponse>System.IEquatable<T>b
+
+ToString()TMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.ToString()œ
+'PrintMembers(System.Text.StringBuilder)qMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.PrintMembers(System.Text.StringBuilder)h
+GetHashCode()WMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.GetHashCode()l
+Equals(object?)YMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.Equals(object?)ó
+REquals(MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery?)œMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.Equals(MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery?)b
+
+<Clone>$()TMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.<Clone>$()‘
+aProductStockValueQuery(MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery)«MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.ProductStockValueQuery(MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery)~
+ProductStockValueQuery()bMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.ProductStockValueQuery()v
+EqualityContract.get^MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.EqualityContract.getv
+EqualityContract.set^MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery.EqualityContract.set

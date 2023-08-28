@@ -1,0 +1,51 @@
+
+…MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext>, MyWarehouse.Application.Dependencies.Services.ICurrentUserService, MyWarehouse.Application.Dependencies.Services.IDateTime)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Persistence\Context\ApplicationDbContext.cs   ("1*
+1/ /(*
+0*’
+
+0	 Ö .(G≈
+¬
+
+ Ö  (î
+
+%0void"åMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>.IdentityDbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*PNL
+JMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>*GE
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>Ü
+É
+" "("öE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"Q
+_currentUserAMyWarehouse.Application.Dependencies.Services.ICurrentUserService"__id*TR
+P
+currentUserAMyWarehouse.Application.Dependencies.Services.ICurrentUserServiceÏ
+È
+# #(çE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"D
+	_dateTime7MyWarehouse.Application.Dependencies.Services.IDateTime"__id*GE
+C
+dateTime7MyWarehouse.Application.Dependencies.Services.IDateTimeÃ…
+. .(@
+%1:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker"9Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.get*-+)
+'Microsoft.EntityFrameworkCore.DbContext2ChangeTracker.get"
+ 
+., .(G
+%2"__id*
+""åâ
+. .(G@
+%3:Microsoft.EntityFrameworkCore.ChangeTracking.CascadeTiming"RMicrosoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.CascadeDeleteTiming.set*DB
+@
+%1:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker*
+
+%22CascadeDeleteTiming.set*
+2*.
+2/ /("
+/ /(
+implicit return:O
+    (NC
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:\
+ P  (oP
+currentUserAMyWarehouse.Application.Dependencies.Services.ICurrentUserService:P
+	 q  (ÉC
+dateTime7MyWarehouse.Application.Dependencies.Services.IDateTimeBGE
+CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext

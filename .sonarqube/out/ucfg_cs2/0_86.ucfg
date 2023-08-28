@@ -1,0 +1,22 @@
+
+zMyWarehouse.Domain.Common.ValueObjects.Money.Money.operator *(MyWarehouse.Domain.Common.ValueObjects.Money.Money, decimal)]
+SC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Money.cs< <( "0* 
+0= =(È
+Å
+= =(8
+%02MyWarehouse.Domain.Common.ValueObjects.Money.Money"zMyWarehouse.Domain.Common.ValueObjects.Money.Money.operator *(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Money)*86"4
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+""*?=
+;
+money2MyWarehouse.Domain.Common.ValueObjects.Money.Money"F
+= =(:
+8
+%02MyWarehouse.Domain.Common.ValueObjects.Money.Money*.
+1= =("
+= =(
+implicit return:G
+<# <(.;
+money2MyWarehouse.Domain.Common.ValueObjects.Money.Money:
+<0 <(>
+scalardecimalB6"4
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money

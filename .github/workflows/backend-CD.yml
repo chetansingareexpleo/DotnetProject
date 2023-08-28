@@ -1,0 +1,33 @@
+name: Backend CD
+
+  # This workflow publishes the backend API. It rebuilds the solution, because it's simpler
+  # than to deal with artifacts between workflows here on GitHub... But the assumption
+  # is that the given commit sha was already tested in the CI workflow.
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 6.0.x
+    - name: Restore dependencies
+      run: dotnet restore
+    - name: Publish Release version
+      working-directory: src/WebApi
+      run: dotnet publish -c Release -o backend-release
+    - name: Deploy to Azure
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: mywarehouseapi
+        publish-profile: ${{ secrets.AZURE_PUBLISHING_PROFILE }}
+        package: src/WebApi/backend-release

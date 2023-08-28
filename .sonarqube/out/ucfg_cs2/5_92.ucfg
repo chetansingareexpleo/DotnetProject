@@ -1,0 +1,55 @@
+
+cMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork.RollbackTransactionAsync()s
+iC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\UnitOfWork.csI I(."0*—
+0K K('ÿ
+ü
+K K(A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*¦£* J
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*
+1
+2*µ
+1M M(hVT
+M M(i&
+%1 System.InvalidOperationException" System.InvalidOperationExceptionÈ
+Å
+M M(/
+
+%2void"CSystem.InvalidOperationException.InvalidOperationException(string?)**(
+&
+%1 System.InvalidOperationException*<:8
+6A transaction must be in progress to execute rollback.*
+3*º
+2R R(5ÿ
+ü
+R R(%A
+%3;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*¦£* J
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction£ 
+R R(5!
+%4System.Threading.Tasks.Task"mMicrosoft.EntityFrameworkCore.Storage.IDbContextTransaction.RollbackAsync(System.Threading.CancellationToken)*EC
+A
+%3;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*
+""21RollbackAsync(System.Threading.CancellationToken)*
+4*‘
+4V W(&ÿ
+ü
+V V(%A
+%5;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*¦£* J
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction´±
+V V(4&
+%6 System.Threading.Tasks.ValueTask"&System.IAsyncDisposable.DisposeAsync()*EC
+A
+%5;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction2DisposeAsync()À
+½
+W W(& J
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*
+""*
+3
+3*.
+3Y Y("
+Y Y(
+implicit returnBLJ
+HMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.UnitOfWork

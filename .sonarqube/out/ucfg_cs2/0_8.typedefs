@@ -1,0 +1,19 @@
+²
+#MyWarehouse.Domain.Products.Product"MyWarehouse.Domain.Common.MyEntityobject:
+	Product()-MyWarehouse.Domain.Products.Product.Product()£
+}Product(string, string, MyWarehouse.Domain.Common.ValueObjects.Money.Money, MyWarehouse.Domain.Common.ValueObjects.Mass.Mass)¡MyWarehouse.Domain.Products.Product.Product(string, string, MyWarehouse.Domain.Common.ValueObjects.Money.Money, MyWarehouse.Domain.Common.ValueObjects.Mass.Mass)J
+UpdateMass(float)5MyWarehouse.Domain.Products.Product.UpdateMass(float)P
+UpdatePrice(decimal)8MyWarehouse.Domain.Products.Product.UpdatePrice(decimal)L
+UpdateName(string)6MyWarehouse.Domain.Products.Product.UpdateName(string)Z
+UpdateDescription(string)=MyWarehouse.Domain.Products.Product.UpdateDescription(string)¬
+BRecordTransaction(MyWarehouse.Domain.Transactions.TransactionLine)fMyWarehouse.Domain.Products.Product.RecordTransaction(MyWarehouse.Domain.Transactions.TransactionLine)8
+Name.get,MyWarehouse.Domain.Products.Product.Name.get8
+Name.set,MyWarehouse.Domain.Products.Product.Name.setF
+Description.get3MyWarehouse.Domain.Products.Product.Description.getF
+Description.set3MyWarehouse.Domain.Products.Product.Description.set:
+	Price.get-MyWarehouse.Domain.Products.Product.Price.get:
+	Price.set-MyWarehouse.Domain.Products.Product.Price.set8
+Mass.get,MyWarehouse.Domain.Products.Product.Mass.get8
+Mass.set,MyWarehouse.Domain.Products.Product.Mass.setJ
+NumberInStock.get5MyWarehouse.Domain.Products.Product.NumberInStock.getJ
+NumberInStock.set5MyWarehouse.Domain.Products.Product.NumberInStock.set

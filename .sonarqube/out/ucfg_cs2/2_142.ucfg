@@ -1,0 +1,49 @@
+
+MMyWarehouse.Application.Common.Exceptions.InputValidationException.ToString()m
+cC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Exceptions\InputValidationException.cs& &(#"0*Â
+0	( ((äD
+B
+( ((6
+%0"__concat*
+( ((/
+""*
+(2 ((6
+: ca
+	(X ((å,
+%1&System.Text.Json.JsonSerializerOptions"&System.Text.Json.JsonSerializerOptionsã
+à
+(\ ((q
+
+%2void">System.Text.Json.JsonSerializerOptions.JsonSerializerOptions()*0.
+,
+%1&System.Text.Json.JsonSerializerOptionsê
+ç
+	(v ((ä
+
+%3bool"8System.Text.Json.JsonSerializerOptions.WriteIndented.set*0.
+,
+%1&System.Text.Json.JsonSerializerOptions*
+""£
+†
+	(9 ((ç
+%4string"bSystem.Text.Json.JsonSerializer.Serialize<TValue>(TValue, System.Text.Json.JsonSerializerOptions?)*%#"!
+System.Text.Json.JsonSerializer*HFD
+BMyWarehouse.Application.Common.Exceptions.InputValidationException*0.
+,
+%1&System.Text.Json.JsonSerializerOptionsN
+L
+	( ((ç
+%5"__concat*
+( ((6
+
+%0*
+	(9 ((ç
+
+%4string"
+	( ((é
+
+%5*.
+1) )("
+) )(
+implicit returnBFD
+BMyWarehouse.Application.Common.Exceptions.InputValidationException

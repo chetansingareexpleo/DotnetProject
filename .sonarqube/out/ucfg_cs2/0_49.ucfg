@@ -1,0 +1,38 @@
+
+XMyWarehouse.Domain.Partners.Partner.Partner(string, MyWarehouse.Domain.Partners.Address)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Partners\Partner.cs ("1*÷
+1" "(z
+x
+ (3\%
+#MyWarehouse.Domain.Partners.Partner"3
+_transactions"System.Collections.Generic.List<T>"__id*
+""g
+e
+
+%0void"-MyWarehouse.Domain.Common.MyEntity.MyEntity()*(&$
+"MyWarehouse.Domain.Common.MyEntity*
+0*ø
+0  !(
+
+   (
+
+%1void"6MyWarehouse.Domain.Partners.Partner.UpdateName(string)*)'%
+#MyWarehouse.Domain.Partners.Partner*
+
+namestringĞ
+Í
+! !(
+
+%2void"VMyWarehouse.Domain.Partners.Partner.UpdateAddress(MyWarehouse.Domain.Partners.Address)*)'%
+#MyWarehouse.Domain.Partners.Partner*20
+.
+address#MyWarehouse.Domain.Partners.Address*
+2*.
+2" "("
+" "(
+implicit return:
+ (
+namestring::
+  (/.
+address#MyWarehouse.Domain.Partners.AddressB'%
+#MyWarehouse.Domain.Partners.Partner

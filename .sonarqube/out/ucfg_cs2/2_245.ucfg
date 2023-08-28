@@ -1,0 +1,141 @@
+
+ºMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandHandler.Handle(MyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand, System.Threading.CancellationToken)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\UpdateProduct\UpdateProductCommand.cs (""0*ß	
+0 (H‡
+„
+ ('H
+%3BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*§¤*¡L
+JMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork˜•
+ (0\
+%4VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository"OMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Products.get*LJ
+H
+%3BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Products.get¸
+µ
+> (H	
+%5int"JMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand.Id.get*RP
+N
+requestCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand°­
+ (I*
+%6$System.Threading.Tasks.Task<TResult>"qMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.GetByIdAsync(int)*`^
+\
+%4VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IProductRepository*
+	
+%5int2GetByIdAsync(int)G
+E
+ (I)
+%1#MyWarehouse.Domain.Products.Product"__id*
+""l
+j
+ (I)
+%0#MyWarehouse.Domain.Products.Product"__id*-+
+)
+%1#MyWarehouse.Domain.Products.Product*
+1
+2*Ö
+1 (L¸
+µ
+B (L	
+%7int"JMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand.Id.get*RP
+N
+requestCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand™–
+ (MG
+%8AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException"AMyWarehouse.Application.Common.Exceptions.EntityNotFoundExceptionê
+ç
+ (0
+
+%9void"iMyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException(string, object)*KI
+G
+%8AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException*
+""*
+	
+%7int*
+3*î
+2 %(q
+o
+ (M.
+product#MyWarehouse.Domain.Products.Product"__id*-+
+)
+%0#MyWarehouse.Domain.Products.Product¾
+»
+ ('
+%10string"LMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand.Name.get*RP
+N
+requestCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand=
+;
+ (.
+%11string"string.Trim()*
+
+%10string™
+–
+ (/
+%12void"6MyWarehouse.Domain.Products.Product.UpdateName(string)*20
+.
+product#MyWarehouse.Domain.Products.Product*
+
+%11stringÅ
+Â
+" (5
+%13string"SMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand.Description.get*RP
+N
+requestCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand=
+;
+" (<
+%14string"string.Trim()*
+
+%13string 
+
+ (=
+%15void"=MyWarehouse.Domain.Products.Product.UpdateDescription(string)*20
+.
+product#MyWarehouse.Domain.Products.Product*
+
+%14stringÂ
+¿
+   (,
+%16float"QMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand.MassValue.get*RP
+N
+requestCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand—
+”
+   (-
+%17void"5MyWarehouse.Domain.Products.Product.UpdateMass(float)*20
+.
+product#MyWarehouse.Domain.Products.Product*
+
+%16floatÆ
+Ã
+! !(/
+%18decimal"SMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand.PriceAmount.get*RP
+N
+requestCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandœ
+™
+! !(0
+%19void"8MyWarehouse.Domain.Products.Product.UpdatePrice(decimal)*20
+.
+product#MyWarehouse.Domain.Products.Product*
+
+%18decimalˆ
+…
+# #(I
+%20BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*§¤*¡L
+JMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWorkáÞ
+# #('"
+%21System.Threading.Tasks.Task"PMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.SaveChanges()*MK
+I
+%20BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2SaveChanges()M
+K
+% %(
+%22MediatR.Unit"MediatR.Unit.Value.get*"
+MediatR.Unit"!
+% %(
+
+%22MediatR.Unit*.
+3& &("
+& &(
+implicit return:Z
+# (?N
+requestCMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand:C
+A (d7
+cancellationToken"System.Threading.CancellationTokenBNL
+JMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandHandler

@@ -1,0 +1,4 @@
+º
+HMyWarehouse.Application.Products.GetProducts.GetProductsListQueryHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>Œ
+_GetProductsListQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)¨MyWarehouse.Application.Products.GetProducts.GetProductsListQueryHandler.GetProductsListQueryHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)¨
+mHandle(MyWarehouse.Application.Products.GetProducts.GetProductsListQuery, System.Threading.CancellationToken)¶MyWarehouse.Application.Products.GetProducts.GetProductsListQueryHandler.Handle(MyWarehouse.Application.Products.GetProducts.GetProductsListQuery, System.Threading.CancellationToken)

@@ -1,0 +1,89 @@
+
+iMyWarehouse.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)E
+;C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Startup.cs (!"0*Æ
+0 (/é
+ã
+ (
+
+%0void"rMyWarehouse.WebApi.Authentication.ApiStartup.AddMyApi(Microsoft.Extensions.DependencyInjection.IServiceCollection)*20".
+,MyWarehouse.WebApi.Authentication.ApiStartup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection≠
+™
+ (#
+
+%1void"ÖMyWarehouse.WebApi.Authentication.AuthenticationStartup.AddMyApiAuthDeps(Microsoft.Extensions.DependencyInjection.IServiceCollection)*=;"9
+7MyWarehouse.WebApi.Authentication.AuthenticationStartup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection´
+®
+ (%
+
+%2void"ÖMyWarehouse.WebApi.ErrorHandling.ErrorHandlingStartup.AddMyErrorHandling(Microsoft.Extensions.DependencyInjection.IServiceCollection)*;9"7
+5MyWarehouse.WebApi.ErrorHandling.ErrorHandlingStartup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionñ
+ì
+ (+7
+%31Microsoft.Extensions.Configuration.IConfiguration",MyWarehouse.WebApi.Startup.Configuration.get* 
+MyWarehouse.WebApi.Startup˝
+˙
+ (,
+
+%4void"¶MyWarehouse.WebApi.Swagger.SwaggerStartup.AddMySwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)*/-"+
+)MyWarehouse.WebApi.Swagger.SwaggerStartup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*;9
+7
+%31Microsoft.Extensions.Configuration.IConfigurationõ
+ò
+ ("
+
+%5void"|MyWarehouse.WebApi.Versioning.VersioningStartup.AddMyVersioning(Microsoft.Extensions.DependencyInjection.IServiceCollection)*53"1
+/MyWarehouse.WebApi.Versioning.VersioningStartup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionñ
+ì
+( (57
+%61Microsoft.Extensions.Configuration.IConfiguration",MyWarehouse.WebApi.Startup.Configuration.get* 
+MyWarehouse.WebApi.Startup˚
+¯
+ (6
+
+%7void"™MyWarehouse.WebApi.CORS.CorsStartup.AddMyCorsConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)*)'"%
+#MyWarehouse.WebApi.CORS.CorsStartup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*;9
+7
+%61Microsoft.Extensions.Configuration.IConfigurationñ
+ì
+1 (>7
+%81Microsoft.Extensions.Configuration.IConfiguration",MyWarehouse.WebApi.Startup.Configuration.get* 
+MyWarehouse.WebApi.Startupì
+ê
+@ (K6
+%90Microsoft.AspNetCore.Hosting.IWebHostEnvironment"*MyWarehouse.WebApi.Startup.Environment.get* 
+MyWarehouse.WebApi.Startupä
+á
+ (L
+%10void"ÔMyWarehouse.Infrastructure.InfrastructureStartup.AddMyInfrastructureDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.Hosting.IHostEnvironment)*64"2
+0MyWarehouse.Infrastructure.InfrastructureStartup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*;9
+7
+%81Microsoft.Extensions.Configuration.IConfiguration*:8
+6
+%90Microsoft.AspNetCore.Hosting.IWebHostEnvironment†
+ù
+ (/
+%11void"ÑMyWarehouse.Application.ApplicationStartup.AddMyApplicationDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection)*0.",
+*MyWarehouse.Application.ApplicationStartup*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*.
+1 ("
+ (
+implicit return:S
+" (=G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+MyWarehouse.WebApi.Startup

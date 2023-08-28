@@ -1,0 +1,75 @@
+
+¥MyWarehouse.Domain.Common.ValueObjects.Money.Money.operator *(MyWarehouse.Domain.Common.ValueObjects.Money.Money, MyWarehouse.Domain.Common.ValueObjects.Money.Money)]
+SC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Money.cs+ +( "0*ÿ
+0- -(1Ë
+È
+- -(!;
+%05MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*><
+:
+left2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÌ
+É
+-# -(1;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*?=
+;
+right2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÊ
+Ç
+- -(2
+
+%2bool"object.Equals(object?, object?)*
+"
+object*?=
+;
+%05MyWarehouse.Domain.Common.ValueObjects.Money.Currency*?=
+;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+1
+2*Í
+1. .(WU
+	. .(€&
+%3 System.InvalidOperationException" System.InvalidOperationExceptionß
+Ü
+. .(/
+
+%4void"CSystem.InvalidOperationException.InvalidOperationException(string?)**(
+&
+%3 System.InvalidOperationException*SQO
+MMultiplication of two money instances require both to have the same currency.*
+3*û
+20 0(B›
+˜
+0 0($
+%5decimal"=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.get*><
+:
+left2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyœ
+™
+0' 0(3
+%6decimal"=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.get*?=
+;
+right2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyË
+È
+05 0(B;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*><
+:
+left2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyzx
+0 0(C8
+%82MyWarehouse.Domain.Common.ValueObjects.Money.Money"2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyœ
+™
+0 0(
+
+%9void"xMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)*<:
+8
+%82MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+""*?=
+;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency"F
+0 0(D:
+8
+%82MyWarehouse.Domain.Common.ValueObjects.Money.Money*.
+31 1("
+1 1(
+implicit return:F
++# +(-:
+left2MyWarehouse.Domain.Common.ValueObjects.Money.Money:G
++/ +(:;
+right2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyB6"4
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money

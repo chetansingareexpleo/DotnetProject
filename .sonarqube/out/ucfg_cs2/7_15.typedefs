@@ -1,0 +1,4 @@
+“
+MMyWarehouse.WebApi.Versioning.SwaggerConfiguration.ConfigureSwaggerGenOptionsobject<Microsoft.Extensions.Options.IPostConfigureOptions<TOptions>‘
+_ConfigureSwaggerGenOptions(Microsoft.AspNetCore.Mvc.ApiExplorer.IApiVersionDescriptionProvider)­MyWarehouse.WebApi.Versioning.SwaggerConfiguration.ConfigureSwaggerGenOptions.ConfigureSwaggerGenOptions(Microsoft.AspNetCore.Mvc.ApiExplorer.IApiVersionDescriptionProvider)ç
+JPostConfigure(string, Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions)˜MyWarehouse.WebApi.Versioning.SwaggerConfiguration.ConfigureSwaggerGenOptions.PostConfigure(string, Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions)

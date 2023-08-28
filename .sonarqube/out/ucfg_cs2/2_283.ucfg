@@ -1,0 +1,66 @@
+
+ÆMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQueryHandler.Handle(MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery, System.Threading.CancellationToken)t
+jC:\Users\csingare\Desktop\MyWarehouse\src\Application\Products\ProductStockValue\ProductStockValueQuery.cs% (+"0*ƒ
+0 (8š
+—
+$ (6K
+%0EMyWarehouse.Application.Dependencies.Services.IStockStatisticsService"__id*·´*±R
+PMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQueryHandler"[
+_statisticsServiceEMyWarehouse.Application.Dependencies.Services.IStockStatisticsServiceŠ‡
+$ (R*
+%1$System.Threading.Tasks.Task<TResult>"aMyWarehouse.Application.Dependencies.Services.IStockStatisticsService.GetProductStockTotalValue()*OM
+K
+%0EMyWarehouse.Application.Dependencies.Services.IStockStatisticsService2GetProductStockTotalValue()c
+a
+ (RE
+totalStockValue2MyWarehouse.Domain.Common.ValueObjects.Money.Money"__id*
+""—”
+ (	F
+%2@MyWarehouse.Application.Products.ProductStockValue.StockValueDto"@MyWarehouse.Application.Products.ProductStockValue.StockValueDto·
+´
+ ( 
+
+%3void"PMyWarehouse.Application.Products.ProductStockValue.StockValueDto.StockValueDto()*JH
+F
+%2@MyWarehouse.Application.Products.ProductStockValue.StockValueDto¦
+£
+ (+
+%4decimal"=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.get*IG
+E
+totalStockValue2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÉ
+Æ
+ (+
+%5decimal"LMyWarehouse.Application.Products.ProductStockValue.StockValueDto.Amount.init*JH
+F
+%2@MyWarehouse.Application.Products.ProductStockValue.StockValueDto*
+
+%4decimalÖ
+Ó
+ (3;
+%65MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*IG
+E
+totalStockValue2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyœ
+™
+ (8
+%7string">MyWarehouse.Domain.Common.ValueObjects.Money.Currency.Code.get*?=
+;
+%65MyWarehouse.Domain.Common.ValueObjects.Money.CurrencyÍ
+Ê
+ (8
+%8string"RMyWarehouse.Application.Products.ProductStockValue.StockValueDto.CurrencyCode.init*JH
+F
+%2@MyWarehouse.Application.Products.ProductStockValue.StockValueDto*
+
+%7string"T
+ (
+H
+F
+%2@MyWarehouse.Application.Products.ProductStockValue.StockValueDto*.
+1 ("
+ (
+implicit return:`
+, (JT
+requestIMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery:C
+L (o7
+cancellationToken"System.Threading.CancellationTokenBTR
+PMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQueryHandler

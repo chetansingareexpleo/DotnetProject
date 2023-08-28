@@ -1,0 +1,17 @@
+
+lMyWarehouse.WebApi.CORS.CorsStartup.UseMyCorsConfiguration(Microsoft.AspNetCore.Builder.IApplicationBuilder)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\CORS\CorsStartup.cs! !(-"0*Å
+0# #(°
+­
+# #(6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder"oMicrosoft.AspNetCore.Builder.CorsMiddlewareExtensions.UseCors(Microsoft.AspNetCore.Builder.IApplicationBuilder)*;9"7
+5Microsoft.AspNetCore.Builder.CorsMiddlewareExtensions*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+1*.
+1$ $("
+$ $(
+implicit return:C
+!. !(J7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderB'"%
+#MyWarehouse.WebApi.CORS.CorsStartup

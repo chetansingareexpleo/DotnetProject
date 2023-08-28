@@ -1,0 +1,73 @@
+
+¨MyWarehouse.Application.Common.Exceptions.InputValidationException.SaveGroupedErrors(System.Collections.Generic.IEnumerable<(string PropertyName, string ErrorMessage)>)m
+cC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Exceptions\InputValidationException.cs (""0*Ö
+0 (2Ò
+Ï
+ (>/
+%0)System.Collections.Generic.IEnumerable<T>"¤System.Linq.Enumerable.GroupBy<TSource, TKey, TElement>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>, System.Func<TSource, TElement>)*"
+System.Linq.Enumerable*97
+5
+failures)System.Collections.Generic.IEnumerable<T>*
+""*
+""„
+
+ (>:
+failureGroups)System.Collections.Generic.IEnumerable<T>"__id*31
+/
+%0)System.Collections.Generic.IEnumerable<T>¡
+ž
+ (!
+%1	__unknown"7System.Collections.Generic.ICollection<T>.this[int].get*><
+:
+failureGroups)System.Collections.Generic.IEnumerable<T>*
+""B
+@
+ #(	
+failureGroup	__unknown"__id*
+
+%1	__unknown*
+1*
+1$ $(*
+2
+3*É
+2 "(5Ž‹
+ (/
+%2string"-System.Linq.IGrouping<TKey, TElement>.Key.get*97
+5
+failureGroup%System.Linq.IGrouping<TKey, TElement>2Key.get<
+:
+ (/
+propertyNamestring"__id*
+
+%2stringÐ
+Í
+ #  (9
+%3string[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*97
+5
+failureGroup%System.Linq.IGrouping<TKey, TElement>D
+B
+   (9
+propertyFailuresstring[]"__id*
+
+%3string[]â
+ß
+" "(:
+%44System.Collections.Generic.IDictionary<TKey, TValue>"MMyWarehouse.Application.Common.Exceptions.InputValidationException.Errors.get*HFD
+BMyWarehouse.Application.Common.Exceptions.InputValidationExceptionçä
+" "(6
+
+%5void";System.Collections.Generic.ICollection<T>.Add(TKey, TValue)*><
+:
+%44System.Collections.Generic.IDictionary<TKey, TValue>*
+
+propertyNamestring* 
+
+propertyFailuresstring[]2Add(TKey, TValue)*
+1*.
+3$ $("
+$ $(
+implicit return:A
+# (c5
+failures)System.Collections.Generic.IEnumerable<T>BFD
+BMyWarehouse.Application.Common.Exceptions.InputValidationException

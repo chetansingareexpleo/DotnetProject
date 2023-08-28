@@ -1,0 +1,6 @@
+ 
+AMyWarehouse.Application.Common.Exceptions.EntityNotFoundExceptionSystem.Exceptionobjectx
+EntityNotFoundException()[MyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException()„
+EntityNotFoundException(string)aMyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException(string)¨
+1EntityNotFoundException(string, System.Exception)sMyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException(string, System.Exception)”
+'EntityNotFoundException(string, object)iMyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException(string, object)

@@ -1,0 +1,59 @@
+
+’MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.HandleNotFoundException(MyWarehouse.Application.Common.Exceptions.EntityNotFoundException)j
+`C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\ErrorHandling\Filters\ExceptionMappingFilter.cs@! @(8"0*§
+0B I(/db
+B G(	-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails"'Microsoft.AspNetCore.Mvc.ProblemDetails†
+ƒ
+B B((
+
+%1void"8Microsoft.AspNetCore.Mvc.ProblemDetails.ProblemDetails()*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails¹
+¶
+D D(F
+%2string"0Microsoft.AspNetCore.Mvc.ProblemDetails.Type.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*753
+1https://tools.ietf.org/html/rfc7231#section-6.5.4®
+«
+E E(;
+%3string"1Microsoft.AspNetCore.Mvc.ProblemDetails.Title.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*+)'
+%The specified resource was not found.š—
+F F(&
+%4string"System.Exception.Message.get*RP
+N
+	exceptionAMyWarehouse.Application.Common.Exceptions.EntityNotFoundException2Message.get”
+‘
+F F(&
+%5string"2Microsoft.AspNetCore.Mvc.ProblemDetails.Detail.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*
+
+%4stringy
+w
+B G(	2
+details'Microsoft.AspNetCore.Mvc.ProblemDetails"__id*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetailspn
+I I(03
+%6-Microsoft.AspNetCore.Mvc.NotFoundObjectResult"-Microsoft.AspNetCore.Mvc.NotFoundObjectResult×
+Ô
+I I('
+
+%7void"KMicrosoft.AspNetCore.Mvc.NotFoundObjectResult.NotFoundObjectResult(object?)*75
+3
+%6-Microsoft.AspNetCore.Mvc.NotFoundObjectResult*64
+2
+details'Microsoft.AspNetCore.Mvc.ProblemDetails"A
+I I(15
+3
+%6-Microsoft.AspNetCore.Mvc.NotFoundObjectResult*.
+1J J("
+J J(
+implicit return:Z
+@9 @(ZN
+	exceptionAMyWarehouse.Application.Common.Exceptions.EntityNotFoundExceptionB;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter

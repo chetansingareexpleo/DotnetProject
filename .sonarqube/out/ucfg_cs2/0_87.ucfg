@@ -1,0 +1,68 @@
+
+5MyWarehouse.Domain.Products.Product.UpdateMass(float)N
+DC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Products\Product.cs3 3("0*½
+05 6(#„
+
+5 5(
+
+%0void"4MyWarehouse.Domain.Products.Product.CheckMass(float)*)'"%
+#MyWarehouse.Domain.Products.Product*
+""ž
+›
+6 6(#6
+%10MyWarehouse.Domain.Common.ValueObjects.Mass.Mass",MyWarehouse.Domain.Products.Product.Mass.get*)'%
+#MyWarehouse.Domain.Products.Product*
+1
+2*Õ
+26$ 6()À
+½
+6% 6():
+%24MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"9MyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Unit.get*:8
+6
+%10MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*
+1*
+17 7(*
+3
+4*ˆ
+36- 6(NÏ
+Ì
+6- 6(N:
+%64MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*~|*z/
+-MyWarehouse.Domain.Products.ProductInvariants"G
+DefaultMassUnit4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+6- 6(N:
+%54MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%64MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit
+Œ
+6- 6(N:
+%34MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit"__id*><
+:
+%54MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*
+4*ý
+46 6(Ovt
+6 6(O6
+%70MyWarehouse.Domain.Common.ValueObjects.Mass.Mass"0MyWarehouse.Domain.Common.ValueObjects.Mass.Mass“
+
+6 6(
+
+%8void"rMyWarehouse.Domain.Common.ValueObjects.Mass.Mass.Mass(float, MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit)*:8
+6
+%70MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*
+""*><
+:
+%34MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnitÚ
+×
+6 6(O6
+%90MyWarehouse.Domain.Common.ValueObjects.Mass.Mass",MyWarehouse.Domain.Products.Product.Mass.set*)'%
+#MyWarehouse.Domain.Products.Product*:8
+6
+%70MyWarehouse.Domain.Common.ValueObjects.Mass.Mass*
+5*.
+57 7("
+7 7(
+implicit return:
+3 3(&
+valuefloatB'%
+#MyWarehouse.Domain.Products.Product

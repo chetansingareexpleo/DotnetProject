@@ -1,0 +1,49 @@
+
+wMyWarehouse.WebApi.API.V1.PartnerController.Create(MyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\PartnerController.cs) (/"2*Ú
+0 (*Ä
+~
+ (
+%0MediatR.IMediator"__id*SQ*O-
++MyWarehouse.WebApi.API.V1.PartnerController"
+	_mediatorMediatR.IMediatorËÂ
+ (+*
+%1$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*RP
+N
+commandCMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)∑¥
+ (,-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2Ok(object?)";
+ (,/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*.
+1- (-"
+, (-
+implicit return*è
+2M (Mé
+ã
+) (/q
+N
+commandCMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand"
+EqualityContractSystem.Type"__entrypoint|
+z
+) (/`
+N
+commandCMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand"
+Namestring"__entrypoint…
+∆
+) (/´
+N
+commandCMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand"Y
+AddressNMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand.AddressDto"__entrypoint 
+
+) (/
+%3"__entrypoint*
+0:Z
+0 (LN
+commandCMyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommandB/-
++MyWarehouse.WebApi.API.V1.PartnerController

@@ -1,0 +1,22 @@
+
+¼MyWarehouse.Infrastructure.InfrastructureStartup.AddMyInfrastructureConfiguration(Microsoft.Extensions.Configuration.IConfigurationBuilder, Microsoft.Extensions.Hosting.HostBuilderContext)[
+QC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\InfrastructureStartup.cs (7"0*­
+0 (N˜
+•
+ (O
+
+%0void"µMyWarehouse.Infrastructure.AzureKeyVault.Startup.ConfigureAppConfiguration(Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder)*64"2
+0MyWarehouse.Infrastructure.AzureKeyVault.Startup*><
+:
+context/Microsoft.Extensions.Hosting.HostBuilderContext*MK
+I
+configBuilder8Microsoft.Extensions.Configuration.IConfigurationBuilder*
+1*.
+1 ("
+ (
+implicit return:U
+8 (`I
+configBuilder8Microsoft.Extensions.Configuration.IConfigurationBuilder:F
+b (|:
+context/Microsoft.Extensions.Hosting.HostBuilderContextB4"2
+0MyWarehouse.Infrastructure.InfrastructureStartup

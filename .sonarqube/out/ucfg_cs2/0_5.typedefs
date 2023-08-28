@@ -1,0 +1,25 @@
+‘
+#MyWarehouse.Domain.Partners.AddressobjectSystem.IEquatable<T>:
+	Address()-MyWarehouse.Domain.Partners.Address.Address()v
+'Address(string, string, string, string)KMyWarehouse.Domain.Partners.Address.Address(string, string, string, string)<
+
+ToString().MyWarehouse.Domain.Partners.Address.ToString()v
+'PrintMembers(System.Text.StringBuilder)KMyWarehouse.Domain.Partners.Address.PrintMembers(System.Text.StringBuilder)B
+GetHashCode()1MyWarehouse.Domain.Partners.Address.GetHashCode()F
+Equals(object?)3MyWarehouse.Domain.Partners.Address.Equals(object?)€
+,Equals(MyWarehouse.Domain.Partners.Address?)PMyWarehouse.Domain.Partners.Address.Equals(MyWarehouse.Domain.Partners.Address?)<
+
+<Clone>$().MyWarehouse.Domain.Partners.Address.<Clone>$()€
+,Address(MyWarehouse.Domain.Partners.Address)PMyWarehouse.Domain.Partners.Address.Address(MyWarehouse.Domain.Partners.Address)P
+EqualityContract.get8MyWarehouse.Domain.Partners.Address.EqualityContract.getP
+EqualityContract.set8MyWarehouse.Domain.Partners.Address.EqualityContract.set<
+
+Street.get.MyWarehouse.Domain.Partners.Address.Street.get<
+
+Street.set.MyWarehouse.Domain.Partners.Address.Street.set8
+City.get,MyWarehouse.Domain.Partners.Address.City.get8
+City.set,MyWarehouse.Domain.Partners.Address.City.set>
+Country.get/MyWarehouse.Domain.Partners.Address.Country.get>
+Country.set/MyWarehouse.Domain.Partners.Address.Country.set>
+ZipCode.get/MyWarehouse.Domain.Partners.Address.ZipCode.get>
+ZipCode.set/MyWarehouse.Domain.Partners.Address.ZipCode.set

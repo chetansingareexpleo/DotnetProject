@@ -1,0 +1,17 @@
+Å
+>MyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDtoobjectg
+LoginResponseDto()QMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.LoginResponseDto()a
+AccessToken.getNMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.AccessToken.geta
+AccessToken.setNMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.AccessToken.set]
+TokenType.getLMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.TokenType.get]
+TokenType.setLMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.TokenType.set]
+ExpiresIn.getLMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.ExpiresIn.get]
+ExpiresIn.setLMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.ExpiresIn.set[
+Username.getKMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.Username.get[
+Username.setKMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.Username.setU
+	Email.getHMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.Email.getU
+	Email.setHMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.Email.set‡
+"ExternalAuthenticationProvider.getaMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.ExternalAuthenticationProvider.get‡
+"ExternalAuthenticationProvider.setaMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.ExternalAuthenticationProvider.seti
+IsExternalLogin.getRMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.IsExternalLogin.geti
+IsExternalLogin.setRMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.IsExternalLogin.set

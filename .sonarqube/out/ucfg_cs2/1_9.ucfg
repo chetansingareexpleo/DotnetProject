@@ -1,0 +1,104 @@
+
+GMyWarehouse.TestData.Samples.SampleProducts.GenerateSampleProducts(int)X
+NC:\Users\csingare\Desktop\MyWarehouse\src\SampleData\Samples\SampleProducts.cs" (8"0*¢
+0 ("Š
+‡
+ ("	
+%0int"=MyWarehouse.TestData.Samples.SampleProducts.MaximumNumber.get*1/"-
++MyWarehouse.TestData.Samples.SampleProducts*
+1
+2*º
+1 (tŠ
+‡
+3 (@	
+%1int"=MyWarehouse.TestData.Samples.SampleProducts.MaximumNumber.get*1/"-
++MyWarehouse.TestData.Samples.SampleProductsT
+R
+( (d	
+%2int"__concat*
+* (2
+
+Maximum *
+2 (A
+	
+%1intd
+b
+( (d	
+%3int"__concat*
+	
+%2int*2
+A (c&$
+" unique products can be generated.FD
+ (u
+%4System.ArgumentException"System.ArgumentException”
+‘
+ ('
+
+%5void"<System.ArgumentException.ArgumentException(string?, string?)*" 
+
+%4System.ArgumentException*
+	
+%3int*
+""*
+3*ú
+2 (4`^
+ (5+
+%6%System.Collections.Generic.HashSet<T>"%System.Collections.Generic.HashSet<T>ˆ
+…
+ (-
+
+%7void"2System.Collections.Generic.HashSet<T>.HashSet(int)*/-
++
+%6%System.Collections.Generic.HashSet<T>*
+""y
+w
+ (54
+uniqueNames%System.Collections.Generic.HashSet<T>"__id*/-
++
+%6%System.Collections.Generic.HashSet<T>*
+4*Ÿ
+4 ()‡
+„
+ ( 	
+%8int"3System.Collections.Generic.ICollection<T>.Count.get*86
+4
+uniqueNames%System.Collections.Generic.HashSet<T>*
+5
+6*‡
+5   (%X
+V
+   (%
+%9string"	GetName()*1/-
++MyWarehouse.TestData.Samples.SampleProducts˜
+•
+   (&
+%10bool"0System.Collections.Generic.ICollection<T>.Add(T)*86
+4
+uniqueNames%System.Collections.Generic.HashSet<T>*
+
+%9string*
+4*Ó
+6# ((	¢
+Ÿ
+# ((
+0
+%11)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*86
+4
+uniqueNames%System.Collections.Generic.HashSet<T>*
+""å
+â
+# (()
+%12"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*42
+0
+%11)System.Collections.Generic.IEnumerable<T>"7
+# ((+
+)
+%12"System.Collections.Generic.List<T>*.
+32 2("
+2 2(
+implicit return:
+9 (C
+numberintB/"-
++MyWarehouse.TestData.Samples.SampleProducts

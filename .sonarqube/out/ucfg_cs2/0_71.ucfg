@@ -1,0 +1,104 @@
+
+¥MyWarehouse.Domain.Common.ValueObjects.Money.Money.operator +(MyWarehouse.Domain.Common.ValueObjects.Money.Money, MyWarehouse.Domain.Common.ValueObjects.Money.Money)]
+SC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Money.cs ( "0*ÿ
+0 (1Ë
+È
+ (!;
+%05MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*><
+:
+left2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÌ
+É
+# (1;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*?=
+;
+right2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÊ
+Ç
+ (2
+
+%2bool"object.Equals(object?, object?)*
+"
+object*?=
+;
+%05MyWarehouse.Domain.Common.ValueObjects.Money.Currency*?=
+;
+%15MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+1
+2*™
+1	 (™Ë
+È
+l (y;
+%35MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*><
+:
+left2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÎ
+Ë
+
+‹ (™;
+%45MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*?=
+;
+right2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyë
+è
+	0 (;
+%55MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__concat*I
+2 (k=;
+9Mixing currencies is not supported. Cannot add money of '*I
+k (z=
+;
+%35MyWarehouse.Domain.Common.ValueObjects.Money.Currency¹
+¶
+	0 (;
+%65MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__concat*?=
+;
+%55MyWarehouse.Domain.Common.ValueObjects.Money.Currency*!
+	z (Š
+' and money of 'ã
+à
+	0 (;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__concat*?=
+;
+%65MyWarehouse.Domain.Common.ValueObjects.Money.Currency*K
+
+Š (š=
+;
+%45MyWarehouse.Domain.Common.ValueObjects.Money.Currency¬
+©
+	0 (;
+%85MyWarehouse.Domain.Common.ValueObjects.Money.Currency"__concat*?=
+;
+%75MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+
+š (œ
+'.WU
+	 (ž&
+%9 System.InvalidOperationException" System.InvalidOperationExceptionÌ
+É
+ (/
+%10void"CSystem.InvalidOperationException.InvalidOperationException(string?)**(
+&
+%9 System.InvalidOperationException*?=
+;
+%85MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+3*Ü
+2   (*
+š
+   (*
+%11decimal"=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.get*?=
+;
+right2MyWarehouse.Domain.Common.ValueObjects.Money.Moneyã
+à
+   (+9
+%122MyWarehouse.Domain.Common.ValueObjects.Money.Money"EMyWarehouse.Domain.Common.ValueObjects.Money.Money.AddAmount(decimal)*><
+:
+left2MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+
+%11decimal"G
+   (,;
+9
+%122MyWarehouse.Domain.Common.ValueObjects.Money.Money*.
+3! !("
+! !(
+implicit return:F
+# (-:
+left2MyWarehouse.Domain.Common.ValueObjects.Money.Money:G
+/ (:;
+right2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyB6"4
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money

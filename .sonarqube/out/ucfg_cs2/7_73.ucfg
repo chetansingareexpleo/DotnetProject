@@ -1,0 +1,49 @@
+
+ïMyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.HandleValidationException(MyWarehouse.Application.Common.Exceptions.InputValidationException)j
+`C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\ErrorHandling\Filters\ExceptionMappingFilter.cs6! 6(:"0*ì
+08 =(1Ì
+Í
+83 8(C:
+%04System.Collections.Generic.IDictionary<TKey, TValue>"MMyWarehouse.Application.Common.Exceptions.InputValidationException.Errors.get*SQ
+O
+	exceptionBMyWarehouse.Application.Common.Exceptions.InputValidationExceptionxv
+8 ;(	7
+%11Microsoft.AspNetCore.Mvc.ValidationProblemDetails"1Microsoft.AspNetCore.Mvc.ValidationProblemDetailsù
+ö
+8 8(2
+
+%2void"ÑMicrosoft.AspNetCore.Mvc.ValidationProblemDetails.ValidationProblemDetails(System.Collections.Generic.IDictionary<string, string[]>)*;9
+7
+%11Microsoft.AspNetCore.Mvc.ValidationProblemDetails*><
+:
+%04System.Collections.Generic.IDictionary<TKey, TValue>√
+¿
+: :(F
+%3string"0Microsoft.AspNetCore.Mvc.ProblemDetails.Type.set*;9
+7
+%11Microsoft.AspNetCore.Mvc.ValidationProblemDetails*753
+1https://tools.ietf.org/html/rfc7231#section-6.5.1é
+ã
+8 ;(	<
+details1Microsoft.AspNetCore.Mvc.ValidationProblemDetails"__id*;9
+7
+%11Microsoft.AspNetCore.Mvc.ValidationProblemDetailstr
+= =(25
+%4/Microsoft.AspNetCore.Mvc.BadRequestObjectResult"/Microsoft.AspNetCore.Mvc.BadRequestObjectResultÁ
+‰
+= =()
+
+%5void"OMicrosoft.AspNetCore.Mvc.BadRequestObjectResult.BadRequestObjectResult(object?)*97
+5
+%4/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*@>
+<
+details1Microsoft.AspNetCore.Mvc.ValidationProblemDetails"C
+= =(37
+5
+%4/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*.
+1> >("
+> >(
+implicit return:[
+6; 6(]O
+	exceptionBMyWarehouse.Application.Common.Exceptions.InputValidationExceptionB;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter

@@ -1,0 +1,6 @@
+ÿ
+/MyWarehouse.WebApi.API.V1.TransactionController'Microsoft.AspNetCore.Mvc.ControllerBaseobject„
+(TransactionController(MediatR.IMediator)XMyWarehouse.WebApi.API.V1.TransactionController.TransactionController(MediatR.IMediator)ã
+WCreate(MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand)‡MyWarehouse.WebApi.API.V1.TransactionController.Create(MyWarehouse.Application.Transactions.CreateTransaction.CreateTransactionCommand)ç
+YGetList(MyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery)‰MyWarehouse.WebApi.API.V1.TransactionController.GetList(MyWarehouse.Application.Transactions.GetTransactionsList.GetTransactionListQuery)D
+Get(int)8MyWarehouse.WebApi.API.V1.TransactionController.Get(int)

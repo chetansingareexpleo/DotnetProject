@@ -1,0 +1,23 @@
+
+AMyWarehouse.Domain.Transactions.TransactionLine.TransactionLine()Z
+PC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Transactions\TransactionLine.cs ("1*ë
+1" ("ÅÂ
+ (:)
+%0#MyWarehouse.Domain.Products.Product"<MyWarehouse.Domain.Transactions.TransactionLine.Product.init*531
+/MyWarehouse.Domain.Transactions.TransactionLine*
+""2Product.initÃ
+À
+ (:1
+%1+MyWarehouse.Domain.Transactions.Transaction"@MyWarehouse.Domain.Transactions.TransactionLine.Transaction.init*531
+/MyWarehouse.Domain.Transactions.TransactionLine*
+""È
+Å
+ (28
+%22MyWarehouse.Domain.Common.ValueObjects.Money.Money">MyWarehouse.Domain.Transactions.TransactionLine.UnitPrice.init*531
+/MyWarehouse.Domain.Transactions.TransactionLine*
+""*
+0*.
+0" (""
+! ("
+implicit returnB31
+/MyWarehouse.Domain.Transactions.TransactionLine

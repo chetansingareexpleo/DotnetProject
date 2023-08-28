@@ -1,0 +1,21 @@
+
+üMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>.ExceptionLoggingBehavior(Microsoft.Extensions.Logging.ILogger<TRequest>)l
+bC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Behaviors\ExceptionLoggingBehavior.cs (#"1*
+1 (*
+0*∞
+0 (Û
+
+ (öX
+VMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*A?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"™
+ (ù*öX
+VMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*.
+2 ("
+ (
+implicit return:I
+$ (<=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>BZX
+VMyWarehouse.Application.Common.Behaviors.ExceptionLoggingBehavior<TRequest, TResponse>

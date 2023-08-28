@@ -1,0 +1,55 @@
+
+iMyWarehouse.Application.Common.Exceptions.EntityNotFoundException.EntityNotFoundException(string, object)l
+bC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Exceptions\EntityNotFoundException.cs (""1*
+1 (*
+0*è
+0 (9b
+`
+ (K
+%0string"__concat*
+ (
+
+Entity '*"
+ (%
+
+
+entityNamestringS
+Q
+ (K
+%1string"__concat*
+
+%0string*
+% (0
+' with ID 'X
+V
+ (K
+%2string"__concat*
+
+%1string* 
+0 (:
+
+entityIdobjectX
+V
+ (K
+%3string"__concat*
+
+%2string* 
+: (J
+' was not found.g
+e
+ (L
+
+%4void"#System.Exception.Exception(string?)*
+System.Exception*
+
+%3string*
+2*.
+2 ("
+ (
+implicit return: 
+# (4
+
+entityNamestring:
+6 (E
+entityIdobjectBEC
+AMyWarehouse.Application.Common.Exceptions.EntityNotFoundException

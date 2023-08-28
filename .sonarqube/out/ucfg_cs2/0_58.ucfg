@@ -1,0 +1,60 @@
+
+xMyWarehouse.Domain.Common.ValueObjects.Money.Money.Money(decimal, MyWarehouse.Domain.Common.ValueObjects.Money.Currency)]
+SC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Money\Money.cs ("1*
+1 (*
+0*
+0 (*
+2
+3*ƒ
+2 (_FD
+ (`
+%0System.ArgumentException"System.ArgumentException¦
+£
+" (3
+
+%1void"<System.ArgumentException.ArgumentException(string?, string?)*" 
+
+%0System.ArgumentException*
+Value cannot be negative.*
+""*
+4*ó
+3 (Û
+Ø
+ (
+
+%2bool"±MyWarehouse.Domain.Common.ValueObjects.Money.Currency.operator ==(MyWarehouse.Domain.Common.ValueObjects.Money.Currency?, MyWarehouse.Domain.Common.ValueObjects.Money.Currency?)*;9"7
+5MyWarehouse.Domain.Common.ValueObjects.Money.Currency*EC
+A
+currency5MyWarehouse.Domain.Common.ValueObjects.Money.Currency*
+""*
+5
+6*í
+5$ (NNL
+$ (O"
+%3System.ArgumentNullException"System.ArgumentNullExceptionˆ
+…
+( (=
+
+%4void";System.ArgumentNullException.ArgumentNullException(string?)*&$
+"
+%3System.ArgumentNullException*
+""*
+4*ò
+6 (.•
+’
+	 (
+%5decimal"=MyWarehouse.Domain.Common.ValueObjects.Money.Money.Amount.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.MoneyÅ
+Â
+ (;
+%65MyWarehouse.Domain.Common.ValueObjects.Money.Currency"?MyWarehouse.Domain.Common.ValueObjects.Money.Money.Currency.get*864
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money*
+4*.
+4 ("
+ (
+implicit return:
+ (
+amountdecimal:M
+! (2A
+currency5MyWarehouse.Domain.Common.ValueObjects.Money.CurrencyB64
+2MyWarehouse.Domain.Common.ValueObjects.Money.Money

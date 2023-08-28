@@ -1,0 +1,4 @@
+ì
+PMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQueryHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>ž
+dProductStockValueQueryHandler(MyWarehouse.Application.Dependencies.Services.IStockStatisticsService)µMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQueryHandler.ProductStockValueQueryHandler(MyWarehouse.Application.Dependencies.Services.IStockStatisticsService)À
+uHandle(MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery, System.Threading.CancellationToken)ÆMyWarehouse.Application.Products.ProductStockValue.ProductStockValueQueryHandler.Handle(MyWarehouse.Application.Products.ProductStockValue.ProductStockValueQuery, System.Threading.CancellationToken)

@@ -1,0 +1,4 @@
+ﬁ
+GMyWarehouse.Infrastructure.Authentication.Core.Services.JwtTokenServiceobjectEMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenServiceÅ
+ZJwtTokenService(MyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings)¢MyWarehouse.Infrastructure.Authentication.Core.Services.JwtTokenService.JwtTokenService(MyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings)ø
+yCreateAuthenticationToken(string, string, System.Collections.Generic.IEnumerable<(string claimType, string claimValue)>?)¡MyWarehouse.Infrastructure.Authentication.Core.Services.JwtTokenService.CreateAuthenticationToken(string, string, System.Collections.Generic.IEnumerable<(string claimType, string claimValue)>?)

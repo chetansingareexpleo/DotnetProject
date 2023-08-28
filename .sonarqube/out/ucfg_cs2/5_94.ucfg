@@ -1,0 +1,56 @@
+
+jMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService.GetProductStockCounts()}
+sC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\Services\StockStatisticsService.cs: (O"0*∞
+0 (0ê
+ç
+ ("I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext"__id*Ø¨*©T
+RMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService"Q
+
+_dbContextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext‚
+ﬂ
+ (+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"PMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext.Products.get*MK
+I
+%0CMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContextù
+ö
+ (
+%2System.Linq.IQueryable<T>"çSystem.Linq.Queryable.GroupBy<TSource, TKey>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TKey>>)*"
+System.Linq.Queryable*64
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""è
+å
+ (
+%3System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*#!
+
+%2System.Linq.IQueryable<T>*
+""Õ
+ 
+ (*
+%4$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SingleAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*FD"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*#!
+
+%3System.Linq.IQueryable<T>*
+""W
+U
+ (9
+res2<anonymous type: int productCount, int totalStock>"__id*
+""ú
+ô
+ ( 	
+%5int"C<anonymous type: int productCount, int totalStock>.productCount.get*=;
+9
+res2<anonymous type: int productCount, int totalStock>ö
+ó
+" (0	
+%6int"A<anonymous type: int productCount, int totalStock>.totalStock.get*=;
+9
+res2<anonymous type: int productCount, int totalStock>"
+ (2
+""*.
+1 ("
+ (
+implicit returnBVT
+RMyWarehouse.Infrastructure.ApplicationDependencies.Services.StockStatisticsService

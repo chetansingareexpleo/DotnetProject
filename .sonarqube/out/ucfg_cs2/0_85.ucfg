@@ -1,0 +1,29 @@
+
+TMyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.MassUnit(string, string, float)_
+UC:\Users\csingare\Desktop\MyWarehouse\src\Domain\Common\ValueObjects\Mass\MassUnit.cs	 	("1*
+1 (*
+0*î
+0 (R–
+“
+	 (
+%0string"=MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.Name.get*:86
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit˜
+•
+ (
+%1string"?MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.Symbol.get*:86
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit¥
+¢
+ (+
+%2float"MMyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit.ConversionRateToGram.get*:86
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit*
+2*.
+2 ("
+ (
+implicit return:
+	 	( 
+namestring:
+	" 	(/
+symbolstring:)
+	1 	(K
+conversionRateToGramfloatB86
+4MyWarehouse.Domain.Common.ValueObjects.Mass.MassUnit

@@ -1,0 +1,23 @@
+
+êMyWarehouse.Application.Common.Exceptions.InputValidationException.InputValidationException(params (string PropertyName, string ErrorMessage)[])m
+cC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Exceptions\InputValidationException.cs (#"1*
+1' ('*
+0*ˆ
+0 (%Ã
+…
+ (&
+
+%0void"®MyWarehouse.Application.Common.Exceptions.InputValidationException.SaveGroupedErrors(System.Collections.Generic.IEnumerable<(string PropertyName, string ErrorMessage)>)*HFD
+BMyWarehouse.Application.Common.Exceptions.InputValidationException*<:
+8
+failures,(string PropertyName, string ErrorMessage)[]"
+ (&
+
+
+%0void*.
+2' ('"
+& ('
+implicit return:D
+$ (`8
+failures,(string PropertyName, string ErrorMessage)[]BFD
+BMyWarehouse.Application.Common.Exceptions.InputValidationException

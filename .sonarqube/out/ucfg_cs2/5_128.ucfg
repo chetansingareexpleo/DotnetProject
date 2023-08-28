@@ -1,0 +1,41 @@
+
+äMyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute.IsValid(object?, System.ComponentModel.DataAnnotations.ValidationContext)k
+aC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Validation\RequiredIfAttribute.cs) (0"0*“
+0 ((∫
+∑
+ ()
+
+%0bool"éMyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute.IsValidationRequired(System.ComponentModel.DataAnnotations.ValidationContext)*FDB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute*FD
+B
+context7System.ComponentModel.DataAnnotations.ValidationContext*
+1
+2*ù
+12 (M¡æ
+2 (N<
+%16System.ComponentModel.DataAnnotations.ValidationResult"ÉSystem.ComponentModel.DataAnnotations.ValidationAttribute.IsValid(object?, System.ComponentModel.DataAnnotations.ValidationContext)*FDB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute*
+
+valueobject*FD
+B
+context7System.ComponentModel.DataAnnotations.ValidationContext2IIsValid(object?, System.ComponentModel.DataAnnotations.ValidationContext)"J
++ (O>
+<
+%16System.ComponentModel.DataAnnotations.ValidationResult*±
+2 ('’
+“
+ ('<
+%26System.ComponentModel.DataAnnotations.ValidationResult"__id*Å*}8
+6System.ComponentModel.DataAnnotations.ValidationResult"A
+Success6System.ComponentModel.DataAnnotations.ValidationResult"J
+ ((>
+<
+%26System.ComponentModel.DataAnnotations.ValidationResult*.
+3 ("
+ (
+implicit return:
+1 (>
+valueobject:N
+@ (YB
+context7System.ComponentModel.DataAnnotations.ValidationContextBDB
+@MyWarehouse.Infrastructure.Common.Validation.RequiredIfAttribute

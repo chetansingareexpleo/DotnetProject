@@ -1,0 +1,50 @@
+
+4MyWarehouse.WebApi.API.V1.PartnerController.Get(int)V
+LC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\API\V1\PartnerController.cs7 (:"2*À
+
+0 (I€
+~
+ (
+%0MediatR.IMediator"__id*SQ*O-
++MyWarehouse.WebApi.API.V1.PartnerController"
+	_mediatorMediatR.IMediator©¦
+# (KO
+%1IMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery"IMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryÒ
+Ï
+' (=
+
+%2void"bMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.GetPartnerDetailsQuery()*SQ
+O
+%1IMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQueryÉ
+Æ
+B (I	
+%3int"PMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery.Id.set*SQ
+O
+%1IMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery*
+""éæ
+ (L*
+%4$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*SQ
+O
+%1IMyWarehouse.Application.Partners.GetPartnerDetails.GetPartnerDetailsQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)·´
+ (M-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult"3Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object?)*-+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2Ok(object?)";
+ (M/
+-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult*.
+1N (N"
+M (N
+implicit return*>
+2B (B*
+(
+7 (:
+%6"__entrypoint*
+""*
+0:
+; (A	
+idintB/-
++MyWarehouse.WebApi.API.V1.PartnerController

@@ -1,0 +1,70 @@
+
+¿MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter.HandleCannotAuthenticateExternal(MyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationPreventedException)j
+`C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\ErrorHandling\Filters\ExceptionMappingFilter.cs! (A"0*Å
+0  '(_db
+  %(	-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails"'Microsoft.AspNetCore.Mvc.ProblemDetailsÜ
+É
+   ((
+
+%1void"8Microsoft.AspNetCore.Mvc.ProblemDetails.ProblemDetails()*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails"
+ 
+" "(<
+%2"__id*
+""ò
+ï
+" "(<
+%3System.Nullable<T>"2Microsoft.AspNetCore.Mvc.ProblemDetails.Status.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*
+
+%2Ó
+Î
+# #({
+%4string"1Microsoft.AspNetCore.Mvc.ProblemDetails.Title.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*kig
+eExternal authentication was prevented. Authentication provider might be unavailable. Try again later.π
+∂
+$ $(F
+%5string"0Microsoft.AspNetCore.Mvc.ProblemDetails.Type.set*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails*753
+1https://tools.ietf.org/html/rfc7231#section-6.6.4y
+w
+  %(	2
+details'Microsoft.AspNetCore.Mvc.ProblemDetails"__id*1/
+-
+%0'Microsoft.AspNetCore.Mvc.ProblemDetails`^
+' '(a+
+%6%Microsoft.AspNetCore.Mvc.ObjectResult"%Microsoft.AspNetCore.Mvc.ObjectResultø
+º
+' '(
+
+%7void";Microsoft.AspNetCore.Mvc.ObjectResult.ObjectResult(object?)*/-
++
+%6%Microsoft.AspNetCore.Mvc.ObjectResult*64
+2
+details'Microsoft.AspNetCore.Mvc.ProblemDetails"
+ 
+'8 '(_
+%8"__id*
+""ò
+ï
+'+ '(_
+%9System.Nullable<T>"4Microsoft.AspNetCore.Mvc.ObjectResult.StatusCode.set*/-
++
+%6%Microsoft.AspNetCore.Mvc.ObjectResult*
+
+%8"9
+' '(b-
++
+%6%Microsoft.AspNetCore.Mvc.ObjectResult*.
+1( (("
+( ((
+implicit return:w
+B (lk
+efMyWarehouse.Infrastructure.Authentication.External.Exceptions.ExternalAuthenticationPreventedExceptionB;"9
+7MyWarehouse.WebApi.ErrorHandling.ExceptionMappingFilter

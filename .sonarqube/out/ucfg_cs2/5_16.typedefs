@@ -1,0 +1,8 @@
+¾
+
+^MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEFkMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>objectVMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository¼
+lPartnerRepositoryEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)ËMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.PartnerRepositoryEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)º
++Remove(MyWarehouse.Domain.Partners.Partner)ŠMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.Remove(MyWarehouse.Domain.Partners.Partner)”
+XRemoveRange(System.Collections.Generic.IEnumerable<MyWarehouse.Domain.Partners.Partner>)·MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.RemoveRange(System.Collections.Generic.IEnumerable<MyWarehouse.Domain.Partners.Partner>)}
+BaseQuery.getlMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.BaseQuery.get}
+BaseQuery.setlMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.BaseQuery.set

@@ -1,0 +1,24 @@
+
+ËMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.PartnerRepositoryEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)‰
+C:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\PartnerRepositoryEF.cs ("1*
+1 (*
+0*ï
+0M (cÚ
+×
+M (d
+
+%0void"ÕMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.RepositoryBaseEF(MyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext, AutoMapper.IMapper)*qom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>*RP
+N
+contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext* 
+
+mapperAutoMapper.IMapper*
+2*.
+2 ("
+ (
+implicit return:Z
+ (;N
+contextCMyWarehouse.Infrastructure.Persistence.Context.ApplicationDbContext:(
+= (K
+mapperAutoMapper.IMapperBb`
+^MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF

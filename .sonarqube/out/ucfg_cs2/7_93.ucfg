@@ -1,0 +1,25 @@
+
+hMyWarehouse.WebApi.Logging.LoggingStartup.AddMySerilogLogging(Microsoft.Extensions.Hosting.IHostBuilder)T
+JC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Logging\LoggingStartup.cs (2"0*Ú
+0 )(	‹
+ˆ
+ )(
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"ÃSerilog.SerilogHostBuilderExtensions.UseSerilog(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Serilog.LoggerConfiguration>, bool, bool)**("&
+$Serilog.SerilogHostBuilderExtensions*;9
+7
+
+webBuilder)Microsoft.Extensions.Hosting.IHostBuilder*
+""*
+""*
+"""=
+ )(1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*.
+1* *("
+* *(
+implicit return:C
+3 (O7
+
+webBuilder)Microsoft.Extensions.Hosting.IHostBuilderB-"+
+)MyWarehouse.WebApi.Logging.LoggingStartup

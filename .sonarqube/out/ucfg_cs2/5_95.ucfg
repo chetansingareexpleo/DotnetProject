@@ -1,0 +1,31 @@
+
+bMyWarehouse.Infrastructure.QueryableExtensions.ApplyPaging<T>(System.Linq.IQueryable<T>, int, int)k
+aC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Common\Extensions\QueryableExtensions.cs+  +(+"0*Ï
+0, .(È
+Å
+, -(-
+%0System.Linq.IQueryable<T>"ISystem.Linq.Queryable.Skip<TSource>(System.Linq.IQueryable<TSource>, int)*"
+System.Linq.Queryable*&$
+"
+querySystem.Linq.IQueryable<T>*
+""Å
+Â
+, .(
+%1System.Linq.IQueryable<T>"ISystem.Linq.Queryable.Take<TSource>(System.Linq.IQueryable<TSource>, int)*"
+System.Linq.Queryable*#!
+
+%0System.Linq.IQueryable<T>*
+"""-
+, .(!
+
+%1System.Linq.IQueryable<T>*.
+1. .("
+. .(
+implicit return:.
++/ +(G"
+querySystem.Linq.IQueryable<T>:
++I +(U
+pageSizeint:
++W +(d
+	pageIndexintB2"0
+.MyWarehouse.Infrastructure.QueryableExtensions

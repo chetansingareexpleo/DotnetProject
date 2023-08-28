@@ -1,0 +1,14 @@
+ù
+GMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQueryobjectMediatR.IRequest<TResponse>System.IEquatable<T>`
+
+ToString()RMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.ToString()ö
+'PrintMembers(System.Text.StringBuilder)oMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.PrintMembers(System.Text.StringBuilder)f
+GetHashCode()UMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.GetHashCode()j
+Equals(object?)WMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.Equals(object?)Ì
+PEquals(MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery?)òMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.Equals(MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery?)`
+
+<Clone>$()RMyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.<Clone>$()â
+^ProductStockMassQuery(MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery)¶MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.ProductStockMassQuery(MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery)z
+ProductStockMassQuery()_MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.ProductStockMassQuery()t
+EqualityContract.get\MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.EqualityContract.gett
+EqualityContract.set\MyWarehouse.Application.Products.ProductStockMass.ProductStockMassQuery.EqualityContract.set

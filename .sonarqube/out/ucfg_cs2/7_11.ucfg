@@ -1,0 +1,91 @@
+
+€MyWarehouse.WebApi.Authentication.Services.CurrentUserService.CurrentUserService(Microsoft.AspNetCore.Http.IHttpContextAccessor)h
+^C:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Authentication\Services\CurrentUserService.cs ("1*
+1 (*
+0*÷
+0 (3ÖÓ
+ (++
+%0%Microsoft.AspNetCore.Http.HttpContext">Microsoft.AspNetCore.Http.IHttpContextAccessor.HttpContext.get*IG
+E
+httpContextAccessor.Microsoft.AspNetCore.Http.IHttpContextAccessor2HttpContext.get†
+ƒ
+ (3
+
+%1bool""object.operator ==(object, object)*
+"
+object*/-
++
+%0%Microsoft.AspNetCore.Http.HttpContext*
+""*
+2
+3*í
+2 (*"
+ 
+ (*
+%2"__id*
+""´
+±
+ (*
+%3string"HMyWarehouse.WebApi.Authentication.Services.CurrentUserService.UserId.set*CA?
+=MyWarehouse.WebApi.Authentication.Services.CurrentUserService*
+
+%2*
+4*—
+3 (9ÖÓ
+ (4+
+%4%Microsoft.AspNetCore.Http.HttpContext">Microsoft.AspNetCore.Http.IHttpContextAccessor.HttpContext.get*IG
+E
+httpContextAccessor.Microsoft.AspNetCore.Http.IHttpContextAccessor2HttpContext.get¦£
+ (9,
+%5&System.Security.Claims.ClaimsPrincipal".Microsoft.AspNetCore.Http.HttpContext.User.get*/-
++
+%4%Microsoft.AspNetCore.Http.HttpContext2User.get*
+5
+6*­
+6: (l"
+ 
+J (l
+%6"__id*
+""ô
+ñ
+: (m
+%7string"iSystem.Security.Claims.PrincipalExtensions.FindFirstValue(System.Security.Claims.ClaimsPrincipal, string)*0.",
+*System.Security.Claims.PrincipalExtensions*0.
+,
+%5&System.Security.Claims.ClaimsPrincipal*
+
+%6*
+5*
+5 (*
+7
+8*š
+7 (%#
+!
+ (%
+%11"__id*
+"",
+*
+ (%
+%10string"__id*	
+
+%113
+1
+ (%
+%8string"__id*
+
+%10string*
+8*Ò
+8 (%½
+º
+ (%
+%12string"HMyWarehouse.WebApi.Authentication.Services.CurrentUserService.UserId.set*CA?
+=MyWarehouse.WebApi.Authentication.Services.CurrentUserService*
+
+%8string*
+4*.
+4 ("
+ (
+implicit return:Q
+ (FE
+httpContextAccessor.Microsoft.AspNetCore.Http.IHttpContextAccessorBA?
+=MyWarehouse.WebApi.Authentication.Services.CurrentUserService

@@ -1,0 +1,24 @@
+
+xMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>.Add(TEntity)å
+ÅC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\Common\RepositoryBase.csS S("0*Õ
+0T T(ı
+Ú
+T T(2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*´®*•m
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>"4
+_set,Microsoft.EntityFrameworkCore.DbSet<TEntity>ÓÎ
+T T(G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*64
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+entityTEntity2Add(TEntity)"U
+T T(I
+G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*.
+1T T("
+T T(
+implicit return:
+S S(*
+entityTEntityBom
+kMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.Common.RepositoryBaseEF<TEntity>

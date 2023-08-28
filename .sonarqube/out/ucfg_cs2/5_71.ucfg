@@ -1,0 +1,32 @@
+
+ÙMyWarehouse.Infrastructure.Authentication.Startup.ConfigureLocalJwtAuthentication(Microsoft.Extensions.DependencyInjection.IServiceCollection, MyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings)\
+RC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\Startup.cs) )(7"0*¸
+0, V(z
+x
+, ,(?\9
+7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler"
+DefaultMapInboundClaimsbool"__id*
+""í
+ê
+. 4(?
+%09Microsoft.AspNetCore.Authentication.AuthenticationBuilder"ëMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions.AddAuthentication(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Authentication.AuthenticationOptions>)*XV"T
+RMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""·
+´
+. V(?
+%19Microsoft.AspNetCore.Authentication.AuthenticationBuilder"ÓMicrosoft.Extensions.DependencyInjection.JwtBearerExtensions.AddJwtBearer(Microsoft.AspNetCore.Authentication.AuthenticationBuilder, System.Action<Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerOptions>)*B@">
+<Microsoft.Extensions.DependencyInjection.JwtBearerExtensions*CA
+?
+%09Microsoft.AspNetCore.Authentication.AuthenticationBuilder*
+""*
+1*.
+1W W("
+W W(
+implicit return:S
+)8 )(SG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:e
+)U )(xY
+authSettingsIMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettingsB5"3
+1MyWarehouse.Infrastructure.Authentication.Startup

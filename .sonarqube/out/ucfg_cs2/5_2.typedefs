@@ -1,0 +1,24 @@
+æ
+?MyWarehouse.Infrastructure.Authentication.Core.Model.SignInDataobjectSystem.IEquatable<T>X
+
+ToString()JMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.ToString()’
+'PrintMembers(System.Text.StringBuilder)gMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.PrintMembers(System.Text.StringBuilder)^
+GetHashCode()MMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.GetHashCode()b
+Equals(object?)OMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Equals(object?)Õ
+HEquals(MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData?)ˆMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Equals(MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData?)X
+
+<Clone>$()JMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.<Clone>$()Û
+KSignInData(MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData)‹MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.SignInData(MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData)\
+SignInData()LMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.SignInData()l
+EqualityContract.getTMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.EqualityContract.getl
+EqualityContract.setTMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.EqualityContract.setV
+	Token.getIMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Token.getV
+	Token.setIMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Token.set\
+Username.getLMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Username.get\
+Username.setLMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Username.setV
+	Email.getIMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Email.getV
+	Email.setIMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Email.setj
+IsExternalLogin.getSMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.IsExternalLogin.getj
+IsExternalLogin.setSMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.IsExternalLogin.setˆ
+"ExternalAuthenticationProvider.getbMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.ExternalAuthenticationProvider.getˆ
+"ExternalAuthenticationProvider.setbMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.ExternalAuthenticationProvider.set

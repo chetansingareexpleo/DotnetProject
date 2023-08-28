@@ -1,0 +1,66 @@
+
+ÑMyWarehouse.Application.ApplicationStartup.AddMyApplicationDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection)U
+KC:\Users\csingare\Desktop\MyWarehouse\src\Application\ApplicationStartup.cs	 	(3"0*®
+0 (`Ñ
+Å
+ (> 
+%0System.Reflection.Assembly"1System.Reflection.Assembly.GetExecutingAssembly()* "
+System.Reflection.Assembly∆
+√
+ (?A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"¥Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAutoMapper(Microsoft.Extensions.DependencyInjection.IServiceCollection, params System.Reflection.Assembly[])*JH"F
+DMicrosoft.Extensions.DependencyInjection.ServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*$"
+ 
+%0System.Reflection.AssemblyÑ
+Å
++ (J 
+%2System.Reflection.Assembly"1System.Reflection.Assembly.GetExecutingAssembly()* "
+System.Reflection.Assemblyø
+º
+ (KA
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"ßFluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssembly(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Reflection.Assembly, Microsoft.Extensions.DependencyInjection.ServiceLifetime, System.Func<FluentValidation.AssemblyScanner.AssemblyScanResult, bool>, bool)*20".
+,FluentValidation.ServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*$"
+ 
+%2System.Reflection.Assembly*
+""*
+""*
+""Ñ
+Å
+ (; 
+%4System.Reflection.Assembly"1System.Reflection.Assembly.GetExecutingAssembly()* "
+System.Reflection.AssemblyÅ
+˛
+ (<A
+%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"êMediatR.ServiceCollectionExtensions.AddMediatR(Microsoft.Extensions.DependencyInjection.IServiceCollection, params System.Reflection.Assembly[])*)'"%
+#MediatR.ServiceCollectionExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*$"
+ 
+%4System.Reflection.Assembly∂
+≥
+ (`A
+%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"ØMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Type, System.Type)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+""∂
+≥
+ (aA
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"ØMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Type, System.Type)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+""*
+1*.
+1 ("
+ (
+implicit return:S
+	4 	(TG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB.",
+*MyWarehouse.Application.ApplicationStartup

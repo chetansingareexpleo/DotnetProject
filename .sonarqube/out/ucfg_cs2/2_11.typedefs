@@ -1,0 +1,4 @@
+¹
+JMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandHandlerobject!MediatR.IRequestHandler<TRequest>Ž
+_DeletePartnerCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)ªMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandHandler.DeletePartnerCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)®
+oHandle(MyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand, System.Threading.CancellationToken)ºMyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommandHandler.Handle(MyWarehouse.Application.Partners.DeletePartner.DeletePartnerCommand, System.Threading.CancellationToken)

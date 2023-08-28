@@ -1,0 +1,28 @@
+
+QMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.LoginResponseDto()b
+XC:\Users\csingare\Desktop\MyWarehouse\src\WebApi\Authentication\Dtos\LoginResponseDto.cs ("0*¡
+0$ $(¼
+¹
+ (5
+%0string"OMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.AccessToken.init*DB@
+>MyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto*
+""¾
+»
+ (6
+%1string"MMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.TokenType.init*DB@
+>MyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto*
+
+Bearer¹
+¶
+ (2
+%2string"LMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.Username.init*DB@
+>MyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto*
+""¶
+³
+ (/
+%3string"IMyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto.Email.init*DB@
+>MyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto*
+"""
+ $(
+implicit returnBB@
+>MyWarehouse.WebApi.Authentication.Models.Dtos.LoginResponseDto

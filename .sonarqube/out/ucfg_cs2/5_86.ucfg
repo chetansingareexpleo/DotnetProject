@@ -1,0 +1,181 @@
+
+ZMyWarehouse.Infrastructure.Authentication.Core.Services.UserService.SignIn(string, string)n
+dC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\Authentication\Core\Services\UserService.csA (G"0*Ë
+0 (›
+⁄
+ (%6
+%00Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*èå*âE
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserService"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>Ì
+ (?*
+%1$System.Threading.Tasks.Task<TResult>"HMicrosoft.AspNetCore.Identity.UserManager<TUser>.FindByNameAsync(string)*:8
+6
+%00Microsoft.AspNetCore.Identity.UserManager<TUser>*
+
+usernamestring2FindByNameAsync(string)_
+]
+ (?A
+user9MyWarehouse.Infrastructure.Identity.Model.ApplicationUser"__id*
+""ú
+ô
+ (
+
+%2bool""object.operator ==(object, object)*
+"
+object*EC
+A
+user9MyWarehouse.Infrastructure.Identity.Model.ApplicationUser*
+""*
+1
+2*E
+1 (/"
+ 
+ ()
+%3"__id*
+"""
+ (1
+""*”
+2 !(„
+‡
+ ()8
+%42Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*ìê*çE
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserService"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>ÒÓ
+ (X*
+%5$System.Threading.Tasks.Task<TResult>"`Microsoft.AspNetCore.Identity.SignInManager<TUser>.CheckPasswordSignInAsync(TUser, string, bool)*<:
+8
+%42Microsoft.AspNetCore.Identity.SignInManager<TUser>*EC
+A
+user9MyWarehouse.Infrastructure.Identity.Model.ApplicationUser*
+
+passwordstring*
+""2-CheckPasswordSignInAsync(TUser, string, bool)R
+P
+ (X4
+result*Microsoft.AspNetCore.Identity.SignInResult"__id*
+""ç
+ä
+! !(
+
+%6bool"8Microsoft.AspNetCore.Identity.SignInResult.Succeeded.get*86
+4
+result*Microsoft.AspNetCore.Identity.SignInResult*
+3
+4*ß
+3# #("è
+å
+# #("
+
+%7bool":Microsoft.AspNetCore.Identity.SignInResult.IsLockedOut.get*86
+4
+result*Microsoft.AspNetCore.Identity.SignInResult*
+5
+6*E
+5$ $(6"
+ 
+$ $(0
+%8"__id*
+"""
+$ $(8
+""*®
+6% %(#ê
+ç
+% %(#
+
+%9bool";Microsoft.AspNetCore.Identity.SignInResult.IsNotAllowed.get*86
+4
+result*Microsoft.AspNetCore.Identity.SignInResult*
+7
+8*F
+7& &(7#
+!
+& &(1
+%10"__id*
+"""
+& &(9
+""* 
+8' '(C75
+' '(D
+%11System.Exception"System.Exception}
+{
+' '(&
+%12void"#System.Exception.Exception(string?)*
+
+%11System.Exception* 
+Unhandled sign-in outcome.*
+9*∆
+4* 2(â
+Ü
+* *(!L
+%13EMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService"__id*•¢*üE
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserService"V
+_tokenServiceEMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService§°
+*< *(C
+%14string"7Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Id.get*EC
+A
+user9MyWarehouse.Infrastructure.Identity.Model.ApplicationUser2Id.getôñ
+* *(NF
+%15?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel"øMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService.CreateAuthenticationToken(string, string, System.Collections.Generic.IEnumerable<(string claimType, string claimValue)>?)*PN
+L
+%13EMyWarehouse.Infrastructure.Authentication.Core.Services.ITokenService*
+
+%14string*
+
+usernamestring*
+""2yCreateAuthenticationToken(string, string, System.Collections.Generic.IEnumerable<(string claimType, string claimValue)>?)©
+¶
+* *(NH
+token?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel"__id*JH
+F
+%15?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel#
+!
+- -("
+%16"__id*
+""ñì
+. 3(F
+%17?MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData"?MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData¥
+±
+. .( 
+%18void"LMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.SignInData()*JH
+F
+%17?MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData∞≠
+0 0((
+%19string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.get*EC
+A
+user9MyWarehouse.Infrastructure.Identity.Model.ApplicationUser2UserName.get 
+«
+0 0((
+%20string"MMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Username.init*JH
+F
+%17?MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData*
+
+%19string™ß
+1 1("
+%21string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.get*EC
+A
+user9MyWarehouse.Infrastructure.Identity.Model.ApplicationUser2	Email.get«
+ƒ
+1 1("
+%22string"JMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Email.init*JH
+F
+%17?MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData*
+
+%21stringª
+∏
+2 2(F
+%23?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel"JMyWarehouse.Infrastructure.Authentication.Core.Model.SignInData.Token.init*JH
+F
+%17?MyWarehouse.Infrastructure.Authentication.Core.Model.SignInData*LJ
+H
+token?MyWarehouse.Infrastructure.Authentication.Core.Model.TokenModel"
+, 4(
+
+""*.
+95 5("
+5 5(
+implicit return:
+H (W
+usernamestring:
+Y (h
+passwordstringBGE
+CMyWarehouse.Infrastructure.Authentication.Core.Services.UserService

@@ -1,0 +1,21 @@
+
+`MyWarehouse.Application.Partners.GetPartnerDetails.PartnerDetailsDto.Mapping(AutoMapper.Profile)o
+eC:\Users\csingare\Desktop\MyWarehouse\src\Application\Partners\GetPartnerDetails\PartnerDetailsDto.cs ("0*Þ
+0 (0£
+ 
+ (7:
+%04AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*!
+
+profileAutoMapper.Profile£
+ 
+ (0:
+%14AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*!
+
+profileAutoMapper.Profile*
+1*.
+1 ("
+ (
+implicit return:)
+ ('
+profileAutoMapper.ProfileBHF
+DMyWarehouse.Application.Partners.GetPartnerDetails.PartnerDetailsDto

@@ -1,0 +1,31 @@
+
+€MyWarehouse.Infrastructure.InfrastructureStartup.UseMyInfrastructure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)[
+QC:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\InfrastructureStartup.cs" "(*"0*ä
+0$ %(8˛
+˚
+$ $(-
+
+%0void"mMyWarehouse.Infrastructure.Authentication.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder)*75"3
+1MyWarehouse.Infrastructure.Authentication.Startup*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderÙ
+Ò
+% %(9
+
+%1void"ùMyWarehouse.Infrastructure.Persistence.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.Extensions.Configuration.IConfiguration)*42"0
+.MyWarehouse.Infrastructure.Persistence.Startup*;9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*FD
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+1*.
+1& &("
+& &(
+implicit return:C
+"+ "(G7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:N
+"I "(eB
+configuration1Microsoft.Extensions.Configuration.IConfiguration:C
+"g "(~7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB4"2
+0MyWarehouse.Infrastructure.InfrastructureStartup

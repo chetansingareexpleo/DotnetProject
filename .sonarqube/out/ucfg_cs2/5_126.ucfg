@@ -1,0 +1,33 @@
+
+·MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.RemoveRange(System.Collections.Generic.IEnumerable<MyWarehouse.Domain.Partners.Partner>)‰
+C:\Users\csingare\Desktop\MyWarehouse\src\Infrastructure\ApplicationDependencies\DataAccess\Repositories\PartnerRepositoryEF.cs ($"0*ò
+0 (*¤
+¡
+ (
+%0	__unknown"7System.Collections.Generic.ICollection<T>.this[int].get*A?
+=
+entitiesToDelete)System.Collections.Generic.IEnumerable<T>*
+""7
+5
+ (
+e	__unknown"__id*
+
+%0	__unknown*
+1*
+1 (*
+2
+3*ü
+2 (çä
+ (
+
+%1void"ŠMyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF.Remove(MyWarehouse.Domain.Partners.Partner)*db`
+^MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF*,*
+(
+e#MyWarehouse.Domain.Partners.Partner2+Remove(MyWarehouse.Domain.Partners.Partner)*
+1*.
+3 ("
+ (
+implicit return:I
+% (J=
+entitiesToDelete)System.Collections.Generic.IEnumerable<T>Bb`
+^MyWarehouse.Infrastructure.ApplicationDependencies.DataAccess.Repositories.PartnerRepositoryEF

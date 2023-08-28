@@ -1,0 +1,8 @@
+é
++MyWarehouse.WebApi.API.V1.PartnerController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectx
+$PartnerController(MediatR.IMediator)PMyWarehouse.WebApi.API.V1.PartnerController.PartnerController(MediatR.IMediator)Æ
+KCreate(MyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand)wMyWarehouse.WebApi.API.V1.PartnerController.Create(MyWarehouse.Application.Partners.CreatePartner.CreatePartnerCommand)è
+›GetList(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<MyWarehouse.Application.Partners.GetPartners.PartnerDto>)ÇMyWarehouse.WebApi.API.V1.PartnerController.GetList(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<MyWarehouse.Application.Partners.GetPartners.PartnerDto>)@
+Get(int)4MyWarehouse.WebApi.API.V1.PartnerController.Get(int)F
+Delete(int)7MyWarehouse.WebApi.API.V1.PartnerController.Delete(int)Ð
+PUpdate(int, MyWarehouse.Application.Partners.UpdatePartner.UpdatePartnerCommand)|MyWarehouse.WebApi.API.V1.PartnerController.Update(int, MyWarehouse.Application.Partners.UpdatePartner.UpdatePartnerCommand)

@@ -1,0 +1,4 @@
+¹
+JMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandHandlerobject!MediatR.IRequestHandler<TRequest>Ž
+_UpdateProductCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)ªMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandHandler.UpdateProductCommandHandler(MyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork)®
+oHandle(MyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand, System.Threading.CancellationToken)ºMyWarehouse.Application.Products.UpdateProduct.UpdateProductCommandHandler.Handle(MyWarehouse.Application.Products.UpdateProduct.UpdateProductCommand, System.Threading.CancellationToken)

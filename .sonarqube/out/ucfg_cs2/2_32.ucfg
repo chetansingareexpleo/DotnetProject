@@ -1,0 +1,26 @@
+
+TMyWarehouse.Application.Common.Mapping.IMapFrom<TEntity>.Mapping(AutoMapper.Profile)Z
+PC:\Users\csingare\Desktop\MyWarehouse\src\Application\Common\Mapping\IMapFrom.cs	 ("0*²
+0% (Q?
+=
+H (Q
+%0System.Type"object.GetType()*
+
+object®
+«
+% (R#
+%1AutoMapper.IMappingExpression"6AutoMapper.Profile.CreateMap(System.Type, System.Type)*!
+
+profileAutoMapper.Profile*
+""*
+
+%0System.Type"1
+% (R%
+#
+%1AutoMapper.IMappingExpression*.
+1S (S"
+R (S
+implicit return:)
+ ( 
+profileAutoMapper.ProfileB<:
+8MyWarehouse.Application.Common.Mapping.IMapFrom<TEntity>

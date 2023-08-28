@@ -1,0 +1,33 @@
+
+‡MyWarehouse.Application.Partners.GetPartners.GetPartnersListQueryHandler.Handle(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<MyWarehouse.Application.Partners.GetPartners.PartnerDto>, System.Threading.CancellationToken)p
+fC:\Users\csingare\Desktop\MyWarehouse\src\Application\Partners\GetPartnersList\GetPartnersListQuery.cs0 (6"0*ø
+
+0 (M…
+‚
+ (H
+%0BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork"__id*¥¢*ŸJ
+HMyWarehouse.Application.Partners.GetPartners.GetPartnersListQueryHandler"Q
+_unitOfWorkBMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork˜•
+ (\
+%1VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository"OMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork.Partners.get*LJ
+H
+%0BMyWarehouse.Application.Common.Dependencies.DataAccess.IUnitOfWork2Partners.get‹ˆ
+ (N*
+%2$System.Threading.Tasks.Task<TResult>"£MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.IRepository<TEntity>.GetProjectedListAsync<TDto>(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>, System.Linq.Expressions.Expression<System.Func<TEntity, bool>>?, bool)*`^
+\
+%1VMyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.IPartnerRepository*nl
+j
+request_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>*
+""*
+""2ÃGetProjectedListAsync<TDto>(MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>, System.Linq.Expressions.Expression<System.Func<TEntity, bool>>?, bool)"8
+ (N,
+*
+%2$System.Threading.Tasks.Task<TResult>*.
+1O (O"
+N (O
+implicit return:v
+7 (Yj
+request_MyWarehouse.Application.Common.Dependencies.DataAccess.Repositories.Common.ListQueryModel<TDto>:C
+[ (~7
+cancellationToken"System.Threading.CancellationTokenBLJ
+HMyWarehouse.Application.Partners.GetPartners.GetPartnersListQueryHandler

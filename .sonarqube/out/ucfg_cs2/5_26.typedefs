@@ -1,0 +1,14 @@
+í
+
+IMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettingsobject~
+AuthenticationSettings()bMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.AuthenticationSettings()h
+JwtIssuer.getWMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.JwtIssuer.geth
+JwtIssuer.setWMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.JwtIssuer.setl
+JwtAudience.getYMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.JwtAudience.getl
+JwtAudience.setYMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.JwtAudience.set|
+JwtSigningKeyBase64.getaMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.JwtSigningKeyBase64.get|
+JwtSigningKeyBase64.setaMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.JwtSigningKeyBase64.setp
+JwtSigningKey.get[MyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.JwtSigningKey.getp
+JwtSigningKey.set[MyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.JwtSigningKey.set‚
+TokenExpirationSeconds.getdMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.TokenExpirationSeconds.get‚
+TokenExpirationSeconds.setdMyWarehouse.Infrastructure.Authentication.Settings.AuthenticationSettings.TokenExpirationSeconds.set
